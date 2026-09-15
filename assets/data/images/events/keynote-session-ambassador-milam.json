@@ -1,0 +1,561 @@
+{
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-01.webp": {
+    "w": 1600,
+    "h": 1200,
+    "lqip": "data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAADwBQCdASoYABIAPu1ur1IppiQiqAgBMB2JYwCxB1/lAA3wVv0cIBJGWLWsukf76rEya7WH2ze3gAD+dRki4WOlwP09+Ao1f3IE+3cGiiTNEQjHe98rmpPD2fKtra1Y69aDBZ5xFwnee4idngqK68h7WXHsOBAt47cge1Gs3ru/iV1qfkD7vJI9zNNL6OBHPIs7O85QERT44NnL5Dw2P6kxU21qcW7sT1Sc4iCXjSXfvo/ky4szX7d/VadvX7/+9zmjvbOBW/EN9u3E0HZhcGvCALbR5uBDu+LLupO/JznNcXzjQ56lRlb7YC3A8wAA",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-01-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-01-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-01-1440.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-02.webp": {
+    "w": 1600,
+    "h": 1200,
+    "lqip": "data:image/webp;base64,UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASoYABIAPu1ur1IppiQiqAgBMB2JYwDDNfpXj7hw1NJsGYZT/vfHz0mAJxcYsqmwensgAM3rOozQVcnJQEedCsQ44Cl4teVl6Nl3iOiHzO9pc6LkoXqjJOlxvI/AXbk4/dytnCRMgeZLz+k64W+JSqrQ6atKMgjCIS40kAYnYY0OgCsEJAm/LCNEwMqiPUt2JZP6K0ogj2oUg9z09A6/4GsIu3skoCGrYAkuqVfN5mER5nlx4B4213ikzHfTo5PetpYmdFMp9BPInlT9My48XubZqUrS6amfcwwfnQots4un/sMAAAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-02-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-02-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-02-1440.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-03.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAABwBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbAC7MoFWAc9h7HlcAUIIS4Fcq1p14xO2zfcAAP7Smg+4o/71tOa6ya+ODpnAy+IXkUKUb60rePHOyyQvEPcAaPBjcdoZPpWCZtHiv0NwRnoU5S3nIbUviR2TrSeAFrga1HC+ZYVgL14rIu6mzdvmeCNv/u8mDne7iIi/3DaefFo4Ws86bB+zjcWca0Y6X8PGLfuA01DGIs8vP+s9xCqb2sLlktk/MNXWJDa32ergd9Z9eCqmyKJeAAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-03-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-03-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-03-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-03-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-04.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdEft2SAV4HvAMLn3yyUCzcgfATsgA/t30cTOr3LxVActvYHzPulEB7Thwb3gOCUMT40tjlub9cnWPVFK0ZwdFg149LGS9bXIo+Ncy4gvobiSoQ2ppAnKntTHzkPIJ9YZLH/M4LM/eIttmHcSFewhUax/Spuorv4/9VVgnf52aaskrILeFwC8U7bkTiInj/KmiNqsjSdjO+alEs466OGn0TRgpRmAAAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-04-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-04-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-04-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-04-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-07.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdL1yagJnAFVSMofz0peQAAP7kJ6EM1uUPYIK9Ea3tE0rFbroQAeEHt7zndPb3X16Vx1wibd4L7LeU37v1F5bzHMx3/Ht2MNzJ1Mj/P3P+uWGzJSsnUJ/OU0JRWzr+Zzy2v02zpCNGu/Z5vl9IHVijf0vW5Z6SAuAUyWRWlAV00XOdUB80Vb7bip+EvzdvJfUuy8D2P/HBwdE9q/7UGPYU6NYhAl0pdSTtczcIbS9RAAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-07-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-07-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-07-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-07-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-05.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdEft2SA+AM9AcH/tvBMmzwLsugAD+3LwFQ1/AisGiBxeFzTZ8R3S1brpOznDI4ge15XW2y526Sck+sksZu57kL80fTVGo3EPLWhndnmM0qLbFQhtTSBOVPamPn9UxwhjaP/5HimYhfqqmyB3nS31jzH2pitlAOSFiZe+PW+GtDvIsHWr2cKRJT2EUZCJGvWnEROBTzOfyPIvwINM2+alHPNsI9zifRNGClGYAAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-05-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-05-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-05-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-05-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-06.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdACDovlqw3jB3zW+MiAD+6fej9X/tQB/0X9IOx9TWZuuKsdMHmc1w/EtUItStkiw1ldq5r37FHthXvfSm7heQFM1guFXioAvUzWy0KJRsa7tDc+7FB+y6xzvtkkCfXd48tB6xTFYZbjCzMGu8q5occvmIZ5yze5zgClH7Ce6u3KPmZNce3rJmOUkXLGPvK36Z7vzt8Bvuj3gAAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-06-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-06-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-06-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-06-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-08.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACw7YwwwO1Vvmy/UagBXGroAP7ln6VBZ8DQ2ftirnouuvyHZ68zH2+0Fv83vZU+5R+XFJjnd7XkrP8tbiL231ud8P71JHjs+AhszLodH35nvw8Tm8jnEdsthP8ML9g7GTn5W2iW2cj7d9H9YqclAV1kcObfqkb4lKQnIFFb1wbGflVuS+QrzspOIhXII+Kt4GkMgAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-08-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-08-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-08-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-08-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-09.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAAAwBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdEf/2S0V4HtvLAbXZFV6gov0lUGpMgAD+eRZwyk717wxxF3rLXtJaToe3zv6Q/au6ZxVAjwiSGeSfqdXF0kW+BBI0gg5PQfbOOmDX8wR7K5TME7uWuO7iVKlp4BPxnIqxlENSPcqLgmmfvFkPJlpi1g40oqzCCqzEPLb7u1FJPvGzAzLENSsb9LUpyn+I6WWoag3NPG/7LkxbCSFXB+m7VfPM5DfK1oxP2ujIZ2iUa8IiZ+zmYhvDDyJwAAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-09-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-09-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-09-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-09-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-10.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRuAAAABXRUJQVlA4INQAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdAYuQq0QeU44meIkPtx2lawAA/t1NvKpAk3+w5qGI1CbErSdCav0mKEYT0o4a9X3220wCf0SG517QKNj7W6h7OkqsGiad0aR81LhKZ8nikyFNhGwDqiHEfqadNidC8uEaNLxG/2csK5jfV6dYdZX25b3as/n3fEqK3inhJZRwuGi1ZJI9cMUGE7suud/Bm+CZeyjLVlAbDZWovHyFhxxwVl0IbdE4bd68QQl+b6DgtwZIUTRNuAAAAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-10-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-10-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-10-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-10-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-12.webp": {
+    "w": 5012,
+    "h": 3647,
+    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABwBQCdASoYABEAPu1qsFAppaUiqAqpMB2JaACsMyQOYcQAPB4o7sA99F2VKIsFZXn8YuAAAMyAy65QNXI4hVcWx6mJqYVdCghE2FUu5Z3dyqlkYQ6Axkg2+JenBjOXupvaor7r8h4bO7RAft3TCQb8+1VIrW6bR69tAucZdbdfS3I4UQ7jBZ656ofeTe5qWT0w4aohZH4Bxz8fpYG6jptiGCd42G9AzwRLSvNyD32MAZnV6Dl0vla5ni3yAAAA",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-12-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-12-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-12-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-12-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-13.webp": {
+    "w": 4883,
+    "h": 3647,
+    "lqip": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAAAwBgCdASoYABIAPu1srFEppaQiqAqpMB2JaAC26E36AGfiZ7DbAq+Wg30NLvfLiIlJJe6YGziM8wgAAO+TL9Y/2u4gWEY1hTLhqesnA/pXkR7SPC/0WXQaPntcoxHyYsu8hzaqd0QE3rHck8su2jgZgpqSxRdmomy5EgaAEPtnj59+cuEnxqc/fxMYWkYNBedlOOCTQ11UjFcnOjB5Ezbe1NmBMq3toys/4J+O82UT8pAZt1XsraMR2M5r3lA/J71uMb7eCXnZmdAgxdtoXhsYTji8lbxghQ+88S7/wpJ7K/pMujcoXrJ7jnlpFdaBggAAAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-13-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-13-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-13-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-13-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-11.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdL1FxbOIAJXRFirKGg5hy/QAA9NS+qhFAMp6XmJHP4G6JjWnhOtpiV9eM2ia7KtAihLlNgzsKp0325gGlFqQeg/CJal0qruZYSC6fMQoIe4shJJmZAmqwWKikRQRqbNi8SBKL3Jvp/KdQheGXzRuanxqjHg3Jh8wlGa/utzBc9HU9gy5OYlKdBoCyrvlwo4FReCJAQjB7srrE+zvF8wAAAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-11-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-11-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-11-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-11-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-14.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRuAAAABXRUJQVlA4INQAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoFWkjlMms1GBq2cd+rtoLE4AAD+6R1BFx5xb8rL1VwIhEx9zISdqo9swvzL5jGdXBtKxLUx42kvy6VD8D3X6qYjNcOlyQDvlFvjyxfL6WoGiG4/OcoR8tcV3IbD0L+ykpal3Yi5etnOfHsJzuc6pDxvfUJNy/3W9CL11PeuJVyV9amYeODfrXH7rJw/+DUuozTks6ctUzBBp43luIp4mZpG96hskZV48NE8VOGR3a4632niM4SQAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-14-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-14-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-14-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-14-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-15.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAAAQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JZgC7L11s/xvAt6BOT99CuohcbKzaGyYAAP7vP8RY4N/oWrGQCwea2wUqXK4M5DecmUGUJGTzsFUY5ZDcQlzZ0YYVL/PpDuk3XwWWT/x0jso9AO9vh5WtP0+8jZ9kbeNfE+CD8O4RN2thjvaTfwSV2CxE7mlgdSc5ObQbFSV8accfW9CmYU2Ei8KS1JAu2teYhVMdltRLTKR8dHYAj2WRAwRLDJNtHFWVLbsaUVzYGQYfqX5N+Vc/wMaSoac30dgAAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-15-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-15-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-15-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-15-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-16.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdAYvWq1ynY9gZkIoEoSlhAAD8j3vxNelzTzPaYHu6vRuDnV2DqyYAPnkm+e+HO8EFsb+oczjVWuiMLPb0ouuL7qnp3M0fZXqMCtDY/Z8UVoWDNuDJAniVmupubPXzFBwwyWdR/UF7sBCVWcnE3ufKOrY82kw0UiSlyqYs7yefYrf0AutXNqgXfA7AAAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-16-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-16-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-16-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-16-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-17.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCsAYyy1bZk9N8TKDm2r84RoAD+mTicB/E3BTvdWLIPaU5idln8JNQAdN+VglrBbzSRcY7l497Zypc0cchoqccHO9BVfFlXdIWYycAd8kQS+wetdiLx1FTOCUW0jf+hQ5loYWl0Eruz4aIJKao36fyEnxrgycFuKQd+Krr8i8HRasK0MWgJkYv0ttsBQK80PAM/GNUhlRAwVaWwBhYyk1qa0IXYAAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-17-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-17-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-17-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-17-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-19.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagDCkf/l2CL3FA1v+uu8FjIIauwA/sgz7JjnlZfzRmR7KVVLIlfifjYngTeTj2eTfm3D+h7n2ulpWvk5/BVFlCSHGLjtuEKHNE5XFfUPSvg79kQXRc1EuBBGbc+oUR/UCqlJXzYoBkoOiky5mwkJ02H9n9jTav445MvO8DFRXgh3LyuaXvKB85Odxn1MIKPWThmrztZmmGxy2FpNMv2ynvFg+t9vq5IEstdaOvIAAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-19-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-19-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-19-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-19-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-18.webp": {
+    "w": 5261,
+    "h": 3647,
+    "lqip": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAADwBACdASoYABEAPu1qrVEppaQiqAqpMB2JQBdkEBVIHulHLkwd30xYbrdAKnhB3BAA/kshQvRNs/L/wG1c0VqqxYnEGwLIHeorzbM9m9nDvYgu5cdH+shqvWrUhWmH0YMOhaDlKRBDSUFaNDybPh3O4I2pPEpIWMK/6JPAA7GxUBk3AT01KJL/39xzDU391/Tv9pdna1d3mW9MmagCJB7QefBsQLxwnU5v8khLOGBTnlXrSy8rX1dOsY4miHGRNdOC+BYwGoSH26aAAAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-18-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-18-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-18-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-18-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-20.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCw83gPECK3FlA4gvaZIEQ94TfFgAD+2hsEldoMWi/1tdZCTRzotepFluv/labplyFgHRgr/iX+I7o3twpbA7Fic9WjxQYqG4XbSival6C7bhSlUovblpDV7IATIKK7bkOjcd/UDTp8FVYMZjxUaSyAfWrkdWHhLYlRg38yZx2vtvVe1yUZA8EIg5RTLSkYK7a13ru9135f2m5SmfNLkb2+/vXV2mW581oEDfKPOHoT5F+6NmutwRy94+Ts2rZFU/+TjqAAAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-20-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-20-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-20-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-20-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-21.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdLwAVjG4Kc/pXGoLzbu3QgUhyAAD7vb18214X1uTpaNKz/dTkhRlTLqUEiFuGkto/8ZHmKUufo8P+XK6aRc35ZChWziHRbOmFN32OFR4g7HcOSdfSD0U6XxE/TsntyzZr0ke97cF/MOy+HtPC9zErhameiegeOJX387FHyf8T2n8nO7wGdLDN7V7KJ3e0ARyXcgaY4xiw1rXZcPAudCV2QAAA",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-21-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-21-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-21-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-21-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-22.webp": {
+    "w": 4752,
+    "h": 3646,
+    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAADwBACdASoYABIAPu1qrFEppaQiqAqpMB2JZACdAA963Dc8xoGOUG12G4NSc4MNPvgA/e+SWvssOe/h5nm9Vq1vfZGZV9+vL/3J46MA+jRvmSKXORify4pMtvSKf9ryRXae8/OKdpo2K3crSlG5jyieAbGnPgZ1uOyMIjBDKVfW762F1tGwZCCNybprEJmoulIiPkdBpmLra5/30iHsCClKjTgzp6slScCotRAPwBgktAcxAANd35vdppOGcPC8AAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-22-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-22-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-22-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-22-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-23.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAAAQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdMoCGAZ1y39gpO85X1EbJDMha5Z0AAP6FsCL3eSjcI1x1E2isQZOUAP37le99zUt5Hr1wYObfnFdTGKqQ1z0WCHufZqbhCzSV5mg4QCVKX+8NqQ3yR7xiXGzBevLiPFADSzSu+4Sle6q4lONOoLPJdFwLbwjJoymXcd0IEDjD0A7Z2Ncfhf1feVlkgaKqUtphro2mE1opOcRFLwwopvWhGKOq9iwc+hwM4L3si13flGvkDw2igAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-23-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-23-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-23-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-23-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-24.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAvQArzjVRnvz0QFgfgAP7jV+KTbbVrciMetQ7SX0obdhl1MxZWrLAW5nHT0llx/VRztoXkQqegrQ1OQfPc6wq4rBrV+0vHJzoFOA9heLRqNtQiLljVF/YodbZszI9i5wwkhEZJDbMgnfPczuxN/QV0zo3bhPPA9Mlb4huo4fv9kJh382DSjF2M3VlBRydzzbQPOIi8xCnPczbL8izlmuWJgAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-24-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-24-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-24-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-24-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-25.webp": {
+    "w": 5139,
+    "h": 3647,
+    "lqip": "data:image/webp;base64,UklGRvIAAABXRUJQVlA4IOYAAABQBgCdASoYABEAPu1sq1EppaOiqAqpMB2JQBakKCrldAGSAE6B7eBaEm6SEEQxqZPCnxIUA3s4NUyAAAD+Q4E8g7NlUruNlh1agVXNpc7qjjOJJJ/VSzcICfycS7Sr1idF0d3pV96VLQPmEFB+V4fgDeDgRTWFyqIWDn9IIu6hbEbkDmuPzo39C9U6d1YeDb4Z7PmBGq+MdNf4NY8Uj55tKJ5EdjGz7HDETLByQpT26Wuj9aFO1d/ZZrGzZ2pwul+XF3q2jIMnq1r2dGM4VVu/1JZbdlDAn+ibVYZ2/hu6boDA4QAAAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-25-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-25-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-25-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-25-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-26.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCdMoFWADktHRFQ/wSFE7BF3HRfAAD+qNsRkiOsCyU/CNvC37/EiRk3PRWu68tmCEKbGTTMgIYDnb2LmiRoLqUo5Hq/rNoHQAXMbXG1AhM15NrLsLks78bdcGvDYAd1MARQyeKZ1fFX9u/Xt2RtFH6r3SvM7C6+4kJSGvIjGlMXx87QtJJjfs4pVN7R8a8k5V1NYjb+EMCppPf7fnO6A9Rg2iSjKnXDA+uLFMIIJZfAAMOAAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-26-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-26-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-26-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-26-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-28.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACsAYzk5auZhSjsbEwCRsPsgAD+1/CgZSZ/VqirkD7Z8lmzCjSHSJuqqyht+NTHr+7xRkMOSOQOUkweMK5/yw+FmmasqJQYipUjjC5LExKwzPQlN3DXTREaT0xma9iWzmehfAzMMHXvBkFldUR4bJ9iZV5QFcKPncHmdzUMdRVmcAp3wUGa2IiOLW3ei3J/8i9WPwq3/C6elr5LzkZwYXa1DaPcnrc7xcOpsAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-28-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-28-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-28-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-28-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-27.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACsAB06nEsOQAjEiUraAADNmtF5mJmF/L8ImX8hkXUmvWJcgRG2k+vhjyZCkzp9n1WYX+mrDA40jQU69OHK2aL18NoGZzAlUSgAcXwqzgt+P+R6YXJWyRcGqHn4BzJL/aOHRSxMBSltUQPBIBoWORdDeIS3O/nwZJH9gU7gi9DPqW5Mwcf7WnlW7xI5kid5dwBPokAAAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-27-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-27-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-27-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-27-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-30.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbAC06dwLgTdsEg3oo3lEprxIAAD+qJMNNW2G82viGex7E9+t087dOf0pgkUUSZ3dHnS87GKked0LFSDxJs0vaSaUPIj20PdG4nMXIC5ZelFk/8L7y4FiOXHAuzITvAo3OHQKs4d4O/eD9Lc7VtTMHNi0x8aZO4sKc+BO9re115A/jy3mjbES4KdVf60sS4i5lZD0LSZR7e4A/hkWwbkVGaIAAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-30-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-30-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-30-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-30-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-29.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAAAwBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbAC7IIpJ/2SqRHAg9OZYA4hKCJEMC+z6QAD+63dmWOxFIlplea1BrOwqIeXj0wnz4T/RnCfFgiPo/Nojzcsgaeh7UMZxQA3D1sI4TH0McAnExaHbn2y5HH5VNkdgWg6ZFdkAS4p+0Od2x1AOZ1kX+6eVcGmfkODJRi6ji8mLfjdB+DPRCn1vVy5FCZ+DM/+N0nNqr9RSxIDc5LGyKp+5KnqXmKg5q4iMAAAA",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-29-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-29-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-29-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-29-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-31.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdIExqQPc+UA7bitT4I7uNe/WwAAAA4BdFBThFMJda5WsAKo/egG9TAFhevkBxg2sdQQ4eVZaWTcMW9TlMpHUOlqImDWIKaD20Wcr/fPaRfxXSf3sDBNtemt50BT4EALaGVujSBMdqKu/g/XN+5hJWtP8h99naHuDwZvQWNu+4D2YqQRho+MgDy8tnI2sYL9Mw9sG7fLuKFdhy5XFJohU1uTS6a14Q4xbp8gAAAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-31-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-31-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-31-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-31-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-32.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbAC09BKyvA97Z6K1OTbw++b3fj/ErwAA/q1dsdz57GVO/+afz1mLIWhMmkC/nI39GxKaxfe5Z7IQL+f2mJSUsNusCKzbzpSA6biJUb/DT2gekbpEXKpqFdA6sraFpKbUCjIrR8p9A51NRoT85cZWf7El8YiByyt4gLW2LetWjCCbRppKs055f6avbr+1W8EDQOGHNmu5+tUL+AvhYsf8lWPvw6EJF2FShJrNlXkVQ9ZsjSHkAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-32-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-32-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-32-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-32-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-33.webp": {
+    "w": 5160,
+    "h": 3647,
+    "lqip": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAADQBQCdASoYABEAPu1srFEppaQiqAqpMB2JZADCoHI+AJtY3dDyAjNs6oZ9EY27id+A6JFsWriAAP28vcxYeORV4y0OQnFXsrSv4jWc6oGy6nM6hBa6r4hR3VvqB7hmTLs7UVlrsdFWAY01IbC3NMnPF5aU3KaENm+B68k6BTqeX2brjo6FTyi+2tu4R+of8ED3atvq9aL1ODDD+c5H/2xE8VPWRVw7ukQg9sLLZ/kStdcaj8ICDOKa27hr50m7R76ydmpYB3UIDmcpCfsy2RR9l8ww48EnYAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-33-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-33-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-33-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-33-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-34.webp": {
+    "w": 5275,
+    "h": 3647,
+    "lqip": "data:image/webp;base64,UklGRu4AAABXRUJQVlA4IOIAAADwBQCdASoYABEAPu1srFEppaQiqAqpMB2JZAC1A1bE2xbtB/b32bBpDEViZScpJDCfGpwFxumiAAD+zxix4uP8AY7XqBpq4QFfDsguYCrP35IImIrtO27lSB3SQLHsfGuCSNWbNLbLxw+JH/ZOuHO14oV2PLVfvWRdEP+y7dv+yB9akplVhssI4hvOLkY4dD+LRCioZWzW/lMuAypOkx5HUX59w7XYu84fdQ+UxvZaCxxJutajmUi5Cov6/n38p/TGm3sSrAIhca2gs+hG6yGhy/vRoFMG7XAn+AxEd/AAAAAA",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-34-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-34-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-34-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-34-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-36.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaAC7BagWwJnYNex2N4ixC5e8SXbgAPNqa09yQncSsGKu6RR2+mNkHUcs5JzHr6bkA9qsuiJxYbFHu5m20J3F7zESTE2R3YIU3UR7OPkaNfz8afxnE1dq+NbKGbjVaHOcIMZwF8yXK9zfZb8eNFDg/bXSsyKbRapNdK8eebnyc/ID4Ok+3YCbgamT8KoBVb4PI1eKrWRnUTHgKwVel9D6zz/wcjy9KzQTdgY8dJf49z6dITvHPQAA",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-36-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-36-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-36-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-36-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-35.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdMoAluhZZZvTD/044uHtDkrLwAP7vZFXCNzxV9tMkaAOmJGh36Z/LRXhVeS3a89vcznwMPJVzk/L1/TmZ6t12fwtsyoPYnXGWYVMtV3qY7fQDDuWS2OVmrXYmmc0JrbD7GSccSnwfKMZvcNh/8x+/u2CpV89JH1KvelpH5cR9E7Vdhgu73fygobFTtHEwQEEdeGzm/fVLJed3IthEqxNl7O40xLOyhxAA",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-35-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-35-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-35-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-35-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-37.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdIDZgxxQOvgSXzUnPZppaGrAAzh3x3RXe4LXEjUA5XohZFh/VYfqgsoQqCV6Pkbz5wUHQBCDc8OgFdeXNjb14Z+8NiEISBUbALAJUzNeFb8Gj3BpZoXgzJn62atgWbaCgJeC/MEc9lfTWbN3KZaE0QAmgVnD0d12te22Z1xykv4cG0ZzX2oHsBVfyWoT5Jr/wIJB+PsWEtakhy0L3rcGwBK+loAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-37-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-37-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-37-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-37-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-38.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgC7AYw65wFv+SOMK+8dO7ZAAP7N7vDyqjMWg4JKwrpJHMmEbfgPzumKIMkk0eUgSbcNLMmmMbkdGm807sfoZh7hb647quHiwlX9okNiXAfh/wE2OuKmnWRRydyGCr/h89wncGt1Ue580M/nTG/3pq2INHj29wwIknwnxu01wTQFWfnvqG5ZBzTYb5sozWQ1OmIj/vL3q7cWioLnCpmq4tmeCqYYe/lxuRJltcP9TkyfAAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-38-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-38-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-38-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-38-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-39.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdEf/i14Voa5xgNsrl7AD+rP8gPmM1/tXqJ1EjcYbXufcMDNAPm0Rwql9m2rRnRdfJwgsKKcqfqdmPGMdUVCIq7aPzHLZNizQ+rIR+tL1kccyQhc8yyEP/tXfYQnwOJa/QuxhobMz+bHNQLJR7mRwiTgdN41D1YIrG652SokCj03TdPEeTyDbvmvjF+zcsoHuRKX6c0/498Z+ln89MxWKn2PEARO83Fdwi86A8WcS3CWYgkAAA",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-39-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-39-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-39-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-39-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-40.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAAAQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdMoAvQTQQrXJWxxolyuurXGHxFfIAAP6f6CvaSbPJCUzpdGyxcxxpALT82wsgYwRVUl8SqpRtYMHmntfFeZUgUOigqF3ov6kk6TecNvAcWZEbq00xkXXeRM3IBmOpYjXFaN5epH8JkNIM6GxK3vKw53M3YrBS8/qt8v2oMo1fPpHjWETP48qf25JnfaoVuteWPBu0TEPmS81dgY8fM3tmO/COAwSJa07ECpFzLX7RT8Hmj91+iAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-40-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-40-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-40-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-40-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-41.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRuAAAABXRUJQVlA4INQAAABQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JagCsMoMrinbboBssTcSsQd2hHZ5jujThDgAA/muSM6iwYt15JTxIhRCXmCES00LsT4pPBy23DrymI5W8wLtchiXSi/P1A/yJIgZbHydy+msRNvQU6N6rZ/B/EJ2JaJ86898vOYTW4cgXnpxkqpfd8/UgBYjFyGCb59z/ZrU+h+mPz5uGV3rcBw9NuMupUBOjKdnyOy0noTq9xBKyTlrzvA0rxGKJmzzmJIq7nR3K8G5DiT+ROZJ2QCsAAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-41-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-41-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-41-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-41-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-42.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoMjb0jFEcs/+YEu6RHA+SQAAP54fK353a3srOK1j1op9wlU9ehJ6ZCLNgJpb0eTSIOnu9NLoDh/0Wd3XnayW6YnCHSXK27yCfbR640zDGXC2h9uKzr9hewaE7NlPjz3Qwa10ZG70eP/kKQbf91nzJLdBrrYw0h4aVnSRaeuB5d2f1gH459rrEGqbvXoJyrToW+WhHKDTHy16Vj/Ws63tafPH/Z3wpe+CTXGr5DTMVpU+pEJjht34Cqhgyy/9yQAAAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-42-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-42-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-42-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-42-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-43.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdEf/i19XZpRJxkKUzvZpr0lnYCAD7pV7eALDJ5uuqv4ta8ZPUGxdIVqFs6W1ZIwZnU7PXroc/72+rFl3LnvZKeT3Zvh6jVdl6yNvCuXtv6ailslQlkc/OQdD04V5Ga0vxYYKoR139jckHnIw5HLIvQmneaYacN4PPNTbGWiSC3MtXytgEZJP77GxxHLNScMPuqpQ+Y898cVmgF8jY4y1pclsH7N+m/7Y+scrf989gAAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-43-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-43-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-43-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-43-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-46.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAAAQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JZgC7H8IwA6VUiQBVVrTVVWNK6UfVTWgAAP3rOXp/j9zBNNORvJoTrWvbIagvhsfuvzyl0b1xtkXgIqNHr75KLwjpI+BxDTkCH7BVzDIfnIucEPNTi4vnrhYsFOs4AdsKon8Kr0Kfp6vU9BeLCLTTtvy/xd+dwqkxin99uMr0CUN+z16oQ7384sbU9rKswtC/1WtvZuykHC8t06slrkVzMTgGZW8tTzMcIlgnsFMFxpcuBGof3nQ0qcsZZpJZAAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-46-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-46-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-46-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-46-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-44.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAAAwBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdMoGvgWSqRHItzOfvr68QvbQq6WlQgAD92+z8+0P38HEzhJigcXSwiRF9mj9VuUDugB7Pbhvsj+q00S5vh9RhKgbrG0yA8kqPq5WFZJga3Ij88mMHcd/vzdrE/cRlLZ5YqkNTgQAPs6/y6v/Pc5MXpCX7bXZEwVAUZI9iJPE+pcSiOT+V4V7D1CgoxR7/L/ovdYluhzhhqBe9csmuaPn9ATxY0CCBNmar1+LZJrDuuPue8d34ZBQ80M7MAAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-44-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-44-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-44-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-44-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-45.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBWF4ANQEzsK5lkf68mrbUvvDKAA/bV53T/c+2vhsH9hHg3O2uDtaSgkm/BaPsXPhzH1p9haU7HtPrgsO6Fhi3YFxvzQ2eGhePrY8a/pjDFewwN2dPwE5X3MGjhZjXh1d6s3/5jAY3vJ37U/cqYBzjAOQhIsvt9ItjnN7MuTKtlLPJvbozCxXO2GPG2eGovq9yYVLlD7JtqdHryAdYyKIHxXAfUiBAPDsAAA",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-45-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-45-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-45-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-45-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-47.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdB3gN0E5wMPwr3rHIpDw6x2erqAD2PhyV5tb5wJkIq42GFAkQyu91Rte3NAkh+eNDDXkKchoVliosH4qksQgsy0vI62af2YHZB8NOypZgyNDhb/RZ6iwycCCdWFKn1ts2FxjWQ8QdjKjJFrx+TnkxzKdEfTE/eNR6Jh8DyKpG22aICWMtkanQ999pTonJnF+R9ZymjTPZd3FKQCozP36o5Nz4kjOIQrl16gI4AAAA",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-47-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-47-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-47-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-47-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-48.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgZYMMEzyL8hUocQeQPSMUMBqbwFAA+yNcvg7ML4GUnS+kv89YnUfL8ZKkukfQzg9sm8UNCbTZX/HnoV3BgA9JqiJO+T9DODhmZm7NQRQ4eUBX8x56ElACuX1v6Jk38y86EN2Ppw8b+BBR2HlWejtcablRKbe1bqIUhjs/wIR3gmM+wOv+pkuITunrrTGdddAA",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-48-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-48-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-48-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-48-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-49.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgO4FwJsYoKHljS5XwFE1qHZ6CAAD7I1y+Dsaw4ZKA29oH4uqIYa1PX1tJO/Rd01axlx6ebksAG/6n/m+kIQgShtOqJHlVDjsvQsfz92a2VRBfrMMkmEV5Ki9cXhCxet31oqwwbuTm+wiwDZSdwLb8vYahNW5ACWeHAmHCrfuCfxm68ciAM9RYd6tBArrdA5WXPwEEzdbNNAA=",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-49-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-49-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-49-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-49-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-50.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAAAwBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoMjkngG8C4WVZrVgpvN4uKP3IrNEADiIDVotIroDzOJ8cL7mXA7FRXyVfjctU/tAQD3kH4IailfLmADFdVE2sg/vHFNLXRGgnVhpn2aOTGp2+NrfGh6fGzORXCxvZGx7iaplLKimwXkpzehRipH4WAB2nFsuEoFtKf3XJTNgR/qGJgZO73Xm1xc7AJuvGYcu4jTFVrK39fh0tQM++q0mrjXeIgAAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-50-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-50-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-50-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-50-1920.webp"
+    }
+  },
+  "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-51.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAAAwBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoMjkngG8C4WVZrVgpvN4uKP3IrNEADiIDVotIroDzOJ8cL7mXA7FRXyVfjctU/tAQD3kH4IailfLmADFdVE2sg/vHFNLXRGgnVhpn2aOTGp2+NrfGh6fGzORXCxvZGx7iaplLKimwXkpzehRipH4WAB2nFsuEoFtKf3XJTNgR/qGJgZO73Xm1xc7AJuvGYcu4jTFVrK39fh0tQM++q0mrjXeIgAAA==",
+    "variants": {
+      "480": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-51-480.webp",
+      "960": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-51-960.webp",
+      "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-51-1440.webp",
+      "1920": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-51-1920.webp"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "cosmos-foundation-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "images": "node tools/convert-images.mjs",
+    "logos": "node tools/trace-logos.mjs",
+    "events": "node tools/scan-events.mjs",
+    "verify": "node tools/verify.mjs",
+    "build": "npm run images && npm run logos && npm run events && npm run verify",
+    "serve": "npx serve ."
+  },
+  "devDependencies": {
+    "imagetracerjs": "^1.2.6",
+    "sharp": "^0.33.5",
+    "svgo": "^4.1.0"
+  }
+}

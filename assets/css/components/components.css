@@ -1,0 +1,441 @@
+/* Merged component stylesheet (buttons, cards, slider, lightbox) — combined
+   into one file to cut render-blocking request count; still organized by
+   section below for readability. Edit the section that matches what you're
+   changing. */
+
+/* ===== buttons.css ===== */
+/* Buttons, text links, pills, tags. */
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border: 0;
+  border-radius: var(--radius-pill);
+  padding: 13px 24px;
+  cursor: pointer;
+  font: 600 12px/1 var(--font-body);
+  letter-spacing: .06em;
+  transition: background var(--dur-quick) var(--ease-editorial), color var(--dur-quick) var(--ease-editorial), border-color var(--dur-quick) var(--ease-editorial);
+}
+.btn--primary { background: var(--terra-fill); color: var(--on-accent); }
+.btn--primary:hover, .btn--primary:focus-visible { background: var(--gold); color: #1C1410; }
+
+.btn--outline { background: none; color: var(--ink); border: 1px solid var(--line2); }
+.btn--outline:hover, .btn--outline:focus-visible { border-color: var(--gold-ui); color: var(--gold-ui); }
+
+.btn--block { width: 100%; justify-content: center; }
+.btn--sm { padding: 9px 17px; font-size: 11.5px; }
+
+.text-link {
+  display: inline-block;
+  background: none;
+  border: 0;
+  padding: 0 0 5px;
+  cursor: pointer;
+  color: var(--terra-ui);
+  font: 600 13px/1 var(--font-body);
+  letter-spacing: .06em;
+  border-bottom: 1.5px solid var(--terra-ui);
+}
+.text-link:hover, .text-link:focus-visible { color: var(--gold-ui); border-color: var(--gold-ui); }
+
+.tag {
+  display: inline-block;
+  font: 600 9.5px/1 var(--font-label);
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  color: var(--on-accent);
+  background: var(--terra-fill);
+  padding: 6px 9px;
+}
+.tag--green { background: var(--green); }
+.tag--gold { background: var(--gold); color: #1C1410; }
+.tag--teal { background: var(--teal); }
+.tag--red { background: var(--red); }
+
+.pill-tab {
+  background: transparent;
+  color: var(--ink2);
+  border: 1px solid var(--line2);
+  border-radius: var(--radius-pill);
+  padding: 11px 20px;
+  cursor: pointer;
+  font: 600 11.5px/1 var(--font-body);
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+.pill-tab:hover { border-color: var(--gold-ui); }
+.pill-tab[aria-selected="true"] { background: var(--ink); color: var(--bg); }
+
+/* ===== cards.css ===== */
+/* Cards, media frames, form fields — shared component primitives. */
+
+.frame {
+  position: relative;
+  overflow: hidden;
+  background: var(--panel);
+  border: 1px solid var(--line);
+}
+.frame img { width: 100%; height: 100%; object-fit: cover; }
+
+.frame--offset { position: relative; }
+.frame--offset::before {
+  content: '';
+  position: absolute;
+  inset: 14px -14px -14px 14px;
+  background: var(--green);
+  opacity: .5;
+  z-index: 0;
+}
+.frame--offset > .frame { position: relative; z-index: 1; }
+
+.card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: border-color var(--dur-quick) var(--ease-editorial);
+}
+.card:hover { border-color: var(--gold-ui); }
+.card__media { position: relative; height: 180px; overflow: hidden; background: var(--terra); }
+.card__media img { width: 100%; height: 100%; object-fit: cover; }
+/* A carousel embedded in a card (homepage "Recent Events" — see home.js)
+   instead of a single static cover: the carousel dictates its own height
+   via aspect-ratio, so the fixed 180px above doesn't apply, and every
+   slide is forced to the card's full width (one photo per view) rather
+   than the wide multi-slide-peek layout events.html uses at this same
+   breakpoint range — a ~320px card has no room to peek at a neighbour. */
+.card__media--carousel { height: auto; }
+.card__media--carousel .carousel__slide { width: 100%; }
+.card__media--carousel .carousel__media { aspect-ratio: 4/3; }
+.card__body { padding: 20px 22px 24px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
+.card__meta { display: flex; align-items: center; gap: 10px; }
+.card__title { margin: 4px 0 0; font-family: var(--font-display); font-weight: 400; font-size: 23px; line-height: 1.18; color: var(--ink); }
+.card__dek { margin: 0; font: 400 13px/1.65 var(--font-body); color: var(--ink2); }
+
+.portrait-card {
+  text-align: left;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.portrait-card__frame {
+  position: relative;
+  aspect-ratio: 4/5;
+  overflow: hidden;
+  background: var(--terra);
+  border: 1px solid var(--line);
+  transition: transform var(--dur-reveal) var(--ease-editorial), box-shadow var(--dur-reveal) var(--ease-editorial), border-color var(--dur-quick);
+}
+.portrait-card:hover .portrait-card__frame,
+.portrait-card:focus-visible .portrait-card__frame {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 40px -18px rgba(224,166,59,.55);
+  border-color: var(--gold-ui);
+}
+.portrait-card__frame img { width: 100%; height: 100%; object-fit: cover; }
+.portrait-card__name { font-family: var(--font-display); font-size: 23px; line-height: 1.12; color: var(--ink); }
+.portrait-card__role { margin-top: 7px; font: 600 9.5px/1.6 var(--font-label); letter-spacing: .2em; text-transform: uppercase; color: var(--ink3); }
+
+.stat-panel { background: var(--panel); border: 1px solid var(--line); padding: 34px 32px; }
+.stat-panel__label { font: 600 10px/1 var(--font-label); letter-spacing: .26em; text-transform: uppercase; color: var(--ink3); }
+.stat-row { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; padding: 20px 0; border-bottom: 1px solid var(--line); }
+.stat-row:last-child { border-bottom: 0; }
+.stat-row__n { font-family: var(--font-display); font-size: 42px; line-height: 1; color: var(--ink); }
+.stat-row__label { text-align: right; font: 500 12px/1.4 var(--font-body); letter-spacing: .04em; color: var(--ink2); max-width: 18ch; }
+
+.fact-panel { background: var(--panel); border: 1px solid var(--line); padding: 26px; }
+.fact-row { padding: 16px 0; border-bottom: 1px solid var(--line); }
+.fact-row:last-of-type { border-bottom: 0; }
+.fact-row__k { font: 600 9.5px/1 var(--font-label); letter-spacing: .18em; text-transform: uppercase; color: var(--ink3); margin-bottom: 8px; }
+.fact-row__v { font-family: var(--font-display); font-size: 21px; line-height: 1.2; color: var(--ink); }
+
+.pull-quote {
+  margin: 46px 0 0;
+  padding-left: 32px;
+  border-left: 2px solid var(--gold-ui);
+}
+.pull-quote blockquote {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: clamp(25px, 2.5vw, 38px);
+  line-height: 1.28;
+  color: var(--ink);
+}
+.pull-quote figcaption { margin-top: 16px; font: 600 10px/1 var(--font-label); letter-spacing: .22em; text-transform: uppercase; color: var(--ink3); }
+
+/* ---- forms --------------------------------------------------------------- */
+
+.field { display: block; }
+.field__label {
+  display: block;
+  font: 600 9.5px/1 var(--font-label);
+  letter-spacing: .22em;
+  text-transform: uppercase;
+  color: var(--ink3);
+  margin-bottom: 10px;
+}
+.field__input, .field__textarea {
+  width: 100%;
+  background: none;
+  border: 0;
+  border-bottom: 1px solid var(--line2);
+  padding: 9px 2px;
+  color: var(--ink);
+  font: 400 15px/1.4 var(--font-body);
+  outline: none;
+  transition: border-color var(--dur-quick) var(--ease-editorial);
+}
+.field__textarea { line-height: 1.6; resize: vertical; }
+.field__input:focus, .field__textarea:focus { border-color: var(--terra); }
+.field__input[aria-invalid="true"], .field__textarea[aria-invalid="true"] { border-color: var(--red); }
+.field__error {
+  display: none;
+  margin-top: 8px;
+  font: 500 12px/1.4 var(--font-body);
+  color: var(--red);
+}
+.field__error.is-visible { display: block; }
+
+.mark-tile {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  padding: 20px;
+}
+.mark-tile__plate {
+  background: #FFFBF2;
+  border: 1px solid #E4D6BE;
+  padding: 14px;
+  display: grid;
+  place-items: center;
+  min-height: 78px;
+}
+.mark-tile__plate img { max-width: 100%; max-height: 52px; object-fit: contain; }
+.mark-tile__name { margin-top: 12px; font: 600 9.5px/1.5 var(--font-label); letter-spacing: .18em; text-transform: uppercase; color: var(--ink3); }
+
+/* ===== slider.css ===== */
+/* Carousel — CSS scroll-snap track, peeking neighbours, no JS transforms. */
+
+.carousel { position: relative; }
+
+.carousel__viewport {
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  scroll-padding-inline: var(--pad-inline);
+  -webkit-overflow-scrolling: touch;
+}
+@media (prefers-reduced-motion: reduce) {
+  .carousel__viewport { scroll-behavior: auto; }
+}
+
+.carousel__track {
+  display: flex;
+  gap: 24px;
+  padding: 8px var(--pad-inline) 10px;
+  margin: 0;
+  list-style: none;
+}
+
+.carousel__slide {
+  flex: 0 0 auto;
+  width: 78%;
+  scroll-snap-align: center;
+}
+@media (min-width: 700px) { .carousel__slide { width: 46%; } }
+@media (min-width: 1100px) { .carousel__slide { width: 30%; } }
+
+/* Each slide is a plain <a> wrapping one photo — the accessible name comes
+   from the anchor's own aria-label (the event title), since there's no
+   per-slide caption text to derive it from. Title/details for the whole
+   carousel render once, below the section, not per-slide. */
+.carousel__card {
+  position: relative;
+  display: block;
+  color: inherit;
+}
+.carousel__media {
+  position: relative;
+  aspect-ratio: 4/3;
+  overflow: hidden;
+  background: var(--terra);
+  border: 1px solid var(--line);
+  /* This component only ever appears on event pages (events.html's
+     per-event sliders; the /system demo echoes it) — the smaller of the
+     two radius tokens, to match the individual event page's own gallery
+     grid (.gallery-item__btn in event.css). */
+  border-radius: var(--radius-event);
+  transition: border-color var(--dur-quick) var(--ease-editorial);
+}
+.carousel__card:hover .carousel__media,
+.carousel__card:focus-within .carousel__media { border-color: var(--gold-ui); }
+.carousel__media img { width: 100%; height: 100%; object-fit: cover; transition: transform 700ms var(--ease-editorial); }
+.carousel__card:hover .carousel__media img { transform: scale(1.04); }
+
+.carousel__controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  padding: 4px var(--pad-inline) 0;
+}
+.carousel__arrow {
+  width: 40px; height: 40px;
+  border-radius: 50%;
+  border: 1px solid var(--line2);
+  background: none;
+  color: var(--ink);
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+  font-size: 18px;
+  flex: none;
+  transition: border-color var(--dur-quick) var(--ease-editorial), color var(--dur-quick) var(--ease-editorial);
+}
+.carousel__arrow:hover { border-color: var(--gold-ui); color: var(--gold-ui); }
+.carousel__arrow:disabled { opacity: .3; cursor: default; }
+.carousel__arrow:disabled:hover { border-color: var(--line2); color: var(--ink); }
+
+.carousel__dots { display: flex; align-items: center; }
+/* The visible dot stays a small 7px mark, but the button itself keeps a
+   24x24px tap target (WCAG 2.5.8) via a centered ::after — enlarging the
+   dot itself would look heavy against this design's fine editorial rules. */
+.carousel__dot {
+  width: 24px; height: 24px;
+  border-radius: 50%;
+  border: 0;
+  background: none;
+  padding: 0;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+}
+.carousel__dot::after {
+  content: '';
+  width: 7px; height: 7px;
+  border-radius: 50%;
+  border: 1px solid var(--line2);
+  background: none;
+}
+.carousel__dot[aria-current="true"]::after { background: var(--terra); border-color: var(--terra); }
+.carousel__counter { font: 600 11px/1 var(--font-label); letter-spacing: .1em; color: var(--ink3); }
+
+.carousel--single .carousel__controls { display: none; }
+.carousel--single .carousel__slide { width: 100%; }
+
+/* ===== lightbox.css ===== */
+/* Full-screen gallery lightbox. */
+
+/* True fullscreen: the stage is the entire viewport, not a box shrunk by a
+   fixed-height header/footer bar. The counter/close/play row and the
+   caption are floating overlays on a gradient scrim, so the image itself
+   can use the full 100vw/100vh — "fullscreen" means the photo fills the
+   screen, not just that the modal backdrop does. */
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-lightbox);
+  background: #0a0706;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity var(--dur-page) var(--ease-editorial);
+}
+.lightbox.is-open { opacity: 1; visibility: visible; }
+
+.lightbox__stage {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  touch-action: pan-y;
+}
+.lightbox__img {
+  max-width: 100vw;
+  max-height: 100vh;
+  width: auto;
+  height: auto;
+  /* Safety net, not the mechanism: at max-width/max-height with the
+     original aspect ratio, contain never actually has to shrink either
+     axis independently — nothing here crops. */
+  object-fit: contain;
+  user-select: none;
+}
+
+.lightbox__bar {
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 18px 24px;
+  color: #F6EEDD;
+  background: linear-gradient(180deg, rgba(8,6,5,.75), transparent);
+  pointer-events: none;
+  z-index: 2;
+}
+.lightbox__counter { font: 600 12px/1 var(--font-label); letter-spacing: .16em; }
+.lightbox__actions { display: flex; align-items: center; gap: 10px; pointer-events: auto; }
+.lightbox__btn {
+  width: 42px; height: 42px;
+  border-radius: 50%;
+  border: 1px solid rgba(246,238,221,.3);
+  background: rgba(12,8,6,.35);
+  color: #F6EEDD;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+  font-size: 17px;
+}
+.lightbox__btn:hover, .lightbox__btn:focus-visible { border-color: var(--gold-ui); color: var(--gold-ui); }
+
+.lightbox__arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 48px; height: 48px;
+  border-radius: 50%;
+  border: 1px solid rgba(246,238,221,.3);
+  background: rgba(12,8,6,.4);
+  color: #F6EEDD;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+  font-size: 20px;
+  z-index: 2;
+}
+.lightbox__arrow:hover, .lightbox__arrow:focus-visible { border-color: var(--gold-ui); color: var(--gold-ui); }
+.lightbox__arrow--prev { left: 16px; }
+.lightbox__arrow--next { right: 16px; }
+
+.lightbox__caption {
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  padding: 46px 24px 22px;
+  text-align: center;
+  color: rgba(246,238,221,.9);
+  background: linear-gradient(0deg, rgba(8,6,5,.8), transparent);
+  pointer-events: none;
+  z-index: 2;
+}
+.lightbox__caption-text { font: 400 14px/1.6 var(--font-body); }
+.lightbox__credit { margin-top: 6px; font: 600 10px/1.5 var(--font-label); letter-spacing: .16em; text-transform: uppercase; color: rgba(246,238,221,.5); }
+
+@media (max-width: 700px) {
+  .lightbox__arrow { width: 38px; height: 38px; font-size: 16px; }
+  .lightbox__arrow--prev { left: 8px; }
+  .lightbox__arrow--next { right: 8px; }
+  .lightbox__bar { padding: 14px 16px; }
+  .lightbox__caption { padding: 36px 16px 16px; }
+}
+
+body.lightbox-lock { overflow: hidden; }
+

@@ -1,0 +1,10 @@
+node_modules/
+tools/image-map.tsv
+.DS_Store
+Thumbs.db
+
+# Raw photo library — input only, never shipped (see README.md)
+source/
+
+# Internal dev notes, not for public viewing
+HANDOVER.md

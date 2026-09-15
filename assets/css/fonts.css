@@ -1,0 +1,37 @@
+/* Metric-matched fallback faces so the swap from system font to the
+   loaded webfont doesn't shift layout (CLS). Values are approximate
+   size-adjust/ascent/descent overrides tuned to Instrument Serif and
+   Archivo's proportions against common system fonts. */
+
+@font-face {
+  font-family: 'Instrument Serif Fallback';
+  src: local('Georgia'), local('Times New Roman');
+  ascent-override: 90%;
+  descent-override: 22%;
+  line-gap-override: 0%;
+  size-adjust: 104%;
+}
+
+@font-face {
+  font-family: 'Archivo Fallback';
+  src: local('Arial'), local('Helvetica Neue');
+  ascent-override: 93%;
+  descent-override: 24%;
+  line-gap-override: 0%;
+  size-adjust: 103%;
+}
+
+/* Archivo Narrow is condensed — falling back to a regular-width system font
+   without narrowing it first causes real reflow (not just a metrics
+   nudge) once the real webfont swaps in, especially anywhere it repeats
+   many times (e.g. a photo gallery's per-image captions). Arial Narrow
+   approximates the condensed proportions; the size-adjust closes the rest
+   of the gap. */
+@font-face {
+  font-family: 'Archivo Narrow Fallback';
+  src: local('Arial Narrow'), local('Arial');
+  ascent-override: 93%;
+  descent-override: 24%;
+  line-gap-override: 0%;
+  size-adjust: 92%;
+}

@@ -1,0 +1,76 @@
+{
+  "_comment": "Logo/wordmark register. Every mark below ships as a true <path>-based SVG (assets/img/logos/*.svg), generated from the client's PNG originals in source/logos/ by tools/trace-logos.mjs — see that file's header comment and HANDOVER.md §7 for how each is produced (four are auto-traced with imagetracerjs; Gallery Cosmos's radial-gradient mark is reconstructed as real SVG gradient geometry instead, since a flat-colour tracer can only posterize a gradient into bands). The original high-resolution transparent WebP versions (*-01.webp) are kept alongside as an alternate-format asset — nothing on the live site references them any more.",
+  "marks": [
+    {
+      "id": "cosmos-foundation",
+      "label": "Cosmos Foundation",
+      "source": "source/logos/Cosmos Foundation-01.png",
+      "output": "assets/img/logos/cosmos-foundation.svg",
+      "altFormat": "assets/img/logos/cosmos-foundation-01.webp",
+      "viewBox": "0 0 1108 409",
+      "format": "svg (path-traced)",
+      "hasLettering": true,
+      "needsVector": false,
+      "usedAt": ["nav lockup (partials.js)", "footer (partials.js)"]
+    },
+    {
+      "id": "gallery-cosmos",
+      "label": "Gallery Cosmos",
+      "source": "source/logos/Gallery Cosmos-01 (1).png",
+      "output": "assets/img/logos/gallery-cosmos.svg",
+      "altFormat": "assets/img/logos/gallery-cosmos-01.webp",
+      "viewBox": "0 0 967 388",
+      "format": "svg (radial-gradient mark, hand-built geometry + traced text — see tools/trace-logos.mjs buildGalleryCosmos())",
+      "hasLettering": true,
+      "needsVector": false,
+      "usedAt": ["initiatives.js (INITS.gallery.logo)", "media.js (logo wall)"]
+    },
+    {
+      "id": "cosmos-atelier-71",
+      "label": "Cosmos Atelier 71",
+      "source": "source/logos/Cosmos Atelier 71-01.png",
+      "output": "assets/img/logos/cosmos-atelier-71.svg",
+      "altFormat": "assets/img/logos/cosmos-atelier-71-01.webp",
+      "viewBox": "0 0 1241 338",
+      "format": "svg (path-traced)",
+      "hasLettering": true,
+      "needsVector": false,
+      "usedAt": ["initiatives.js (INITS.atelier.logo)", "media.js (logo wall)"]
+    },
+    {
+      "id": "wildteam",
+      "label": "WildTeam",
+      "source": "source/logos/WildTeam-01.png",
+      "output": "assets/img/logos/wildteam.svg",
+      "altFormat": "assets/img/logos/wildteam-01.webp",
+      "viewBox": "0 0 651 659",
+      "format": "svg (path-traced)",
+      "hasLettering": true,
+      "needsVector": false,
+      "usedAt": ["initiatives.js (INITS.wild.logo)", "media.js (logo wall)"]
+    },
+    {
+      "id": "bay-of-bengal-institute",
+      "label": "Bay of Bengal Institute",
+      "source": "source/logos/Bay of Bengal Institute-01.png",
+      "output": "assets/img/logos/bay-of-bengal-institute.svg",
+      "altFormat": "assets/img/logos/bay-of-bengal-institute-01.webp",
+      "viewBox": "0 0 1700 467",
+      "format": "svg (path-traced)",
+      "hasLettering": true,
+      "needsVector": false,
+      "usedAt": ["initiatives.js (INITS.bobi.logo)", "media.js (logo wall)"]
+    },
+    {
+      "id": "cosmos-group",
+      "label": "Cosmos Group",
+      "source": null,
+      "output": null,
+      "format": null,
+      "hasLettering": null,
+      "needsVector": null,
+      "usedAt": ["nav lockup (partials.js, .brand__cg-mark placeholder)"],
+      "note": "OUTSTANDING ASSET REQUEST — not available locally. Only seen live at cosmosgroup.com.bd (e.g. logo-white.png, cg-logo-v4-white.png); those are not ours to ship, so nothing was hotlinked or downloaded from that site. Nav renders a same-sized placeholder box (.brand__cg-mark in layout.css) until the client supplies the real mark, ideally as vector (AI/EPS/SVG). See HANDOVER.md §6."
+    }
+  ]
+}

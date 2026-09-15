@@ -1,0 +1,1333 @@
+{
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-02.webp": {
+    "w": 2964,
+    "h": 1976,
+    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdL1AroBFRmuKbkwDmucBbAAD+yfLyHFk+nwsbk6bvTvev4SF3Gb6U4iCqj8CkPZ10f00fT4zizlrf14U4KyI5SaYbveZTosp6bYse1dkMLmd4OLOaG5IbEvnU0nfBoC2CAw0n/y98yhVS1/kbzuG1ZKOD//zDjv1CfB0OtzSqZz/1RjwQNW3ZyB1LYiSe0j82vHMoBTvmK1cGTRc08a4ZAAAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-02-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-02-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-02-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-02-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-01.webp": {
+    "w": 5143,
+    "h": 3429,
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdAywBwuiaXvKPkfnFiUr2AAD4YAQ5AZMCrGc+/yAFQqJdnsCgewekR6xCY0hanYlL+IL5J7ysB4iau9gW4Er/7326Bt0Be/GEnQeNQgHZq4eovjzUpny8/Fx9adheCSkOdROdEjAG18rMGwkPG8+7cYFDeLGLL8GYuL/YU8VV01XIoNuV7v7BGAhWthHvIjTjrTxcIx1fgAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-01-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-01-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-01-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-01-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-03.webp": {
+    "w": 4467,
+    "h": 2978,
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdAB6Ms9FsOAX6CaC6rJokAP5mHuJSz8HqE67mA/3tkVvOrPQyoLMrxnw6qnKw93++4ThkcCvY8pQ9DeLEKUFgqCfGVP2rgtI18A1/uUeBAl+8XEQpdKkrX2Xh0eWl2+Z09OIraRc8j58mGRlpq3lWh5JjZndLxAuPCQ8db/B356yd+gQjiot/0Xhsinu1vkIpR+H6zSuAAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-03-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-03-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-03-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-03-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-05.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbAB2AAhRRd3a/kM5jIuwkIxQAAD+tzxBB81/KdDeVxrhIfvsBOU1FLOkGktPQ1RTHD2gIFKw3s1PKR3jgppV7/MnGpVf4/CdkIWGonH0Ej24e3ACqL5/oXHXrgMhPdSCKb7fWDw287VH7kG6UZKHJkflK2cm1st46hF1NY6VmwI7POckFWolfAUxiHT0A3jr6flNnDePVAjRX3SefRerqSr13YAAAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-05-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-05-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-05-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-05-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-04.webp": {
+    "w": 4955,
+    "h": 3303,
+    "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABQBACdASoYABAAPu1iqU2ppaQiMAgBMB2JZACdB2gAOTdKa8aHkULOnSCAAP7OAyBXP6GrpGi14+tPNjjT/xRVgDWZPfAtpYMiDd3b1JA3z6RPJPgyssLdmfpHyoL3lgpikBIKJriHLgOSAu63vzZn4NRrzqvsy4/1u6/H+jH84LwyAvs/C7N1xzhTNNqoLoAAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-04-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-04-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-04-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-04-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-06.webp": {
+    "w": 4855,
+    "h": 3237,
+    "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdMoMljCln8/B8K0xSGoAA+vkxxg9KzvY5K3yPD8LFTTR8C9PVbTuqRRQIHySiqGK2MGisIScWOi98bkbf4k/G4hPM6cQw22BzNOog920PAOq/wl8lX2o1xF7TRp9kuXOZk2DWpDIakHZDiO9/kl1ZbdZwKNVCkoXa7ejE+TDLxARD2xptzpD+QAAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-06-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-06-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-06-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-06-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-07.webp": {
+    "w": 5269,
+    "h": 3513,
+    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBWECYhGqxvmxYrX0NlgAP7riNn2/b8ZsCyUa3HQcv3Efi7KuYNv/xk+ZsSc5AXIwzCR90LRa201DHSt5kAuiKiceQOgZ+pKN/8oru00BSfU96F60o3QpBhOro3GRmBAahEapGd2R6wGALKqP7Xot5hCc6qb5NK/6hgYoWZtUH7CUZVkEKggoaBGjGlFmDzCwMHXHsAAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-07-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-07-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-07-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-07-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-08.webp": {
+    "w": 4537,
+    "h": 3025,
+    "lqip": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdAywYYJoQWLSjdAMk1VZSLKmSl4AA/gpR/Jw3/b25AsMhrYVmeAIC2Y932Cp7HEc01HcXr5yxCNK0GsMeD/RWJ131MTyyA7vDR4VazbMSo462QUWKEOZqMc2YraFaS22NnQ6QP30XBoDYdsOPv5fg3/LPz8rZzhR90lhliXn9qW5nuL7CEqJRt+Cg1m9VD5xbB2s7u88zK8V9de636zvT653o6ZmN0IAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-08-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-08-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-08-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-08-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-09.webp": {
+    "w": 4915,
+    "h": 3277,
+    "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACsAB9ZF5fCD+bKEyH7s1QAyx7P1uysqXXghRikw9YpAgJbQ0rmeEAiIWOut9/73guikv2+7m2+R3yv03FGRZLOckkCDO8AE9YWenuxQ6pU5uWtYiRTDEiP1Blyhfhgp++2Wp5HuoP7pdlj7zvY5/7AL9UDj5LuRhckOX33kNJdi51q5T4coH9xrBwuAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-09-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-09-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-09-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-09-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-11.webp": {
+    "w": 4791,
+    "h": 3194,
+    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdG1gtuAWwwzgv3/Ss9HctP9EVYAD+d2SSuuSb2sAsuJMnGxqF0X/lk2FsgQdLliHYIoVvLQGY0tiwjnmCp4xD4NfWeEpdgbmNaj6NdoEFyUh3fhDkZ7Dfpc6D37iHEz5Mg1Tf48bf4sa9Ek2HTRiSi7U0skIdSqK8TK453brH3iDyf37jb2ByDocrsVT4YBz3IZ87w41dFhqY4iCs6RhVaoAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-11-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-11-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-11-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-11-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-12.webp": {
+    "w": 4897,
+    "h": 3265,
+    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdAdwLfNZ9V0l4lS7dwKbs3y/duQAA/uHhMDIHc9lzbCRssrjnCiADpJw0x8JIq169vgxdJvWuAIw5S1LDDTVwgm03DJZvoagiIXuKc7uLqCAo0f7dg4ndbz4h7PFEObahbdBYmHf7kJyv+oaUQzYjH2BHtDcg7Y6gBnRSNBskRra7PEMEawt50Ein+Zjmts/WRpR5OErlLv+DjHDZamGAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-12-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-12-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-12-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-12-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-10.webp": {
+    "w": 4447,
+    "h": 2965,
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdAYyK4Jm9f/whOFVoI6f0TeAA+OHW++0i/kYbQWXXsdbNRha2sXr5Mn4J7JGY9k5e1DvqZN1iSxY/cRoKUT1/L/bNRsoPUf4fvO5NhYlpmD0EYrt7bJeF9GdW4ZD39dCxGxiZ+rVxRt1VJHAe33U2F9BFo8ADmEevreK9penJArjK1MVBxnMXaZbRoTdAgAz5HIl9nCK4AAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-10-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-10-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-10-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-10-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-14.webp": {
+    "w": 5223,
+    "h": 3482,
+    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdMoMsmn/AUejxPD5q3+V7XBvRQAD+44myLxuYC2fS5PgB7FesqXrfet0+Q3aPy5UifyU2SngihIM13BHuvumul45nwFuI8v9mfUOP5Irh/DLCZebv4hluTTvhNY3XyX6sZhhZsLLFBrDR1BMT3wdLcRAd4f0zWbYDvoawQHo+q5wiss+/IBTpOrsrFdr8dWYBWpmYovAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-14-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-14-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-14-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-14-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-13.webp": {
+    "w": 4920,
+    "h": 3280,
+    "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdMvIvQBBg+QjLMsRtKGLksAD+h9an56madTKGTeSS7sSetyYmcp5SqEepAcF2Cl3ZlZ82hM0TbhvyGcnxTLFUYNtRDkqflFPbEpYKqGwGbLhG/eGYF/r8PU9GAyphUbOZ7tOun9XcYrihqCejbW6fqwj/pYPpUwY7AAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-13-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-13-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-13-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-13-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-16.webp": {
+    "w": 4890,
+    "h": 3260,
+    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoMjb0m1WOXisl4bLTa4778IAAD+iQ+3Hda3vOdqSMolRKRRfUx51amObg06GJtVsrQ1Wq5dXmWlMdd6Bjr/Dw1EWtOLwSSltQZCttGJmZYVsrrXSOwZeKmaAjrlMSzs5k06Br/XeSZD7C4/C2Xf0xXjBB/YPGMRP/Tf+msGQQ/pBNZWAOAwVP76ZBuiVFOeeJ4Q/Of/hc0TiMO8AAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-16-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-16-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-16-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-16-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-15.webp": {
+    "w": 5338,
+    "h": 3559,
+    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAlvhEmewiQe7eb2KL8wAD+zyiH/sH8CSnxM7NRqmPDSXQE0w0Ueo3ntG9EsuoF0ztqCfr/YKo6xKDAu+jbIERDvBeVHW3f01gb08WDX2ajxNuKbR2uvJzQs7cpkBRuA8gsNbW+DQp3If4e4HT7KzsJ8etBP8DRHu8vupG4gddlgy4ItCInny3B8g7GsQQ/IMCZqXdgFwzHOckwJAAAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-15-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-15-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-15-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-15-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-17.webp": {
+    "w": 4362,
+    "h": 2908,
+    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdMoBOABlmBAVVLDKElrrRgAD+Rozbiq++4FQObh67rddyqOAHFi26mCL3XGPy8EH7KbDWR5dveNJNaqNNDSsRkOBtP4URTVhbINe10oo0cZMg4wBLyt/CiNMac8mYg1kr31l+Ff83fpO4VrdV/gIYNzhC3s5QM/TvLDjT8XJJ7A6GephpOu9p8XGaZYedQ3/MwldQvMAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-17-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-17-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-17-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-17-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-18.webp": {
+    "w": 5371,
+    "h": 3581,
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdAYxYqMuSRLPLxdsgAADOJCDM8CsAc8uqtdZDiQyVyOJTWwnj8yXLWQfG/Xw+qabblCjDzBPS6lEhvCGlEP6KRKSE5ZfFAVXwtvTLZPaV00x9co81VzXunO0z0Kww+34IKy2pC/PWSHsH2wVxqr9V8B20aR0LFWRDp5OFpHqqz7J2Pg/vsbCwwLToAB23Ya6UAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-18-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-18-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-18-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-18-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-20.webp": {
+    "w": 4804,
+    "h": 3203,
+    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdL1yVjQSpmixOfolY5oAA9r5VSfT0WkkOz6B3cp+cSb0Qf9P2pVFy0tSDLoBAMRgqm6LU1fksmszacGL7N04W5kT8OUALDIfjeDwBvN5oMc9qYND8kjO/GxzWeBabvy2/cwNCGGr15pXlRyKzMTNKeksLb8K26AoBDs7UnzxzKkq7gMleW9W11ZQomSjHBZPIoA7vZVKcbX+BAiAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-20-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-20-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-20-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-20-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-19.webp": {
+    "w": 4865,
+    "h": 3243,
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdAYyy3KbsPdOHXeIa8FPSAADiGLoJrxfOHU8yFakdggqEd2iJg1GHwK4RKFCsIM0/3PAy/Vmf0S22cPComcjH+cS1x0dOZpefNg0/x7IxKyjtY/g8RgnS3Zh5L1eRasJfZXvB6tH+de/UIr6UG3nRdiIs16DL9vqQHdAEays0Kz7XcUIBWtIVPV1MfBcPz+BoAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-19-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-19-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-19-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-19-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-21.webp": {
+    "w": 5251,
+    "h": 3501,
+    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdBrALP/ZqXY1zthQDwty4AAD328Hh0XPbvVEfm2Lf4teAhlxlJP1WrJYcvDQJmZ5aipIR6EMaUmHUzZn2MYCKnuOybpCD6QxiVXbJncbfBQ8Fa9LMP+FlA6pEDRcJrYYXgAAHnea6PjdTdv2Jp5f2u64R8RfVlaB4O4nTZiqlgocg8zeOuByDwWIboW0nyxqn40iJEEgtpQg1ukgAAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-21-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-21-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-21-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-21-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-22.webp": {
+    "w": 5437,
+    "h": 3625,
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdMoMrZEOMAp0/u/UbmmhEAP6J1jZdIrqiI5vg/Ix+XeLQKgWYySJsnAXdLqLmjNfxIplbhZjM9Mvev3fwdehogpr5HI2HVSKk5SX4UCtMsNZHO/DkD6lGU/8IO99kLenEEQCsPlIB/XUB/9/6FvhS/YxQJHMX1nK6JMmDJqCFuwvVRumktLfsP5IpMoj5YGRsI3Rju7RcMAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-22-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-22-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-22-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-22-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-23.webp": {
+    "w": 5437,
+    "h": 3625,
+    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdIIpJ/i19V1d6JFcFGRi9VN6mdrAA/eOkgjDKK5rEzCAVAIgpfdyGj+p7tgMgCYAt0umOle38KoijedD84M1E01GUQHCu0tZimCMjwwaIlgS7+bWjCW8HnTB3koIW/SxwK4I1asxqWC/n71QhbR8oU1ggep0efgP5o7e+zqqdCPJwfNCBi9GrEmtifSDgkT7KlbWMvvLZgsfXYVEfyAAAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-23-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-23-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-23-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-23-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-24.webp": {
+    "w": 4611,
+    "h": 3074,
+    "lqip": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOkCbk/wFb1cm5ro1EQLxYuAAD+3YF+hMyas+ocEN05qgU72POEStIs9jtwdGGyDltWRLzw6JyfOJNViR/LY1y9VgpwmxJecEH9ujAI4V3ZgPT8EfC+cNu0a2B8Yw2O5Mkrbi3e3c225rTlbBwnb3Qk9lZwVuJW9p82v6p8gAAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-24-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-24-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-24-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-24-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-25.webp": {
+    "w": 4861,
+    "h": 3241,
+    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdAYvWwEtxek9RGHz7/RgAzfIO2pZ0W8RrqHBW7i4JSCv7nGY0+ZvPV8ZrLhWBNY1fe4btqI9Z4rI5JKHPJdNz/J7oMwnrB2KwAVIm7aLxgwg3wkRimw0sK8DrOuB6nb3XT0GfKV0o5Wa+1uTKA+JiLDjTSPnWoAu8IkwttNRsn0jqfVcKzMjFBNnuyVau90pkHwVTWP3r5AAAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-25-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-25-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-25-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-25-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-26.webp": {
+    "w": 5456,
+    "h": 3637,
+    "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdMoADStEnfxfDEL/5wDoHAAD+o3ACbBa6KvzdRFUCO9ruIQzR+G/elUqKYgN5mZXs0VrIweIPEjDPt4bRx4GZE//ZvHOqbgEwGMWfs4PHL+9oHtpYN4iVxJHGchLLxvrT78CutOUyrFbe3/WeH0UjybeXhvaFRW1SWoj7lUlf46WTAAAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-26-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-26-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-26-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-26-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-28.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAAAQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdMoMxj8ABPYPD3s9Rpmd52OfN4lqQAP7mRz+F0JxwZzywv6Uu8gFBuOZCvET9fYTYhDVrOO7Z2s39ViBspJy7C9Tg+BVIYBAMEOepbQ9ZzgfrFmC7t0maRhCzAqQKmB6aH76jFUg5zOGe58wm5MM8hWyolDJ760qqMARuoSuGxz5sEas2QpVzf839lLhDxzFHAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-28-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-28-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-28-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-28-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-27.webp": {
+    "w": 4650,
+    "h": 3100,
+    "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCsACPWCd1CDQyeMypKVwF5gAD+7qRsU8YOEpAy2eCj8Gcsr4hCodWJezwtrdge21hs1584R1J9kCrXxyr11gnPJqTWCAiiniwzZfNd7RTNsHqAZ23e+HqtAGtrxrF3btXJmsRiPK+RgQqZBUzdgBtcdTtQ3YjGp9xNxRJ5wHuapd5MRcdYe1cAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-27-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-27-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-27-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-27-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-29.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdABjqFCmCah1VeoCqjgAA/tvnbHmLSRzV8QZmHjyGpsQzHPClnBOolCpOO4z7gi51xiekhrssYcoZeq5lL9ey3ofJM/nar3//xFp845/+PeV+JT8GqafzP2Z0e3xovzFnO3oEFQtryfZGwXIkro8fuida0IaQy/WwAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-29-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-29-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-29-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-29-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-30.webp": {
+    "w": 4531,
+    "h": 3021,
+    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdAB9FTtV38ffSjv52AAD+5F64eaUtmKjEJYZ+r9MeiziYgoVXyt4Ju0b9b+BtDBfdhDf4nc87Fc1Co1frH2Ikiih7fMg7MERDl+luqgiDrZUcrd0BRlIvnlR5gd4/9pqMYEk2t7Kprs+mFGMwXlqs4iUEQBBPoIuZclgh5ioQYytWZscjmAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-30-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-30-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-30-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-30-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-31.webp": {
+    "w": 4531,
+    "h": 3021,
+    "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdMoMxg0m09pdJIp1n6RdECAD+GOaSHTPwL6wElMDy6XjSCO1H1crgXL/VLP6ARIflN2q+6lGF+s7YQMeGdItyyKArcXds32pL2yCAUDSDMOqThbWotjnmmIS2toSP+adIuSoZNmv+Ss6yTVpQVU7MSYSGME+NXpxntBtnp/jBFC4IlJbQcn0DO8gxqAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-31-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-31-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-31-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-31-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-32.webp": {
+    "w": 4531,
+    "h": 3021,
+    "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoACc6f3jTcSdW8awAD+rLtp/CK9nax6ni+dRS7DLqsHwL+h9RXPNH4tM27d06hTOhcrzUCPYIxyO8ts+2RErKH+a8OWmwza1yjLOJXyMZGuaTsdCT2VLhB+azkDggFvS7a0RwQPZjIDGqIguTKCO04K8C2fc4DGq8pCFq4k7WwmVBmQDSU7nwUgOAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-32-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-32-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-32-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-32-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-33.webp": {
+    "w": 4497,
+    "h": 2998,
+    "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR3AB0BR1WP4OskZLICsjWYAP40KycGlrWI0oQSD9ApHhmiDMamzHzKpBgmZPwfHwRp9Yr90WNI9XdLOZHt7mtQU7GzjIUaIYmmyEpFps4jS551iU2HAMBQ8bxbnL61YcVxRl8H2wob2zUZ7CHo8/2bnj8yhFm59EI0B2ccIIpRrnTUnbcdVjhgAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-33-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-33-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-33-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-33-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-34.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR8edDo/hNKq9Nf12PY+JAA/n502eDquq/ACBVgmsTS2TrtRZR+rb3GxdhB6B+Dnx05zPWxl+W1dmVKnjcPSN+AZkSTsiIJIICn+9K1/8tN69AplkiP07FAQHxwcahchv2bOe7nALgcclietrHzaVGQRTw89AzH8VLTYQ2imxW53zjO+jay6p5eFmhK/dvgAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-34-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-34-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-34-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-34-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-36.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoCGAe4AxOOIqjIPVxLegADPdsgSXGa00mWcGRMjTLP+196ubsQOIoEVbYR3vzSs+4wNyRc7HlNfHRPknZXX6UFm8yGeYsUjZjKEAHvgRRGK2utx7iEmqE7IVDDE7/HZEU8lzhN6d6tqHfOQ0tB93QUd27+Yt+vJgcPOlehw2LRjmAg0nnF6rvYWmnIJC7DxdkQAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-36-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-36-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-36-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-36-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-35.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR7K8AVyUppVdysCGFTpaiNUIAA/rwBOBY8vEDd4zbbFzvrb3WkNzBU33mejO4UGi76hCzkUFw4xBS8vMSZzeGWEwkiKE1w7A0hGD4FyNVOWlofRSGcl5hcOXquOOxjcO6SdYq1IFsUsjieLpa+h2O5gtsFqoJjb/TXvv8H1Yde4EkMYxquJZa+M7OCQAAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-35-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-35-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-35-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-35-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-37.webp": {
+    "w": 4343,
+    "h": 2895,
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoGv/gMXMS16u8UUerbvsHDgANyjP5rXhO9HKB32iHpQO2n7wUpRjEKtemZk3246p+xOWwAn5pySGd0TnPok8rgrG+rupdn6aQupEXj5xFHdieYsncfe22CNbSztg2Da+hqLtts5YRTQX+aSNl7evqYSEKCqmRKJrOPpIGJZ6QsfvLL0jyuV7sHsbcVSWDiIAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-37-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-37-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-37-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-37-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-38.webp": {
+    "w": 4343,
+    "h": 2895,
+    "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAvQTQAn9McCg8mH73WxfriyQAA2ast5r4TFUF+RTM9l66DUZTTHAU0bW6qlUyckJw+MibBVhtTq6Fj05Ikw63u3dm5L86CxcVdipEc7TA20x5F3kXBmVA1QTIjtOkpUy2UnIzfEvviLlZNMaFqJVyzvfeOIL9JMQHoBIt692q3USlNe5L5FWeYxTQAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-38-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-38-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-38-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-38-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-40.webp": {
+    "w": 5043,
+    "h": 3362,
+    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoBOAB0pjGo3EPove28lC0AA4Vlxr3RhRqePel5alLqqskY/rQ0WUQRdXc6Aensl27HoMs9lZkJA1ufFoMXls6/QMEkt14iI5uqprRVm4FvSZZ4rcSNQhYqEvwsVUrxcLEVU3dIvft+KGFvTgjbYyCWMearLXzPyaZMmhi7QEHE+b0YgZprhq8TZA826Y6aoqXm+AAAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-40-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-40-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-40-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-40-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-39.webp": {
+    "w": 4343,
+    "h": 2895,
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoMlksACxycqJyWLHf8Jy+AA37B96KuE1F5lI7gKer4cfEtWpJyPws0feS0TEyZf+XDqM0OBGMbSjXzpbnUYA+T3l0INUEP9WUapHOgOgmoWIDmiYpFa91Ihbeh9TOEAEmPxNc2MglZkGvQGvO13mciFCDP7PGXZoVPmgtfJJOIk0C6KaOBCIjlYBoh78A9gAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-39-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-39-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-39-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-39-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-41.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAvQTQ4vWcQeYWfjwFpmB6AAPWdaYDgPphCxsfpDrsWVhmgDNKnauB5GBHu85FwlphDnxGmSmFB49O+iwbL3EQ1B5twUSjMYjFDZ7RWVb093rcCzG3g7jp8q0turA+HbWPOHU5c3MNuw+nr3HSKaL484jFGNiWkusfZTU7LJuNkldI3p6u8kmwmCSHTt4elyNgZt1hR4AA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-41-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-41-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-41-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-41-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-42.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAvQTOwwAHMsWuY9c+ctE4I5AAA9ZsFoBvqmj2atQpmLZLREA2ONk3l1CnJjAiMSwYg88ybykTw611lJVzoxMjXFZy79pctsN/VrxTKO2Qbe8uSUfR/GMb2ed2Vme+IFrpyWVAigXTyCLLdg0EZkazQsJQQ3SgdAWYmc0ToHb4t6j0LYS4VnYWWGPQwvCRfwJskzW9Z0DbrCjwAAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-42-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-42-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-42-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-42-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-43.webp": {
+    "w": 5158,
+    "h": 3439,
+    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdMoAlxhQOomppNrtSG9kuPzSCgAD+miR3LAkS8ZytkKWkMR7bxKu22hPSRtqa0U5z7K1qMhrrZRYR0COF4TcpA1sKrqlCdUsxLgB4wg7v6BfH86MW11ZdVnN2ioeQm32Q7xPnVrncBawKflbnNOiTH9+dJEr572ZgrlI3MuC4t+m/mLPDthZCg8bIwaZXhhpSqf/p3jnQQ/19gF0YpX3u3T4gNEQAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-43-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-43-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-43-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-43-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-45.webp": {
+    "w": 4905,
+    "h": 3270,
+    "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdAYukuhifH66yI0Qzfw3pAAD+h3rAT4BB47f3ncrQhGPjmcvDy3qyYDlZK8SBJ8yBdvrqvxllDMOASYkTl0aRVfNvA3RODZRCZfr7G1M7h5Ti+kcL4pj9EPJvxw/Ol+6kLkGrH3tbzN405JYFlzHJSzQ0nyY0OCWi62T9YKBI2p4xGr8VzRgeAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-45-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-45-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-45-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-45-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-44.webp": {
+    "w": 4158,
+    "h": 2772,
+    "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACw7dwAfDWRlzgRlBEpAAD+xetapVVcIu/L09Ygg5+4JEQ8NR+UyhXIVcEs7gIaiuigh93+2ahsN/CQSDzzYIfvFkeuSD8AKzR8+TMva0fk6Zau0ZgXph0vtUK90fUq4Whx6I2uB7Bc5z3V/1dcWoTRMXNH4uJueLbJlLPYLmEDS9HOFZfCla009yAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-44-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-44-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-44-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-44-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-47.webp": {
+    "w": 5024,
+    "h": 2826,
+    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAACQBACdASoYAA0APu1iqU2ppaOiMAgBMB2JZACdMoMljD24f+v5C+IuS8iQwUAA/u1tQ1BdbZLCiF0ZnqyDtevnEHGGBOT9mKx2cg/ddSpM4is5QZwE6htzc3gE9gUFautQCGse5qUDRKWU3pdFK/pXU+4vuYPGfUHdiPqhl5fjF7xBC8UzUtZmcdLKMY5lCy+kSgJd/yBmCi799sVroBXTeyat/SBMJHsob1VfsQQAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-47-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-47-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-47-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-47-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-48.webp": {
+    "w": 5024,
+    "h": 2826,
+    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAABwBACdASoYAA0APu1iqU2ppaOiMAgBMB2JYgCdMoMljDCjfP/OrwZLguWgAAD+7W1DUD8wfb13PHJOVxBuy6Q+5phOMNx9YdS0jCqivtoIcc1jvQ2jcdQ5kA20UKO/30Gfb/vNv8QtjGfOC2FI/0q0wYiC3wEOBIsVjfl977HvtJ3YLEP1W4kvprnSHva11FyGLZ3GFF6Qq0CHjiASdAHXszzhkpvFPIpH7ACTkxogAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-48-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-48-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-48-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-48-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-46.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCw7Yxs4JbjcxHCdNv4jcZX/8cgAMxHVoGxGHHMSx+j/mdOSXJIAgMDm7Bq21K3uIc2dypZtjCIE7lL3PHbHCG01F0FnNFCuyK0h9bsifzK5GHJAFriNT/Hamd/yZrsWDAM3T3438P5rA+gzLalVAsdy1gJKgNS+pJuhnsSQeDbPLn87JW3uYh42lggAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-46-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-46-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-46-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-46-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-51.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAAAQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdMoMsd0l52arlWAcjpxHkxzzK3aYAAP4FyK4pXK8VB4JLhSjzS8xpbeuzMREK9T0tW9PWjPxuzGPYT0/f6vqvbeidwpGHiz+ZfdW3otaMSNpKWiyeO5Aec3ydh0X3qUwwiZ+dP9O61r85ikURh9c6i2Rh/aOrDGZcM8oMh8ugEgSdNWgkXyxhHmjsLj5z7PUdoqqpy9OJrAAAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-51-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-51-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-51-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-51-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-50.webp": {
+    "w": 4836,
+    "h": 3224,
+    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdAYxExYNQbQ8VKm80jGAA/mCqdvNyheg9WLhzDyioPhizpHicoso+UcT1rcZGE1hFfK73pqRJHQxf039X4Q2zkokB6zxvRftqL5CMvQLR57g+G7dIUjL+BwOb6N86k/SrsDWyut9va/gu+LA9GT4UJrZJJHW9acToF3/RrFWJOEQj5sp6Ii9btQyt1/uAjnRvs/yYzprB0i9n/9LYee+zIUfOVwBAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-50-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-50-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-50-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-50-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-49.webp": {
+    "w": 5174,
+    "h": 3449,
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdL1yViyyk/BeXdWn96VkWfY1gAP6xyTXah/kJytgGktpkcj9XhEp9MU4aDfzaL152NoNDt+2jPqYgF65ke/sKrF39aCwpcGCCxWOfWlYrVQkhr6fp4Had32tVcCN1StxFq5TTnFsPjnIi9cNFj8w08czo5x7gIrpiz0aaQQQfFaM1AmZGxi9yduN+Q6sBF5+GNiWc9oAAAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-49-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-49-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-49-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-49-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-52.webp": {
+    "w": 4850,
+    "h": 3233,
+    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACsABlxofpy9iIMMxMXdwAA/uF3L07f+gdp33l66Oo6ruojy5MSgcZkwozUr4VObXF7mDscyMaQO1K9/7FHpZGyKBEJ7X783sSm4FA4OWvg4ohkat1wH2cqGiUvtIGArCYn3+hGQO4firBlLpia9eKn5nBNNOpGjkihCylYqYo9tw7ncxXpUKO2QHd0tYaicsEBmJLTyIAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-52-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-52-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-52-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-52-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-53.webp": {
+    "w": 4850,
+    "h": 3233,
+    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdMoEp/kEAKwPA7QV6Xd+RIA4AAM4r/BlGVSIuHPxEPRFATZzdPygtziwyCLgJBRF5cmqZW2P01uXoRYGwltjDGOxvIPifwvpNrpg+6J4ftVpLSgBAw22raOBJa/Y+866B8K8WNxdu4IS3Tq7JFJPnA6S0CG2Q7DXhimzs7jjuaEkXy2OYDr7gOyOYjjF366RhMlRi6I7o+gAAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-53-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-53-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-53-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-53-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-55.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdIKngrxQLLS4jJq4pnWZPx7xv4ADN6ZJGv9WFzTpRh0ywlM1brjmsVuygNGYKAddkL4Fz9kuCJCIuSwU3Wh7EXYSNmJbmBdchN+cnYRVgvIt77M50lQncIfJtnQfYLPW+SnTLa8Fhg5S5Hq2fi9r22w7pKc2+p3hkMT9q6vWOHBQPaVgbfMwWZveoW1h9hKsBNSAAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-55-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-55-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-55-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-55-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-56.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdACPMUy7uuq8kpf90+lwAAP3hzi83sQHJbLNDfsuy3KXazuJ7s3Tlb74OZycBEv71VdduP1DpfuinXHlpGWjaknjqc/4/9VOGVuCg+PamVKMxvfZUjorPCpbuzUD3X/kNWt5VJiJxJWSMl808gYa9NC7tRsKD0735Zc+Ytmc2ASLqDXu6ICdmIv5UB6W3RJsxaAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-56-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-56-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-56-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-56-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-54.webp": {
+    "w": 4850,
+    "h": 3233,
+    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOmUAnABJ5r3MzMxpKV70PaXwQA4maMJdTkT3aX4Mv8Vm0EqIcaDHIS8uKthxu6ap2QLzNgPzbQPrFa/WOUT55cjSxFUuc82vomV7pbjq/KA4ALXPFEjCpDiTdaj0+HNIe5TmvXlhQcct5rmSDY4/No1iOhRCOAVUDO03/9ccly8QbeWB231VbvvAWpUmjFgilALD6AtYBR85NgAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-54-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-54-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-54-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-54-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-57.webp": {
+    "w": 3511,
+    "h": 5266,
+    "lqip": "data:image/webp;base64,UklGRj4BAABXRUJQVlA4IDIBAAAQBwCdASoYACQAPu1srFGppaQipWzJMB2JZAC2+1j+Q0qQl6EFfoUfmmn9iPEKGOljydPX5Y3uqgCFKn0Vmx+nAAD2RdcVJAJ2jPsWU9PZnFrYwYeR8My3mgYrDiUEt1TiOswmPlNyTP4Uqn93fgZpj5iKeT3ahkMo7nTOBJ8WqjWBiP3PhlFvIwIkKsTQ/uVyITTPhQ2oeun9iQS+7FENaWWbvj1tIxcgnRSz3U7paD7w26E1AhCYit8GhYGxgPpmwxtHDyD4G7Ng+OXIw/9/GqVnMz86hvS2k4DL6LgpFX6P6LqiaDqKGfyc/5Zjcr8MoeoIYc201vnnZM44jjw3FbFdrIxckPMxU2cjpW/W2y9PgsBSHd3BiV/SFFcxVqQ8MvfmQy/tQnMKR3oRW5cEAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-57-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-57-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-57-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-57-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-58.webp": {
+    "w": 5302,
+    "h": 3535,
+    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR8eCULsj+QKhw1VtWUAPysgwIhuACAHum6aL3iJq8le4QxxIr10GNJcP9jGAEeij/33jGmfzlyNkx6pl40y0G3t4rgZs+q9fMPqeBXvTXHSaLwCcfNZ/hTM51oNg/rkmyuBiXw9z289Umfm/mze/rq9Uj41ZvTcinrahkWMF4Tp6Qm9hGdSkYck5KbBGzXdHz9NJfsqlgqWAAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-58-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-58-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-58-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-58-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-59.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdMoMnJ0kVVl9CT7Gazy/QPGR0gAD+6FlcwhGmS6Mn6Ru7+PK1NVVOY3KKA8xdKyZh6BLzn1+Dv+IwW2U4sWkGsrWc38+nIaWd2r3PR9wrPvFACFUNsv2DVnuBE4v5l6pArRBhrtMXXgiqGFXbWD+H7rmFKgeS3XRlObeuUMJHUML9DRMQ0IEX4M6540wJWcz0tmjQvAAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-59-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-59-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-59-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-59-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-60.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdMoADX1z+MwSrqUqGxPFLQsgA/ut9x1Q86QvWIYH4OFjaDgFeVr1FryMradZ7R1efavjRSEaoxFvvQnxkAvyLazTUhpVjViP6ZZ9PFKT+kBPy2I74jFlCTWWdcUBuILIGHPungkRTB+LA7wNDk8YywYwKJBCvdZ1N6unqFAZlgiv1zdMAzj0jD1dXHRkAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-60-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-60-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-60-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-60-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-61.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdMoADX2hrzYtOXvYL8jWQ0IAA/ut920x+dIs8LLdovVNHHSECQZRtcah00rzcb/UT76FNgu3TGeZGSlhunDybBBL5W4o/0la5HC9fxYZWvh5HOb/MP/suSY8vE/gi1OJJGNcgOrKsBpEfhjIwAj4fxU1O2hubynpqltwFoiRmPDPbNiFg06KFQIAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-61-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-61-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-61-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-61-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-62.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdMoADaRmqlKhDvImT9R6sOU9MAP7WB7IFQsTRbJ8JqDr3pAE2/m+W7ky8U2CSirCqeED9GBx190HLBx4C4Yivs1cH4gmmi0GeCDFreaxyALl2sCd88zafg6hcBB1DocQPn7m+uKQZyOMx6iUCX3lyNSrxbLRBhNoOBKCGOkgik1FeiImYwech2e2NX2RIVUjtKFdnxXAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-62-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-62-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-62-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-62-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-63.webp": {
+    "w": 4258,
+    "h": 2839,
+    "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCsACLA8rl9GPBqrVW7h4AA/tWmOe0lPUmZ102VBYPFiIE85MtxlN0otCs7Ac+tKf0dxbua/is5/c7vA+5azBxV5KkZ0nsQmPiZ9517dVLrupccN6iJRcCA+MIi8HDNU/U6JkRctrR0/BDIid1axxoQEyzdbdOAb8JdmMiAHvvCo8xmce78rDwDTgAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-63-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-63-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-63-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-63-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-64.webp": {
+    "w": 4347,
+    "h": 2898,
+    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCsLwAagJogMaqJZoHwn62k0wAA/tdZ5hjCLWBT7kNMdSqTNw16zlGXA6UZ9AI9Dy9HbZ1Htqd2DCNCB6fY7ZjELBwvIbVWn94SSpq6jzqxrSgEvJ3pFXDxaGQDlqyvMpREzWSAExBgId3qW2avXr2nPwD4PN1VQOC1K10RM+1Okdy32fuwBHeOrL5neCAa+Imt8YeAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-64-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-64-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-64-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-64-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-65.webp": {
+    "w": 4352,
+    "h": 2901,
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAAAQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdMoMft0jtzTYPwONikGJqXaPHsZgAAP614COYPYN0gf0C2nRT20iXXaB2Yo+NtU1LlMnfcthskfuE3IZmCAqZJpR0UxEDkB2s7jgS9/9bwRosKKGlHtOaWZ3nsZTNbz9wQA091jcF9CwnmGkS01qgDjUA34NeVBSME8S43+M57BlbNkPK2LwRxPRhGaZmABEAAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-65-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-65-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-65-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-65-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-66.webp": {
+    "w": 4352,
+    "h": 2901,
+    "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdMoADaXKQZrlx2X8oMwAA/rVBgDdqVKujuXqI89ry8rtoy1SivDcn8OYRqTRqBT9t0tjgPqC/KL35UPmFQKQOsr3kYZZ4du/WsXGhmH1VC0DpA6GitwhcHjD66GBfKbcNwMw3QTMfvd31AbboeV1O+7jt3mmLP4JC84xJEHtmKdqX/WlhmzAzyAAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-66-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-66-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-66-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-66-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-67.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAAAQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdMoR8ekgBeSRxrPLzIXi+8gU6p9AAAP7oT1Nt2xi+ICPXhnBGLaZEQiV1WA28pIactrcz1z/+S/2g9YsmBmwQ7h/JDKNulFSLK/8Ua08UpL6bfNL52NjPy0ukp+Al8aQ9xzptNzUya53KKDo1QIrDrP2X33pfbVerUp2yVhit5AEqQZuNacC8YeSa3iqlg3bZTE/EwoenCBOAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-67-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-67-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-67-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-67-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-69.webp": {
+    "w": 4725,
+    "h": 3150,
+    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAACwBACdASoYABAAPu1iqU2ppaQiMAgBMB2JZgCdMoAvQBuuMitsds8EGB8yyA6AAP7wNh7BxYPRpLgE3tCp3u/AVJqji5vbSVsaLs+fDntmlbsa5cbo2jatMjXC5uS+rQdsDaW0YdXSOdFlPV7ZxL1uX8N7LqA5iCgyUoqIxg/M3VW9m4NNuBwMfpOJS30FMwqL3v6yKD8/JSl658/NRmY99fjqKTv23V/Q98bg8iK0IjA7ixFgwAAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-69-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-69-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-69-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-69-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-68.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdMoAvQTOojNzprrU8V0N0aGpkAAD+4m6P10ZANXJmupwIBvNiiA8TLS3kCxmho+SHPAQvrIz1vJPGLn4LGw0G1GAorGOVDHka5Un8f4cuhyJ9sWZ4K6gWdh6NOyZN6BJg8YW9Q1XtCGhGKiKUqw5+7AsWXB5LWMonqPXqhx6BW2GcC3khJIRYhvrDWjIV2jKqmWCTCfHzz1AAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-68-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-68-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-68-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-68-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-70.webp": {
+    "w": 4725,
+    "h": 3150,
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdMoAlxReJwNTns5Q+SexSjvAAAP7V6dt5exFUf5Aw7Ft6MAYgz+BasF8x5HaOy3TmfzEe4QsqLPjN+09k4Ek8nfR9D+8ftTdNfCOWkVztctLXsjpPaBt+l5i6OBkelM3pjD2XcchpGtU5GNL28WPrBt3OwxZpqMuXas/WRkE6kaFSC5VAisjtY4C3occkFpAdBDl2PI14AAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-70-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-70-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-70-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-70-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-71.webp": {
+    "w": 4725,
+    "h": 3150,
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdAYy85gRfpMBHkWayiFJ1mYAA/gstiIoqULwiQ7dWM2xI7WGn2awinHo5xfCKEhZxpG5GioX4nSMRgJSvfjgf/HqFtN4UGMvO6EIquHiIOs6SPzw2v8Mm7Dh5nkaKYXbr3bmmnM/QdX/KYuM0q/0er8MLLuxLTUHLopbO6LfP0z5CjrmiWfiEXzle4S8jRQQAAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-71-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-71-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-71-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-71-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-72.webp": {
+    "w": 4725,
+    "h": 3150,
+    "lqip": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAAAwBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdOUDZAdgNYFwCNv873cU0G9OmHUH2AAD99+C/knWOvLqJkE7/bjJUyHkoFoWNh3lrFQQrAEQ34mDL7jBb0gMgTzqdWevcliYtLejVC9g1tJ3yNH7cHfwYcoy+Jn4AGaKm1p0pI+f50G/Q03fhi7e6GTDnquqCTlylUceLPKdCd2Sa6ZvguQ/VNPJSQ2HV/agVx/RVg9I23+81TxH/T4r+YDmGjpqpcjnj+FaZx6xlAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-72-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-72-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-72-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-72-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-73.webp": {
+    "w": 5407,
+    "h": 3605,
+    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACnFYyKfgYhoDQ41+14AAD8y+9QPvDCEecGrsE2nUIy9+L5o3norVRMH4MA05cYB3DZ/mIHQ3MOyLAxCHFNGLWz1Bf9l3CokzIzwp/a528ylZUq5AfQs2llidhGfXHTgZJG//hiovX54aIlsJezC8LchKo+biMXmTd4G3boQl8UKrDatVC28+i6lTJ+frHvaNnunQnB7apIU+zfGRhLrxQAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-73-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-73-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-73-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-73-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-75.webp": {
+    "w": 5090,
+    "h": 2863,
+    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAAAwBACdASoYAA0APu1iqU2ppaOiMAgBMB2JYgC7ACLY45NSH3/u818+sgAAziTtgQR0v8zJA9/hegxvHUWslTXArlXHelFnAHCowCH8/rFRQ4GFErhKifd1LGU0Kj3//KvmTNZOk3c/cMgz18gpeRrtsvbYOvsOtGOJ5AEiYy0qfYEoDdBDNdkPQlNzf70JmP7KsaVdGDtV3bH6GsHC/tlX3DQ9EynTCo/Wf4DySuAAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-75-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-75-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-75-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-75-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-74.webp": {
+    "w": 5407,
+    "h": 3605,
+    "lqip": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAAAwBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdH8At5swgXnvfQ2fojAFbg5MkC71sAAD+xRoJxmbWBAJdV1FIE8HHFnkguvd0nKKhfFR7/VYswPED42jvf1ywILnZIZivac6FP7i1XL/uxk6zp8S7bFPBqpO8Xh/1LXdjcjRD6h4J7tLN/WWemcWQ9crmAhKYl/QA7kmeeNofaJ6b20KhZ+zlKWPtqam6FxH3jGetu3Su9IVeUPUtBWGdhmI24ShMZgAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-74-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-74-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-74-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-74-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-76.webp": {
+    "w": 5090,
+    "h": 2863,
+    "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAADwAwCdASoYAA0APu1iqU2ppaOiMAgBMB2JYgC7AB00aZFeBYPW/xq8AM437UenRT0g5/Ld6+EmLLCU9QljZH1NFByIAO3OFed1gHYhVY6i/qyarGhbG7ldISMUfba6PBPV/pugIxOSwLEiC+7GhJQ5UfkGmEb4JEQ0BAsrLElafmFOjdotivE46eBdnBfoVsfUu8KmkH/dfXBI4DDkGvChyxdxuRIgAm4AAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-76-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-76-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-76-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-76-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-77.webp": {
+    "w": 5178,
+    "h": 3452,
+    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdAYvqkPmuWtj1EdkwAADief4upYhH2aFN5mazKE8lYsKXaotVnYKoahOQNkxlGhNtM+5FTLHyyeqbmzyp9w2AgG907kJtF1yxquKlYLs2QXEJXtFnkKX/UcEnrUB9WwIti/LV+iKMqzJOUbGy9d8DMrTnJyvQPcUDzp1Ujj9nTweHuBVuB7kUhr8c8t/i+UqJqtmhbxFCqbfEUhqRnAAm4EgAAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-77-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-77-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-77-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-77-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-80.webp": {
+    "w": 5178,
+    "h": 3452,
+    "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdABwsawXOpk8vnQD5WAD8j5hG6OTc0U1z2X07jAU3p/elkkWr5A3eaLVSzBsLulgmhajFinLX+t/h84qjw6rx08/3o5ip8MAp5lp6EMb093VIU7Q11DW00ZfDwgpHwFRmyQ2dedrhZ12Onka8GaSjRZ1fAXbtX+kGQSvNoCtREuzWnCi4JPGIYAAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-80-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-80-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-80-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-80-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-79.webp": {
+    "w": 5178,
+    "h": 3452,
+    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdAf60uoYn3LxiHhsqavmTaIAA4mcR/iGgkpwzSfH6i5l7t26Ic3J8bks59wmBCX3Y/e9I/Ak+28iSdjlCa161r3iu0aD0j0SZu8mM3YGOXE6HmWHD1yE/GeNqYm/IUGfzQsFFXfi/+1zAGy8KLHHOnXHyZxCkHZr/jPhnf3GLAF3Nn10D5vFkl+YL5mQB1dYgTAAAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-79-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-79-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-79-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-79-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-78.webp": {
+    "w": 5178,
+    "h": 3452,
+    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdAYuG2pZlf7QLbMX7WnYMAADiZX2bPHYfyNzG1+zacSYDlGSXEHtjLYPUSXWLxl2Ek7YPEzU3KJB2n1XTkTUDDjpqBsRff9ImoNg5FPfIqMVSS6KXfMVWH7KAajO1plWj66PoifDM19ogrVvacgS8Y5UQNmaww6dBKns4/E+lNacPhdrb/61XQ4TFrOFvrm0VHILQzAyQ1Jm89iAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-78-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-78-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-78-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-78-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-81.webp": {
+    "w": 5469,
+    "h": 3646,
+    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdAYyAccrG3zfQb2s7cGgAAN5iJq8QJ7/Ap5UzeI3Ghd6BNdURcKmoNdjEQ856ZQuyRWDu8ZTiTXTgFIJU/aeix46Rj+nRW9VkpPgfEJBuSVNVOzQJH25k+CDZWOstIpFqCH/cBRoPbkqefE7Be8cSETsylvGzMYJCbsH3VOTcCBylLUlVbiDBK/zp6l8IbMDcNgAAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-81-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-81-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-81-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-81-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-82.webp": {
+    "w": 5469,
+    "h": 3646,
+    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdAYwweuBWM8IUtyA5EjBZsADeYibDzNVLz2ylSdxSrU35tBeyXIrmipye4VYJ8wsdd8lMvhA17bdvNWf1jMy7/5CjBngobcac9bGu++oFZFKQsiiXt+Zsz7HwtfM7qfv/Yu1Ne3I1g5XBTBXj2LbTWLteKIEsuHrg0tNpjy++tyid8ylbcUQPo9PaPEjNHm7z/UFinhgDXuKMgQAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-82-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-82-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-82-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-82-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-83.webp": {
+    "w": 4962,
+    "h": 3308,
+    "lqip": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdIMggvhC6/V4++zrpBqFpJoAA/uevZ5eGZC8Ga882mHGHUTuYE+rzMx4osDMp86jtIDV7OGtVEmrNWI7gXDB6Q95tsBfeKL+vZCdhNq8kw5OnljpI9ZpmrwH8elDMmp3R4yvtTW88YDLOJzayZppZx/KRge6vT6HsN9fFFSicPIyGgGoQq6kxJltmWp1L1ZBflSMyJheyuxh89KFxh3Mx+OvWNLTjXR4PLFuLmzO2NYAAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-83-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-83-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-83-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-83-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-85.webp": {
+    "w": 4962,
+    "h": 3308,
+    "lqip": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoMYA0jZnYxKwjUaZxMli2lAAP7SLwmhgxcMvKn4GZK3GtUjKOYXKgK7HFS4SaEVdXzcMJFc1UnWkQZngfyliJp2OxKMjS+rljjtaPwFFnzal4ijg30gZMCfeU0Qa7bi+asofHQCOvAs37UGn+OxIgNPI+8u79KZDp3Z4XTVr/qBf/thvC11eUJIDYqYIUe0MzeIhOF9FLNMHmsHQf7jSO7eusiIhNn4AAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-85-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-85-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-85-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-85-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-84.webp": {
+    "w": 4962,
+    "h": 3308,
+    "lqip": "data:image/webp;base64,UklGRtoAAABXRUJQVlA4IM4AAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdMoAlthlyPEn26pY4HoZKJ4AAAP62HMRy5u7if+iD0GDAq8QkU9KUSet7iiwEZkdjCAB+4YumUuEXqZW7AfA3dRK5mzyaIn6iJ6M/wb8BF7TDIS0vguZPIzyF4kxKIST3pPx9bf9xMdyBQV1y9Ar439X1Y6mBCSICTQW5RTsb5Tn43ILYzyq4l3XE7Hgj0zbeWcW3kJFO5vTItxGq/lltJ0AOvMrpLwsWZeg2M004mIAAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-84-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-84-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-84-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-84-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-86.webp": {
+    "w": 4962,
+    "h": 3308,
+    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdAYye1ZO7qfsCiXfwANwAAP26EPgQ4HTSpcn2tHGJYJFQEvRHvsbUm74M3R7IBcA5pIaReshakti7iRe0mxVqKJQaM2qALYWnAO5DErwbWIH8iABCIDcOeJFv66xtCmWqXXsoz0hGDVZc+jsynpt3ie/Wsh1uPxRlIp41rfH66rG8cdPD9ZdiPpaeuS9KfUHXt8tQq9nbGU8t4BBfzQeAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-86-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-86-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-86-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-86-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-87.webp": {
+    "w": 5458,
+    "h": 3639,
+    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdIExqQPekJlQ0HChnYAD9uJ+TKinvYBDTq1gG/lU1kZ2yOQDgbfJCbXgfxFzeXF2M9DAdta6/Ag6X0ZrLpeGeDP/O+p7WY8V80u1fO5nMdmtk+GPWhKbTGT+K4B7KvU75n6PDoLGApokD0SEdU8AL+rrfV8bK2EUaHaLKrXOcWjA84fYhSXLZLONqbmLJhs/aSUfJGYKJ6dg4gAAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-87-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-87-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-87-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-87-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-90.webp": {
+    "w": 5458,
+    "h": 3639,
+    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdMoADVG81PC3mSBSyRqhRl1YAAP6p+6vsxfpQ1kpVyI5JA48JUuerTovOXYaAhoK7HjjVzCNozh5kLGJGB7p2FD88gugaqi/Pbp+qcl/G7WTm4X1ixVAagHPjpl/2i300EyZosIcqO9136TvA7xFX37BSRfEJ75VBDOPJphCauJl30EJBxuWvJZSWcCCNEeEt2YK9dW27muNYAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-90-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-90-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-90-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-90-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-91.webp": {
+    "w": 5190,
+    "h": 3460,
+    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoADY4iR56mo8zlQWzCdo+yAAP6HnNHoVUhqcTnsOGPOlBwMBv4w9Tn6mB6L26HrPI4OHDGFtPtEut9YXUSScLTmpeVcAqk2ObDpuFigxnHxfqcA+PPyJfvNDyv20yQ1QGpbS7K2I3CcHLumZ9JDuNCDEiNWhmg9qvc0a6UYMzWoE9aSxiTSfvsOypqSizPWsDnAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-91-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-91-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-91-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-91-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-88.webp": {
+    "w": 5458,
+    "h": 3639,
+    "lqip": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdABojKkTOouywg3x1agAA/qoCIXZvZAds669J4mf1Uyk6iWfjTjYY87O+kDaIZCkuJ5i0h5p4u9tj4j+zxVbtBU2upnPkzhHOPOtH4CR3ZHt6TAFZ4YoaVLOYwy1HQ62A3eZ2MLZS0r2FCq4RYEyl7LDB9CcQ0ja3pN/K/pMtZ73AAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-88-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-88-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-88-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-88-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-89.webp": {
+    "w": 5458,
+    "h": 3639,
+    "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdAB6XALptErlmmoFoAAD+wG7O2IBzoGs7wQXZBrtvAn4030ZDQaKpBO5eGk3kWbstujn/yyUI8XLHHafLhneiqcAZbAVQi0imS+py/UPPTxzm8w1Y7EUeP6Knq6wUndGK672Vd8zSRJJ9wlJXOrfe1flqamCnAKbYlSSXoXZR5PPrwAAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-89-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-89-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-89-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-89-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-92.webp": {
+    "w": 5190,
+    "h": 3460,
+    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAvQTOQt2PKPB55hOQo5O5s4ADypeCIk6EpZlZXdkuODYYgVkukzVCo6AURsQyH1Hg3zgVTj7L8/fiWyWD8VEonvRrw8JvP7Jh7ON7+9DP0gaoYhu4OjjYtN+cGo5fRokVFV+GUEWYDa93jZwBDYIh8TywXqUF8o0pYWalCaGPOv+uVk6l40DMU4OUQvCM0U0ZSACfXKG8cXGwJUdMp6AAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-92-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-92-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-92-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-92-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-93.webp": {
+    "w": 4459,
+    "h": 2973,
+    "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAADQAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoABXfVG3QsiGXQA/r5V2uCWlDw4hSlGXwmnJsb/yDIiR9quCwxRSV9fSnsWZEjXqPpfBenyYY/9YnVuASY1DHHzhHP8XGZRvh3kN73QMy+uhXn2kVyK96CaIJKzYWTBZBw9RKWE0q9Dat6+HilfUbSSujPjriwM0AAAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-93-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-93-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-93-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-93-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-95.webp": {
+    "w": 5254,
+    "h": 3503,
+    "lqip": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACsICZRAXgJn0RzPMK7XZw3x5xXv4AA/VOke4bj6JMGdPAedeF1H6YvGyqVxM95MzRuFIyyzGd24im/hqoAXrKqdenWOvXqtZqlKPh93e2AYjcR2glV34KoOImRVGf6fG3F0+hp/S+u+0Ap9q4oxJilIiUTfylVfN4shpJntBPUN8reR6xQ0gwzrSyj3YSvTb3hoe1UWZhhrIwI7V34bpfLyKl5fDpoqXhA9Y9oQAAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-95-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-95-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-95-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-95-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-94.webp": {
+    "w": 5254,
+    "h": 3503,
+    "lqip": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAABQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdMoMpJnAG8C4J3MLwxfB8lF9b+K+19uAA/iehVA8tE9fOTPAqWSx8isHmgol6OS6Hw0gHWbDfrHQtdxvVfSCgMtP9B5CKOnM+4v+0SrlZN0jQy/teUHBYWUb3TWTdLYcwVMqgqY5EpGEv8xBn1ZQG9yeKpnsi1X72xnFcG0Z7aND9biutFs7OKgdMcJ4jKRFJveZpGIOVntBYtl2diZGBlkAMBRR/rMK4xWUCh4I0gAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-94-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-94-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-94-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-94-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-96.webp": {
+    "w": 5254,
+    "h": 3503,
+    "lqip": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdH8GJVKUB3sR8ludiS/qQCsiAAMwkjXnxyusrtlAQDnbnJGDFYHOW05lHYvmzZDHbWe+tnDNEcLJNjZMf25KtpmwoUFWBwBeT+RavBcuGfm6zEVGnjBFHPoy24VYuxeKYsz5kxnOeJIBuY7lV8H8DzzkVKwJmVUZtf75Z31OWxgg3NS4jFIP+/063lzlmQMBkkD7s5ww5Mgne/AkdDahuyxP7tj+dNUTkAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-96-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-96-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-96-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-96-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-98.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAlsxVJpYbW2QeViwT9lHUAAP5KZxnXoOTHKy53Rq13ENCqFWKAVU8tLPthk5M1iHfWJCT94hfmqIp/6NWlSUFx4mgmlKXOUQvi0yWUJIP3wWtwG4oH11Z/m1LDw6i2cT62iqiqbSouhGf+mK/Tyyv15p0nDkyjrGRJl17KiZqsoPn4TlstBCroDy22XYGgaZHArx2SGJNB2ZcMHBm20hNrEATAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-98-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-98-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-98-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-98-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-97.webp": {
+    "w": 3991,
+    "h": 2661,
+    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdH8BDgbUwuz4TJ5EpcvsGAAD+wanS9QrP2N279baze6jeeJ+e8G2AG31WhUc2RLZ6nRlZZN0fxGQmx+ovAdTVpSmhVPdgnxDcGRmivK+GdA7VNiCRE7QJ84vdrDYMa0/rg2n03H06Qt8DQHDb75wfKoU/abOSfUauBmV7GjijHdDSa5zjMXqJriTbPYYj6+mRm73GQS6A0TBRAAAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-97-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-97-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-97-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-97-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-99.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAwBQCdASoYABAAPu1iqU2ppaQiMAgBMB2JbACdMoMrasAnQBYSB4iIoev0gcozkQrkAAD+6iE99V85VitBCVI6EPJED1uwz2UhjHC53vFT3X6MtD+fg92uqLt/gX+QMsdy9tHyXZvJ6hIOEbpG6/69a9kvMHNSmJ/fq8AStUx3ZB4XTBvrtm+Yk1cIKqwOyZjDfFO8N9O+JoMV9XFffuDSdyZrC/gHHZIYihnSCxpE03hqAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-99-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-99-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-99-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-99-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-101.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdEf/i2J2pmzJ93tObZYjZMe00UAD+5FrtFqz9PE8GNu7baVUumVUF2sr3bweSNMXOcVPLzIGrVey8ysKOTWJpAMYSph94gcielrZI1n3aaG1dqfuxfARWxafWVY2CLf/YCEFoy0pOglfv5jvPoiocnRElG782GlYmGALFLIG4vs1eaQ3DAnlOnZcg2VRjblKERwaxM/1/WTQPLXarLgAAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-101-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-101-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-101-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-101-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-102.webp": {
+    "w": 5212,
+    "h": 3475,
+    "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdAYvqwO2O2rXPZjbZbigtAAD+5OZGE+iIu/C4L9YROsMfAvZRtq3DA7/qtQlWwoFHIFYSTI4esnnqmrFkcoNg7SC6ErwipwybzFlNT6N7xKHwtSV26wpldLTPh+z+gX+5N5jBzWPI93b70xzjlHz38UkkRzJayGhb+sXoETL1A3OrXgWOlymuN3Oz0IAAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-102-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-102-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-102-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-102-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-100.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdEf/i0rw6fQu7dIlIEPGOGAAA/trBlBapTJ2LfrcSimfvahO07sMj+XdM9N15jru8reH65Z6b3yJ1K2fsmZs/aSjFNIOCpGY6XPyX0DYNzZOGL4HtdG0/L+7C/Ih4t4W5eO42qXw4sl/HxD/DmpogXMr3x4mGO5HvETt9NCM/kl2qVizAIszKLCRDyXPfYaJn3JiaC+RHpmi65G/1Y74iAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-100-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-100-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-100-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-100-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-103.webp": {
+    "w": 5212,
+    "h": 3475,
+    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdEfwC2cl1OS7Nd9AU6UgcAPzV9/9PBau+WL0E7ZpSjDWsdViQt+YME3GoedAokLr+PQcH0Qb6ajQRIiUjrn0G1UB5xfR1LOAgpNl/LrOmkv/TB9fyV2FTFyvjWopsRo1VHpElaKnLHeMiieZ0FiEoRTy0xhKbnx6EFfxCeFfeTYXRdcEiKbAs2bXs+oCxCtEhSAAAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-103-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-103-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-103-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-103-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-104.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR4GCnGNCP5p2bC3vnwSDLPYAD+eSmjhbPA0KMvdofc2T0uE89LhIZpWq+rhS1HTGPDpV+BNfvXFevxfN7rWL46Q9wWHjXeaAAzgSnPZgOg9EMz8Ge7wmA2thReojFtT4OPlarELPz8O1fNOjEMrud+H0SASW0g89vus0CaSd77M77k2RsGfUTKXy7IqvN74dmtBRvKLUpcIQnM4O/M4AAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-104-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-104-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-104-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-104-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-105.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAlyBVye8RSFTal3rgyPkAA/r5XyX+WuEjxpA6yeBZ5ZTN6DnNDUIXTtPqrLECDI9ITCT8ScylMBH/BebU4eRKLDICRwc+aqPCXyMcUY5DLgPJtg4KPHxYW3xcNtaBNC3SQmQbX4pK+fZeaLSgyj1BwNj0RJduXjygSS5jIGO5RKWn6Qm+2LFd2v65FxFB03NbAW9+b5VrFNJX292vfAAAA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-105-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-105-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-105-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-105-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-106.webp": {
+    "w": 4890,
+    "h": 3260,
+    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR4GkgBbVVgeUmNnIxwDUZSTAD9U0teYj7O/7PMfwRT/apmMoTpbkO1p8IVcdtN3CzWr/HW++ScR15DE2SRlTczRzK/Cj4rIgYGtrNb6BWkGtnMe7wqgo5oog9Bt6aaKL2ooM2MSna0Zl+gdYeBy3aeWF6Jz7mXDKB5AyYBWjQJJSZuYq9FBUhzl9x2DyeuzNbPtFo1s0m6/qSzlLxgAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-106-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-106-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-106-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-106-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-107.webp": {
+    "w": 5122,
+    "h": 3415,
+    "lqip": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAlqhb+ADCrXHCZ2uXkAP6tPDLwHuLMZirrAgQds4R6M6aRcjuYYgpzmaRTTdI5w/iOJbUaLJ7ABmk6+uAvDYRZ+hs6t7Cld4sLciPcjwVBy26CCft56UWcHRZA7nfSIkMERVKqGmm59/2W07qMqKhV92kU817OYczN9qR4vndy4m941oUmOCb3PvY4wXRR2vXbTAHIRd5G2Txeb8PmHzSgHDl/YaaAJbH+hGGAAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-107-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-107-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-107-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-107-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-108.webp": {
+    "w": 4561,
+    "h": 3041,
+    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwACf3dCkMhhKDlESrhwSAAM48OXDNB3EXhbnKaXuUS2QY37wBak6mvEG22PSCwIKURYuWrMPCqLVvgmdmGese5l9qH9uxjSXIlCQ8Fgcn1LTPayQUO1tlDR7JRS2I/UC9oy92udCx62iv1uIPA0QCxV+9As0myuiL3fwIZVN4DrWAAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-108-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-108-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-108-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-108-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-109.webp": {
+    "w": 4676,
+    "h": 3117,
+    "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdMoACKV4SuKa32e4pcAD+6JZw8LY5O9Kfz58U9bdnl9cSJEHhiWvbeYCt6FZiSBnVM0uRXuRQSRMz1wdnzdkTIOB/NVj3eoi3LEaPM5/K0vWWaIMbszkPfF/Pp4sXL7gIIaYxqMMeep76VBa2EY3mCh8gAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-109-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-109-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-109-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-109-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-110.webp": {
+    "w": 4984,
+    "h": 3323,
+    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdOUAAw0guxsWm6fICIellv8AAzj5AKscKF6zNbM86wqYsWfoJSDCEnGFJjozqwws8nqWjVfAf6nQfHqxxf+JLMSn4QddRjRCXoDHL3auNZrdNjYxPbMIwpTfgkwQvKF4R9yjDJUMwOc+FLbvSzRb2Pw0x4ZwJ1c8Dw5mbxPb0Cc4hZgygefr9q0WXld6R+3Ez4bgAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-110-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-110-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-110-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-110-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-111.webp": {
+    "w": 5022,
+    "h": 3348,
+    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR4GCTxTsOdncpWHzS3aV0WAADLRV52m6WoGNxMMwZSOH2rx4u6FVxREDDESo4ZK8XU21UJCDrjPBStelGLCJrul9Nf+8+IcJHdCrugrlh2mkcbJ/UtHdyvw9+L0+2zgoNwQY3SxsZCP7Hh3y91wYlRQT5oWagPUToDnlq7puYBd+2//4ObNWKYFHh0m2zI2G1iZimftIXkIM4oVhTMIjGWlwgAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-111-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-111-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-111-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-111-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-112.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgZYJywX+SRGJXuEzbBRmoAPsfxhd3eSH3BkWeOwxPFXtRiP8djil9UdUkGjwESUr9xfWNsoOYjg8fIOfSfTmDZrGLfJNiWE7w1F7B2S3a60LpqdadJNz9KbIDGYSWUQiN2Owqd6iCEOC8mf8D/f+CEhswV/LJDhGpkclTyN0BNvmjEpMhgV/f0mY5/v4oEpY5xUQxBM7EAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-112-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-112-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-112-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-112-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-113.webp": {
+    "w": 5350,
+    "h": 3567,
+    "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBACdASoYABAAPu1iqU2ppaQiMAgBMB2JZQCdACG5d7tKmQXcV3MVEAAA/u7dZNMMDhrFyCd/TsVLmKfb1z7Rq3Tr9+9jA9qaMQJAw2xgqaPeoZP/RLYRBjtT/ofz3E24NXc2pOND+DNfJ1Kx+uOZUgBe3HUBkjUgLldg+QE7HJjTwBBJbwG2D0QSLYcWCUeYAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-113-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-113-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-113-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-113-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-114.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdMoKOOAe/mcbQ7j5G02/UAAD+5Fkdn/skKt7T+q/BAy8+qOg+BP28N97hD9PpAzM37rf0qsvonH1ubsyjPqb4Gi45kVVpo9lSVHnW5rUV7eONZUv17RzH1g5Aih1gTuWzYXt4qw9rnit4u6wZKpnJcvHrh7mi6DmUEi3E5EtdvTAgBSAFFJu8RZMp4EKPOyBAAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-114-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-114-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-114-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-114-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-115.webp": {
+    "w": 4749,
+    "h": 3166,
+    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdEf/i15kZmkBcINQ+rBAgAPsSPyszJgffwJwL5d3WFwgzkw9VHqjs4SSgOq8IS9BuvCm7guHamuILF+6JubzbBbjSjGmrHuCGWAsl0rkXqQrHkljmHeHVMZeAhsjck4ue2MV5N3mMqp5rLRNLKRioGoWhrRWlGe0HPuof13V+yH/kIme4X7UUl5NoI7A9T519xgmwAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-115-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-115-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-115-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-115-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-116.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAAAQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR3BSAWDPu9Q5Acacrs/SDdcUIAAOC14Kkbp1V3V7f1gryBFZicq2nF4vczFgH9ADO51N6Ci6Zori+UoQo0IWUXWJ8DB/hiO2JZqKmino3cnxXJPzU2ToVnC+kSBU9a2CYAeLIXoOGI6/C6HIPGOZsy/a53MqTz+LcwE7kviZ03t4tM1qyrIk2klUi3b8QAAAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-116-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-116-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-116-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-116-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-117.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAlvBIDpJ7xDR5Nib4hBAD+56NEFjlvk/KwolHL9rThchiIrldSJ6Vtxn1ZdGBM8K5DwHJBZwvcE/c86+ORVC8yUutWCTvraYWS9hDnoL3B+dZVOd/ARj9a99Bf+Khi9Owo+yonuZB51pLt+OyeaXzp7ZvCzV6tI/9IngGGAYmMdRcsWDXqT3psYjQ5j/dm5Q422m2fgAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-117-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-117-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-117-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-117-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-118.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdACBX+zqTgIHkhX+EGjm93gAA/uf+Wbn3Ez+UBy4O9ktQIVBP4v59MIeS3ezURrp9ls8rLdAEr8mc7sUFnjUykVIFFD0hr87TkxvJa0adIxFkQlAM/OgOoH/hF4zAMlTW5SHdZ2B894fmQnrMNOwx8H0a2HqG55TA+freVZC3cDycBan2oILHrjU9haHhMVHbRhaJ6IOjofAAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-118-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-118-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-118-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-118-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-119.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdAywBdp25c/BuidFg0B1TiQAA/uDVSWk4BBnhF2X3US7+3JigRNhUDqT3AHfeRj2Pwfewy1x5vOB/ON2utrzw9bKkY6TTm3JDTOOncMQcYiThYsv0+2mtV9XCH4pWCpLdOFEQTovOSCZDG9D8zSKNhFKF+do/jzxFvhnuXLv61jj7T01LUKyyERW3PjWkxcEK7SU1fUzTgAA=",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-119-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-119-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-119-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-119-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-120.webp": {
+    "w": 6000,
+    "h": 4000,
+    "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaAC7AYx2kMKA+Q1fm6r4UAD94cLpwfffo/DfuaFtzRLEuSuL6GPXhjNbFkLUKuAg/fNSX5j8Xw0OavF+VXUpMD4L15rRrRJl4Zh6R+/aj0CtYas5hLcUzv5tu4b3tGVpyqOXUdQ3HGW2TGtFxx6yVxAwR6XZ2JOXXUfROuTIKnC51CnB6f16lOJxU4AA",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-120-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-120-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-120-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-120-1920.webp"
+    }
+  },
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-121.webp": {
+    "w": 3549,
+    "h": 5323,
+    "lqip": "data:image/webp;base64,UklGRiIBAABXRUJQVlA4IBYBAABwBgCdASoYACQAPu1orE+ppiQiKrgMATAdiWIAyywJpgq6dX/YZuFoWQlVj43BOYbOw4zx2l4uCn30r3AA/uv+Q+V86rGrdjEqwFF0IxjjtaJBw9KrwIAjY2XEP0nqseBK509DhTrfHC3M6H3uD4YACrRAxEWE/SpoxuRlnj6Ccvyy0OLGThZLO8Gzs36WJjzpBwmStfFRwKYQksXnisnKtSgMISjvCFCAFMBPpwlQPqFFe4ImXxUqPqaw9KdJjApXai4L8dvxUpkd+Ut3dJFqH0v8KbbmH+lhOPMZQvlPWDx2lh+330ipO24bIhl8YAsIpy+EFzFeckp99b2XMRmasSPe0T3Sd/N3he9gPHfEQC+IVqgAAA==",
+    "variants": {
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-121-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-121-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-121-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-121-1920.webp"
+    }
+  }
+}

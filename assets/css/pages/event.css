@@ -1,0 +1,90 @@
+.event-masthead {
+  position: relative;
+  overflow: hidden;
+  min-height: 420px;
+  border-bottom: 1px solid var(--line);
+}
+.event-masthead__bg { position: absolute; inset: 0; }
+.event-masthead__bg img { width: 100%; height: 100%; object-fit: cover; }
+.event-masthead__scrim { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(20,14,10,.1) 30%, rgba(20,14,10,.86)); }
+.event-masthead__inner {
+  position: relative;
+  max-width: var(--container-max-narrow);
+  margin-inline: auto;
+  padding: 60px var(--pad-inline) 50px;
+  min-height: 420px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.event-masthead__back { display: inline-block; background: none; border: 0; padding: 0; cursor: pointer; color: rgba(246,238,221,.7); font: 500 11px/1 var(--font-body); letter-spacing: .16em; text-transform: uppercase; margin-bottom: 20px; }
+.event-masthead__back:hover { color: var(--gold-ui); }
+.event-masthead__kicker { font: 600 10.5px/1 var(--font-label); letter-spacing: .28em; text-transform: uppercase; color: #E0A63B; margin-bottom: 16px; }
+.event-masthead__title { margin: 0 0 18px; max-width: 22ch; font-family: var(--font-display); font-weight: 400; font-size: clamp(34px, 5.6vw, 78px); line-height: .96; color: #F6EEDD; }
+.event-masthead__meta { display: flex; gap: 18px; flex-wrap: wrap; font: 500 12px/1.5 var(--font-body); letter-spacing: .04em; color: rgba(246,238,221,.78); }
+.event-masthead__tags { display: flex; gap: 8px; margin-top: 16px; flex-wrap: wrap; }
+
+.event-body {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 70px var(--pad-inline) 50px;
+}
+.event-body__lede { font: 400 18px/1.8 var(--font-body); color: var(--ink); }
+.event-body__p { margin-top: 22px; font: 400 16px/1.8 var(--font-body); color: var(--ink2); }
+
+.event-gallery-section { max-width: var(--container-max-narrow); margin: 0 auto; padding: 30px var(--pad-inline) 50px; }
+.event-gallery-section__head { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px 20px; margin-bottom: 24px; border-top: 1px solid var(--line2); padding-top: 26px; }
+.event-gallery-section__head h2 { font-size: clamp(24px, 2.8vw, 38px); line-height: 1; }
+.event-gallery-section__head-right { display: flex; align-items: center; gap: 18px; }
+@media (max-width: 500px) {
+  .event-gallery-section__head-right { width: 100%; justify-content: space-between; }
+}
+
+/* Justified layout (assets/js/components/gallery.js): each figure gets an
+   explicit pixel width and a --jr-ratio custom property (its own w/h) from
+   the packing math; aspect-ratio below turns that width back into the
+   exact packed height on the image box itself — so a caption underneath
+   never borrows height from the image, and nothing here needs to crop or
+   guess. Rows auto-size to their content (flex-start, not stretch). */
+.event-gallery { display: block; }
+.justified-row { display: flex; align-items: flex-start; gap: 14px; margin-bottom: 14px; }
+.justified-row:last-child { margin-bottom: 0; }
+
+.gallery-item { display: flex; flex-direction: column; gap: 0; }
+.gallery-item__btn {
+  border: 1px solid var(--line);
+  border-radius: var(--radius-event);
+  padding: 0; background: none; cursor: pointer;
+  display: block; width: 100%;
+  aspect-ratio: var(--jr-ratio, 3 / 2);
+  position: relative; overflow: hidden;
+  transition: border-color var(--dur-quick) var(--ease-editorial);
+}
+/* Same hover/focus highlight as the event sliders' own photos
+   (.carousel__card:hover .carousel__media in components.css) — the grid on
+   this page and the sliders on events.html are both "an event's own
+   photographs", so they should feel like the same component family. */
+.gallery-item__btn:hover, .gallery-item__btn:focus-visible { border-color: var(--gold-ui); }
+/* object-fit: contain here is a safety net, not the mechanism — the button
+   box is already sized to this exact image's own aspect ratio, so contain
+   should never actually have to shrink either axis. There is no
+   object-fit: cover anywhere in this component. */
+.gallery-item__btn img { display: block; width: 100%; height: 100%; object-fit: contain; transition: transform 600ms var(--ease-editorial); }
+.gallery-item__btn:hover img, .gallery-item__btn:focus-visible img { transform: scale(1.03); }
+.gallery-item__cap { margin-top: 8px; font: 500 10.5px/1.5 var(--font-label); letter-spacing: .08em; text-transform: uppercase; color: var(--ink3); min-height: 1em; }
+
+.event-footer-nav {
+  border-top: 1px solid var(--line2);
+  max-width: var(--container-max); margin: 0 auto;
+  padding: 40px var(--pad-inline) 100px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+}
+@media (max-width: 700px) { .event-footer-nav { grid-template-columns: 1fr; } }
+.event-nav-card { display: block; padding: 22px; border: 1px solid var(--line); background: var(--panel); color: inherit; }
+.event-nav-card:hover { border-color: var(--gold-ui); }
+.event-nav-card--next { text-align: right; }
+.event-nav-card__label { font: 600 9.5px/1 var(--font-label); letter-spacing: .2em; text-transform: uppercase; color: var(--ink3); margin-bottom: 10px; }
+.event-nav-card__title { font-family: var(--font-display); font-size: 21px; line-height: 1.2; color: var(--ink); }
+.event-all-events { text-align: center; padding-bottom: 40px; }

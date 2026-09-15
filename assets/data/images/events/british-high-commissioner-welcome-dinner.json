@@ -1,0 +1,915 @@
+{
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-01.webp": {
+    "w": 4749,
+    "h": 3166,
+    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoCGA1gToQqdUy66Es+PBrchdSAA/U13RDZ4UpN1ikCxxp4Zw9XsM3e8ZEDWOvvM1Wr369rEd9RTEsjANSxYEIHrAhR8i0QIVvCfPrj8zRIapN6Ko9f3LD/z9Vi5ZHK9uQ9HQdNNM21I4YwFZlnWYQBaF7AYKXc0ieHWG8Hw30o+pwGIx/ftn0HTF73ZqMrtVHPJICWYLkMjxvVlBGm4a1GIoAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-01-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-01-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-01-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-01-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-03.webp": {
+    "w": 4302,
+    "h": 2868,
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAlwhgdyrvYM6qNGWDju6jgAP7N4WcX7Ss9C5qa2wjnVt0isoDxn74CNKLTzNVd1bzEFnCFrBXFzDwuIkHoVS3ZE4/nVkSq5+5VzcThZ9n5gMFVyix70fHbH29rGf7/v4EPQjgD2HHsLjfGZeVw+WdPMjfzSSt6/asUuqv4GBihSu0ZNM/foEAKEg/mTWvH6JNyya2miAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-03-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-03-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-03-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-03-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-02.webp": {
+    "w": 4943,
+    "h": 3295,
+    "lqip": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdAywTnYhSoYvqrd0ZYi+ZGQAA8mH6EdjmIlGiMXhOGJd0gSvBgK4ouY6Q6efJvDGw/YEBzMYKdde53Gsvmeoea3DQ+K2yU4hzyAryIJFf4wfZaKu7107fvpto1hEt4S9T7qppYAEZb7qNhtw7H840j6dME/vOIS0Ax8vUsupdnxHUl3+k0krvm3MY+GXFpsrdx++zM76MbarbJr4wuc1F3+wkEFyL3NX1EAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-02-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-02-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-02-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-02-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-04.webp": {
+    "w": 4218,
+    "h": 2812,
+    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwAdCUpYTKFblLknfoQ0LE9AD+wHT44ylmIlOrUlJQMMHfnFL0YNFpXDJ6x2svkvO5h+ceTzIPa90OqDIbWase1cu3TpYuUymEPFeGdrmCwdO/i609OQ3v383HvpfvXfIsw9fAD/Wrks/DJUpqpCEnBfZWysumzJ3CZbvkF7NR07RdRjqUzvOdtHActAj/uW7Wr/KXJcDgAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-04-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-04-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-04-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-04-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-05.webp": {
+    "w": 4837,
+    "h": 3225,
+    "lqip": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAlwBIzB7r/eKsZL/nTwAD+wEAP2NXL3NaDFHrF67sgQjiyMHc1dQNZAe8XKYab5Q4JePZq0HlQmdr0se7C6HWKzbotvX9uIqrKgfvgMg4fjePWIUmWdAaL8dzxVExztNKF0O1PyQWXwV6cvqTQ933jeuUXoWX3oI09Ai4oqwAAAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-05-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-05-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-05-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-05-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-06.webp": {
+    "w": 4845,
+    "h": 3230,
+    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAABQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR3GQAuwAcplLhp1msYGoACfeeyBwAA/qxpE0ddWAq2ollJbfzxA3Pk7mD+nE1Dps6DFHs6LODNwh7/QIV2ORuercv9fj+WWTjQd6gUB+cdup/wTBuneZdZvdy22ITBRSvnRR3j8GH9+kIp1lvO1U9xuM+ccgUjmG2nWEs+ZMZTSeRMcxojAg9TscQeMTHfdxP5SeUiq78S10xABXmteCJEbLMAAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-06-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-06-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-06-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-06-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-08.webp": {
+    "w": 5165,
+    "h": 3443,
+    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAvQBnx/D3ARf10PzFkTQsAAP5lnZsOz1Ydjbr19PLQ7TBLDv12rxnhr+oE/Wr+HkUSM22e8uw5EaKXnrWfltgfP8mkNJ9OAZiJYBjbbx4Z4MrgD/Y8U5YvPTPDYnbcfo1DeKdbZNdmnjKZ+yyKtP01hWxmpS2NytGhD6kk9m8g42QzBW+de2O2oeiTq8IcUrlrEZHwHP4AAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-08-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-08-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-08-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-08-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-11.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAABQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwCSAKEIWl1Tk+GccOPXAts1/XFuAA/uf9v7hvPWT+zfYi95aBH/2AyTWjqjMohjGz7/+bZE5WW7/7Lv1deWQvenaeAjxANyEeT8NPo7G+0o5FYHoimnocPc7NRC0LGNcbpFYKskDj5PX8gu49E3bz9QhOrZupFcKneJa59MSK6zw99npa9E+R5uhJhoFdqmn+iYyTpeAAAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-11-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-11-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-11-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-11-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-07.webp": {
+    "w": 5262,
+    "h": 3508,
+    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR3AdElBbCoOUrZ4jlwC8bQAPqfxibmx+q4l/1pnNHzeBJqMCbCYl7N0QOFx+3+yUZocgAJsV77UVJ4yXogpsIYJRV6cFJgAy6P9loDQ7fuUfr0Jxd5nrnEWMQpoQO9nL8DIVO//o3kjTRlutH/1tyKk+WJh7EQIIHllT2fppKqTEu+rL5Fi/kvVhVUS+KksZztWvMN+Tl8+XC92AFwAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-07-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-07-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-07-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-07-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-09.webp": {
+    "w": 4371,
+    "h": 2914,
+    "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwFf/i2RUMRlLkDw+R4nXdyADiAHruzWNn8+SkJCHQ7Yc5p81iMOEVFdVFbN5mP5YYsoOtpslhD5oKM48wh7BEntge04kBTcZlFXnUS33XCn77U9xQgrjNc7gh8k/LmvZI2Nhp/gOE+GYkPtqweQn134JX3jnVuIpvtn6IEg6GTmSXSHa8ALCYkRBMvgAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-09-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-09-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-09-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-09-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-10.webp": {
+    "w": 4602,
+    "h": 3068,
+    "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdAywBYbGfjeyyvuR7KC9MAPqK/AWlO/Kx+J9z0COIQjztLHFcOcANFAvl6mZOfIRf9zeIKxeKVTJQtArYAl7lLrlNzQ0MVSBZrGtDjxKSo6cR1uYh3AMc9SWhWhWXD+fXCN+ckpvbyqBZexVkfBbuaGZiDzX+YrjsoY0TgVhHx72FHAAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-10-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-10-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-10-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-10-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-12.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR3JzNOA1AAEq+T92A4UxBU89haUuAA/u3tdbuU6NgmQ74QsJaY802FCzsAL3tAE9QdHoVk/7I3Wkzd/42A/UlzRuELnZ6NqVNP02crynO//evu37U/9FRYfeLfguvF7DTnPhbBdALxpZriH+b6ug62X7uknKkdMUovZsazfhDbjKbrKqsgm3Hf/5lLqAcIa5r9oQqSmOvJAAAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-12-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-12-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-12-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-12-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-13.webp": {
+    "w": 4978,
+    "h": 3319,
+    "lqip": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAACQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwH0zOIC0InL0/aZqw+K7NBOlbTkj+AAD+1+fIzjzE/iuABplaP3DK7L472QHNM3V2JRXpP+YHCgBK+Z5vW7FM7qTCxWbCSqwA+jQLYP3C4vnsz5+mdlAH5Zmpvd/LGjCVfsQB9CO8pgw0pu+f6fO3jp6NyilHV3NA+AEwO4o8+DQT8DcOrg+fqL5AE7z8DYnmQEN/JTZhsGWYD9kcEvV6Niav8acOn10dJpbxkkzmDBcTcigaQAAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-13-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-13-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-13-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-13-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-14.webp": {
+    "w": 4614,
+    "h": 3076,
+    "lqip": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR4GdFIqg7Kj8lCTNrOAAD+ymEyWFUPqvsU96j9/8rmJ6WmVQOtYFHiMJEjqyuM/R6PxF52ZGEhrp0uvJAJE545/uvj7p8ogz/ut1UMqKIqwrbecSk7jjMmAYEX4Sq8hHf34jGL2zWE9C7+pak1uGCQBn29i4sv6INCTdWu5yzO/L36kcrF2+1Luwnx4WEVc9nMghjMfdFQSPPhvN6XkCEdzBhVAKQA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-14-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-14-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-14-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-14-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-15.webp": {
+    "w": 4122,
+    "h": 2748,
+    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwABuqi4JfByNULM4+umAA+Na4Rr46Vq2D/sCNs3duXOCHFYOoEf25UtS7zqrIm5J2tuThFT1FmBoughzQu1IXOAoo19B4c/UmpuYJV4+MELjydUuAe+4Wzs0+GxXTN3uSG7Bn7wG8wBP1cvzHEvhbbQRlT5tr8PrYVGhpeYo+plFScMA3kp167yyiJhNILJZMSpU5DyyQRLUFkijwAAAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-15-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-15-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-15-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-15-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-17.webp": {
+    "w": 4908,
+    "h": 3272,
+    "lqip": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoGv/i2SmgO6gh7BhtSh8Csp6QAA/ogi//BBO4d5hbnVDHocIxHaPoWrZAxdvJXV3yDbKcbkpByg4OIR1jFPqkQIwUQG7se+SSZltJQLe6ajWXU+TB3Z3x2EZl1HW+EbDfrPH40Fl7pP2WUCSK2kA15/Fvhk+kykXDWVUfNf131DjV+Z7tXWhi8FNfR82Yzy8Rbj254btq2df8zyc/FaaQDL8tvC+egAAAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-17-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-17-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-17-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-17-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-19.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAABQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdMoR3A8AVx25RNIKMfS7xiSD1ydFBUvQA9l8iuDyiyRTxIQKq+xSp7W9qSYl77D/ul5TrfJ8lq1NW4d3Idgs3lZFfnHW3kprO3BgYDmYMxoztSgAuVAqIiU/BU/8yL9HMrbn48srtgQvvMFqGOa3QMGse/2p86ybRDmgVb+cCljunFcgAIdExh5ELjMLiCkXS1i0i8cgV8Ay4fES7b59gKhoAAAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-19-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-19-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-19-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-19-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-16.webp": {
+    "w": 4567,
+    "h": 3045,
+    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAlyBCfkui6vCtvsYUwgAD+cd2ta1u4HdH5sBUI8usYGRR36R7zvZMuigdctnba0F4zWEXqWGagKNjoUbufNJDDdxTQZBPIBfMp3BUN5UNaF7zqndG88bhsV5BE9h/he3oE+BmZs5cyOs4y5xDBCaUjPKvlji1lWyKRcTRgr6j/l/QtujwSPW1+UXP81N+GEhoI/kcyiwAAAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-16-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-16-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-16-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-16-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-18.webp": {
+    "w": 4497,
+    "h": 2998,
+    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoACj8s+LC8mqq5JcfQgAPqe7F5/rO+YyE7luRQk2bAivX5F3vBTWc82lerDgq5emCymkA587CZjf8MOHtcJ8yR4yF+Wz1gRmM4X2gEBIopX/N9e/ULoD99dt5ctK90jUATfsXm1v/fuvVOptHNOyvByuYi7KXEO/t//16p4P+etktTQ2SzuLcHDVaTdfqbti9YdNN3nVNLyAAAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-18-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-18-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-18-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-18-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-20.webp": {
+    "w": 4926,
+    "h": 3284,
+    "lqip": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoKP+HkQL1xhZmHTomDcKmfxQAD7ouoderjto7bfKgdHcsLeCvz0wDfVukp5eJvDNbU0EJ2MNUDXVhaCXHLgQ1J+nZI1sfHxiadcw8Erb0qkU6NYOIspRbLWedU9NwTyMbQoJyqHHY4e6Iy/P/wL1Oz49qnpyQFjuOhkrGGj9Q2uYQh1y0WjNTG/VuCaIXmLlYKoCSnKG6PtL2YTT9u2pzIFm704AAAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-20-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-20-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-20-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-20-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-21.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdLwABpqyuruCXTkaJzEwQFwAA/fxdsH+spx/ojd8KRxUTaEMIYVdn6whOL7a569rPtDjoeCPeP19qOTVa/2FLi/CeV5DwKDKAhGHVqxbc+Nlq9fAD37Ge9fXz7pILCLP8LKTX3TMoPLDnvwyaSvak4wFgoErh9QDeZpolE41aK/Mc7BTiLTpgAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-21-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-21-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-21-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-21-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-23.webp": {
+    "w": 5119,
+    "h": 3413,
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAluxH5E/Ztq5iSkLGp5IAAAP7ZdKfHkkD2BJPpYZT6gGjQ2FJG65JRSHlZZZ+cxVvDXc+kqYhObDpd+Th/j7AscHddi1nrgjQk+6LmvZLJ+rD74E9Rht3pmQjBePO/E70etLv5YF8/rmHkt87b0Y0VqLDBvKSFLWJ3CQag8eXja+zK8UYrGGjD/Tm0mg9PjXjW+sh+ZAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-23-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-23-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-23-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-23-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-22.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR3AkgBZB3je1nKEC8NQD5CMdQA/b+kGN2IYAuhPheMIYTKk5rDLZuke6KgodFrCdD6+qMAqJKl2hdw1H9tjT7XlkWQfs5MeddpR9165csNxZReqVeBwjNyl63urXbFVX4RQ4mv7gbk3z2K/72JCbPPE4YmcbDMhgwZNQy3x7KB+vXI6319wvPLVmssfiMCtAKwkatUCzEudMLnRZMOYAAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-22-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-22-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-22-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-22-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-24.webp": {
+    "w": 4448,
+    "h": 2965,
+    "lqip": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABwBACdASoYABAAPu1iqU2ppaQiMAgBMB2JbACdMoR4GB/7jnMbbpGp/9q9gADMla2rNemeRG3HsqNcG8VSGbgHvHd6lGknJShP4Lo4e/EOzClyciqhIKl1/+78Kmwmp8g/eOQ3BCV87E8Ioj99nl7CTUHSAzQoNREzBmW9BaTLVn981EKiYMoc6bGS1BIburKh5G/+Wv+AAAAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-24-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-24-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-24-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-24-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-25.webp": {
+    "w": 5025,
+    "h": 3350,
+    "lqip": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoMYA0kBv5v78jUkgZdTtsu14AD+t1JXdU3MQ6ZZqShof/LvziJNirCdJfZ+L5SN0sQyiru0X+aom7jDq3eTY73wmyvOd7vyJ/Bk0YKZNbleVIHwHdgyEE/t3eyAt4riOCKrsxEevAp5655/f/YzFp+TkaO9rLH3gI/4gqqCin5536Nu5vIfk9/Rk3CRzSKZfKAX8Wg9KAgEfry+2xjMgaO7GOfJl6m8AAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-25-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-25-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-25-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-25-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-26.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdMvJOACZoQjkvUdCzDrMaliAA/uYDOjSAckjgo/mZXSJRfr0bTN6PBMkEPFmcA22Xzln2wOUpEyQCbo2P74tYhd6hixerLI92gXQo6zbrEpoZtUVqxLUqp6/EefK7FBfntfEri6Wf8ovjpTRUqWXWBL/AB9fPpAsN8PoAAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-26-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-26-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-26-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-26-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-27.webp": {
+    "w": 4175,
+    "h": 2783,
+    "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdACFw59IjWq+vJI/VKWSoAP6UNzTDb0sbMtDu9S0oxsZvGsFAMeCOTleXzcS+TVeJ/ZO40W4gSxxvPKq3HSV0lku/SC5lPkw16WO97uC4jUMlIJq33v2XrQlM9brdTQ3FuXERwc5bjK9BnzJ4RsI/KzoTVWGtfc7vV7WTNoiMWJoaUHuf+uz4H0OwAAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-27-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-27-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-27-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-27-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-28.webp": {
+    "w": 4090,
+    "h": 2727,
+    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoACxKqoKPyb/jmXnjK/07WIAP6zvIkLP7gXn1ctyobAVUUt40+12g0ogucYaSbwaap09h9XU9Kmt/J+YI8KfIRWG7xWxb7XjttNuTuHm+DiBPpnOqaiRw+zEJ/ESvdHQWFNI1ZW30pdOucnVbQPkxIafNKfQvPNe0qT/JRII1i9FCo/3oAIeUCjDcDmVQpx0j1fAOoTxq7oAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-28-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-28-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-28-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-28-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-29.webp": {
+    "w": 4402,
+    "h": 2935,
+    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAlrBIq3/0Sty1dzigA/t94pjY/o63c/M+ZHxHEcqencFX2sQ1FpBm6gejkaJTxERBqn8CvGomtcJEwUbZX89nHQ6Hl9J9YzBawD1ONbiv1yTpRDmbUrUOJDbU5+jfOlMwE1b+VET4HGSxs08FkmCzgFsSBzZg09g4JdIANc3zVkNIW+kF92a5k9stiDQQFZA+atWZY9s6gMACkQAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-29-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-29-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-29-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-29-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-30.webp": {
+    "w": 4079,
+    "h": 2719,
+    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAABQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwBtApwPeGbhRyoEIJIjzdm9bEg6AA6yT/PDEUPQt+GgvAFfd8XNt2i/WzQAH5AdGSAAbXWyoRJ+Tf0RF8PVtIIQsMJmIYEr/oVSKN//XkJ3uMczJ0l2sdWCpp5ydvVVY/1Wzyk+WjfHfI2vhiigdm7plfgwrF97C6D49v05cAsdSSI+aY8XETM4kSciTwqu+v7i/ZN0ST3wLdxjOJChAAAAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-30-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-30-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-30-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-30-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-31.webp": {
+    "w": 4217,
+    "h": 2811,
+    "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR3AB685XetFXoGvRDVAAD3TgTViBLXBKGR8Oph6sb346KWldoYeuMJvL7p03UQDEwN5r0Q/jGl31ZmkhlpMw7hg8noIy+i3/pNsgVNzCIxlEezcGSWeQdUm2bD1hjkLUI4JYueEZcvclv8MM0BSIAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-31-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-31-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-31-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-31-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-32.webp": {
+    "w": 4117,
+    "h": 2745,
+    "lqip": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdABE9JCSto/6YXfv1wAD8+EwlZNlJ9j2DP3obBu35AgLLfTLAZh/bglDlF0SUTZcxbedhe+Hb/Bcy5NyE2Pxe5UpKlC7YRoM7jYRvIBFGbv5b3/JSxE9QMoW8ZBBOfYZBhb6nAdFTHa0VmGgA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-32-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-32-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-32-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-32-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-34.webp": {
+    "w": 4990,
+    "h": 3327,
+    "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdMoR3ACBHtRKfhOzn4LK9kkAAzIxiZpuXUkUBhkUgiE0q53wynIBMqQUxadR8/gobHxcPFWqd2bfcXDvQ6bfYXj2f58x9DLoOV5WMK6JcVRy6tT/fXYOecD6/A65F3C8fYCsa99/VvV4PQn+puTPmefedy5FPvoojgiKkAPy9YINLIBXMLk77kgJ6GAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-34-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-34-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-34-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-34-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-35.webp": {
+    "w": 5260,
+    "h": 3507,
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdMoAvXg6hd+Cj7quAqTAAykAj3JjyYgq9RX6bsSMcc9Zb1RStxeFtoHJe7qKmfw4kvJmdkz8q6Gjs0WmgPoREfiSMwaFwRglVPLT7jGDepHtfg0djr1SNHq8ZhFT/Ew4WgX+pPlHpq5YVdCjxYyYrLusX5CB5NwzFgABXJTBodrxBgjpJsAaNAgK/WCCYA+iAAAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-35-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-35-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-35-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-35-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-33.webp": {
+    "w": 5086,
+    "h": 3391,
+    "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdMoAB/U76t3ENG8XJX6y0wADKJ44OUPM+QJMgLnI6hTez7lW2BrP6+5kbJBvN5hmn7FVEP4D9sOGZfZz4UcmQzbGzQeBc12QEs/laItFoCDvH7Nb6DN4Ar1xZ8L4H4m7bQB/rwNE5zFub+vQ/eQngh/gs9wJ8myL9+KK1XJGB+ZqfHe1hVSWAAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-33-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-33-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-33-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-33-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-36.webp": {
+    "w": 4350,
+    "h": 2900,
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdAdwA9iBmECW1jBGYtfclWYAA/HkpynlNWTVLkJY05iKQRoD7UWpaSWzIuUoPDgoY/S9eYZtW2Tq/FzsfIZsQIPNLYlGLAs8GfkhXAQkMhB0Wl6vo+BnRD/e0p5l0CUO8keVAwYHiCfAmT1rwYRIV01ByKK4pIT9ib902IcjWeOgajfO4Hlq1mjIKRoZEiY8R+8/gzIo4AAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-36-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-36-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-36-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-36-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-37.webp": {
+    "w": 4073,
+    "h": 2715,
+    "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdAdwAxX6wVGi+lA+Fi1QA/LOWZqcVBCvwTHeA14TxS2GI6lBk8xfCTkNusuYE6278QrROVgdNZAyr+62uDBx3++2N9gsnemRzZlH3aIA5h+1T9mTnerMIm8kl9dqMzCmrI99SeV7oDcwfyEvwIkjJJj8pS0VCXGreJQAjqnKEovcdntbkYu6se7Ul1L8KFAAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-37-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-37-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-37-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-37-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-38.webp": {
+    "w": 5236,
+    "h": 3491,
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdABX1NlcgIPhy1OFZVAD7IRd2A1FMJT72YiYhKn5wqMJTtNAX2sdq+NUC+TZAGD2GHs3+XLqfuQOkVlygTfGwNHs6LFNLDEsPVWnqaPQ43+Bp9u2e0PNBAnYaTA58lhBps6w5aMjw1JTDmsOlfmRXGoZn+orIiNl3taCHjgdTTz0MBz2FE6xBjCsWPhVt7QPUAAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-38-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-38-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-38-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-38-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-39.webp": {
+    "w": 4714,
+    "h": 3143,
+    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoBOAhAAzBn1HQO3tWiZddnmAAD+Q1w73PqVmsx/R9iK8EnJYtuZvcvL+C94Pok0dEQdreKtDC089pDANwMeJYXY8eTdZZMDuyfAuiYhvF+iHUUBYLxxFM4ozNoxVcKU7kdywae8Rqivpk4hOeHRrjSFkBxE7d+JBfd5OmqAHg4NJiXwkILcQcSSzwGryA0Br7EHwkjI+oLwAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-39-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-39-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-39-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-39-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-40.webp": {
+    "w": 4450,
+    "h": 2967,
+    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAlxhQMYThjhUkawYVsmQEAAP59Vz8jFqBQaABlixG3vnPrPDXNGxwSwXO4y8wV09uddFG7z53SuUrgYNtgjFtN3HylOM8n2x/uIwqLTB68a3bOL1tjRD20dr03XURmW3nSh2SDTcGwWgLxWVNvsANFhZUR2/hvxKooP8VhwBiUDq0Gerw3IlVda1jgqIVWtBgA+41sqXxr/EDJCgA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-40-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-40-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-40-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-40-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-41.webp": {
+    "w": 4494,
+    "h": 2996,
+    "lqip": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoMYA+gazorgli2qjc0u1ETrenQA4lFJcv3qJ+7f5mTtfkzbZ7PcCW9aOG2q9qyVYx9wpV7RZX0QemfXjUY6tua/a3vh1U29VktwPDshWzihwHeHGqfhfGrw6sxo7bWg1jmddNmK/OciXCUqqanr4dNi8y1PxTCJLRsoPH+sro/dkTlbECo+5v3Sf73WxuzYR1cXGUFoBNqAMAWG7RGhODFLBg3oL5CgAAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-41-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-41-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-41-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-41-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-42.webp": {
+    "w": 5014,
+    "h": 3343,
+    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAAAwBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdMoMYA+gazc+yVOsq7yKYkght2edhYAD+z18K9atkGEPxROhkMcTh5qh4IUTCpAQ5Gct/z73n/Y6FQXRxyWvJWy7RpMkA7TWW/oYa/ND+tK4wNJV84fibr0BfqtHPIFxnGECmiy55wU5cISiovCvkMCeXo8+/GoyO/JLCdzIXHosfFRN6Tzs0MAqVgZwgs/iEFG7gvU5MKPk9eAAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-42-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-42-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-42-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-42-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-43.webp": {
+    "w": 4241,
+    "h": 2827,
+    "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoBOACPtJ3Uoyd+pK2DTwADMgZ2H2VE3ED9uUEMkTSH4kePWuvIoO+MCh1RtxlKTuYzTCloOmMsABACOJV1WP16eRax1DVg0RkJc+LPnJRBy39fv+dfOb1XEudDBFpE1f9h5ISbT65SfpUplEzdn1zmZOJIEtVnXCbdGLaoXzK48IQbWhHAAAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-43-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-43-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-43-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-43-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-45.webp": {
+    "w": 4453,
+    "h": 2969,
+    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAvWrPQd23pm0u/UqQtOADMU83lffX9d0W0UULrhTyxXeNUQ8XNhlO+8xp/QapRQm1nItLIUx0gnKBfmH4g8jpTIZ2kilqIDltuT9wQgjW0hiHfH4VdM1e/Hdv8LB7B/u6/JRuBgFi+t9eOGU4affFWbW4LV22sFxDOjIHjUenzVq5ChJ9CVuvK17lWgOEMWBN3LlwXd2q/YJFfLaUQhDAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-45-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-45-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-45-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-45-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-44.webp": {
+    "w": 4991,
+    "h": 2807,
+    "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAABQBACdASoYAA0APu1iqU2ppaQiMAgBMB2JagCdMoADZrHWm5r5nHPcoXHQAMrzTxMfH05UpbDmFzrywmIr/cgGcjzxXZ+rQyz/FEuVq6DlIPdubzmyOfB0dwUu31wva8hZZLelTTHqrbnOITbKZhItN6Ed7iGLnX2i7AJH0fGjn4Svwda5CJe6ls4jAfn8N+v6/HZc6CckJO/bo+qg5W4LlPpMYeloQ3KSyAAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-44-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-44-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-44-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-44-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-47.webp": {
+    "w": 4520,
+    "h": 3013,
+    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR3ACAEEMFl848+4T/rAAD+iNIiWVuX0TpKp+BdypHHMUB6CUxMwrS6PQrKTo/hzSKyiIKWTOgjkMadWt+1zWIcoGCU7+wTqUSdu83O/7OvX32V9oXYY0OTaV0Fnr2GCsLvHgRNeSGf/3vGgpQ5FHoaaEuIATDod5dk4wqzqq1svo9+dp/wfIrABrnVW+aJkORyoGqn06cYdlu+gAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-47-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-47-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-47-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-47-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-46.webp": {
+    "w": 4207,
+    "h": 2805,
+    "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoBOABxWP8FjUO/gWnLO5CAA/uxTt1pamya0baYnEuaiZMYVhGFqlqrM6Q1Oln1lmYZUFuIj80InbzGb0WNMJMsmYco2EBVGGwe54er1g9fP5GS7sRvcptx+ArWASCXT4PcN787Kf9n+aoyCVUCTGAqb4RliS4qwvlqgjEPqyeM29LVvVWoAAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-46-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-46-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-46-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-46-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-48.webp": {
+    "w": 4502,
+    "h": 3001,
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR4PoAB2Z+optasIlGOgAD+wnrTjAAIA4OSLnw7SO9UCsYQjc7/oKhkGuLQe/J5l/CKTt85QzLC70gOq8r/fPXIW0/Lo2JHlH2zeCRa/9wPa5aVhrVcoIrmW9vrC7nBUHNwzSD68kLNRMoPEK64dtundXz4qvPipGxhzq0tPw/NIxzRHl2Yla2oFcMpHtQAAAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-48-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-48-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-48-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-48-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-49.webp": {
+    "w": 4120,
+    "h": 2747,
+    "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwACbG6UB6Fwy6YPBUawAA/vDfzomoF/039bZ16Edn3G+o9gq93fSuAeUNF+TfrDGJyho69c/g0dEBg7rViRgGNLbOHkmv6UYwwAcAfWQHCThVlSMm8cSkCVU+lZzf0PPDyxuvOP9wf+rerx4AFm1ToHMvE/7XLybxTZHv/8x0hKDDIig4AA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-49-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-49-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-49-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-49-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-50.webp": {
+    "w": 4414,
+    "h": 2943,
+    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdMoMYA0llUm9457UE6KjXFWAA/cJrhccY4f17zH1FbQTH4kuzTROdgSzBEXY/2xsa0LInDgPd485Gw+xmOeHDccIsfdgn64Vd9KNH0qY1a0gxfrhfUYhbfcxynWsa/mL4ZaWdyGysx2/mE0+5kuQSq/wqYZF1Bcx54UfdPTeKSQjx+bqR/u5X36p543P1oC0RHgi3+wop324OR55a2P56IAAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-50-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-50-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-50-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-50-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-51.webp": {
+    "w": 5017,
+    "h": 3345,
+    "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoMjbDgNa7vG49pubcVMHGAA/kVItSCdaLTyZeZh3hedYTGWPig4yvQfHHDS3rSX9ye9w0DZqzrV5lwV6RrNGPvq64IzjudfdLrt7If+RCzpw7eX+ze+Oe6B8sERMej0IvUspHm63IALCPHAvH330JEDdVwZgO7JdK7AfqUYPmOE8Z9wvjO0/PIo16DUQzAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-51-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-51-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-51-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-51-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-52.webp": {
+    "w": 5367,
+    "h": 3578,
+    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwAkgPeGfdCZQTbmwnHloAAP6mwam/nvtuOAim6jbehCnuBCXiCGNzJB4W/djAsRCyvqY7i94cZS1eZsqfnzzC3jKurPvSO1Z9dsWSPrFJ7SUvno5kaCGJhm4+4d3VT2gXtU8IsVV84kjjYraHHdHzfKLe02dGWoenawuQKSQMRSPnDgAFTom46/AYbztvjC0VLHEdk04hXDN6omAOfu8OIAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-52-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-52-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-52-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-52-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-53.webp": {
+    "w": 4573,
+    "h": 3049,
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR3A8ABI8wTmVmNyZYAAP6jYeAvGegZmZsUC0k29UITLGQw18Bq/2PYnQLtgrKWeXqrQAd/qW3iLsNmeaVu8BhqM/nI+0jIjKvxSBeEaKth0u5K7by7rlELwepaeM44zyZn5zxH59W+ubDCQySfVmYZOg02TPSz4skC2DbDw2ZrgbQA7aLF5G6A8bYZ1yUcAAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-53-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-53-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-53-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-53-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-54.webp": {
+    "w": 5108,
+    "h": 3405,
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR3AA7AZNjKAeN+oWAAAP7mzDnrOOQjshcSG5A2fDqs7UQPN6SU4DKtJz2dRXlAMDtYtx29OEMxqBjLEdy1EjTP+9Q8+4OqGUkKK1JvTKjs5/Msr97kveUQtAckgcE4RL2+zOzvhEd8FhVHDCHRJZ01jPjYd/gBASPulmPYkWy9/Ltz7N25VxnX4GQUovwAAAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-54-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-54-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-54-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-54-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-55.webp": {
+    "w": 5049,
+    "h": 3366,
+    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAAAQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoMlksADJu/4GkykhBo4xUhY0/SAAPkg4BygMkaTaCn+ll2B6ZMGEk7kfyTg8QrS0a5sV93pTZ1os3DstC0AHh7Ph9FrmuZvd1628h+IKlkv0J+9HDUEEie/lSpfOczEH1vBEYxknU0RDBTtQ87BUniheH0BL1f4g1RD5w/W7oKG1Frlodvh6cXA/TbhxMZW37GAgYrpmr7iHr0FwM3G5NatcAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-55-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-55-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-55-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-55-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-56.webp": {
+    "w": 4556,
+    "h": 3037,
+    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwAdFgyiT2tnfmHAKu5BoiAP6ZPy6ZkrUte17MHmr/xOPjbmwu7ra86FLaBzuDUoM3XIcPOpZpjNfhZ5zCNk98jpmj3U9qYXxv/nLTDcbsn5NiObu3d68wjRLR053H2keycr4TkxZ3Hj/YvWu6uJ4gc8eZaYRPVQQHvQUvjdyrATXoX4GtCc0sXjb4awqYy/CIDW6QTZ24qskkfJRWOwAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-56-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-56-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-56-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-56-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-57.webp": {
+    "w": 5031,
+    "h": 3354,
+    "lqip": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR4GdEMpKSCqe81LV39OLurYAD+yKhnytebURmksBL9N28KMqwxPf2t9BqVfx5Aj9NilJIIvw0upqIIa/gTekvDmrWZVKC4wB9Zexb2hIZMErs3bv7AZckEv3kXwo65CSeD+mBSlCGSzH3cef2uaseXRqrbD20dFOu5LxLbbFRcRkjijrHp6ukoT1xaTGb3UIfp6bRn8aJGzuR2SKdXVjeTjHJ05IAr4wAAAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-57-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-57-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-57-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-57-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-58.webp": {
+    "w": 4637,
+    "h": 3091,
+    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAvQBSIgeN/ETdmYP9uY0omoAD6hAXs7wIVmTlZNnIcL0JoRlvIFX9WHDoV81nFDa1N31RoU1vP2AOXFzJRvxp097HBYjr9l9ho466OGt8WvzXz1aFO+82nD86ZSljMWMtT4txHph/i/HK3xHs0fgYnvIMA69xthoJVekFugb358S+A2NWAbnzCYlH7GoXEqFRRIROE2Bwr9rVbk1J5VIdpEAAAAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-58-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-58-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-58-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-58-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-59.webp": {
+    "w": 4608,
+    "h": 3072,
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdHYAQ4AjsBBRcwgc57PxAJuaIAPsHor1rjBbKI7I5ci7gAfxL+gFKX2TdVO6NSIfeNLqkM08DUAF+YMWNnPgD+PeDI1I7UJ9BqD+dmkld6C98gDNWKTscALI0N5PBrIbb7m7MZ143X8lfyXgnCmJgy4KkINZjAkaUUkWdy9gB7HhFng6L4UDCOPlANW193iqQ68voqHVAAAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-59-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-59-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-59-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-59-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-60.webp": {
+    "w": 4767,
+    "h": 3178,
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdLwAVfgo/l74QvsKNi8qIBoAA/umqRtepAKBpfT3FRQsvxkN3uw+t0LNGrkSOVJfV95PfT6P7HFcr8f07/NioDjR2KEBMju/ThaWq8UL3rmdvz9U8xTrcQhASzLBZPd4NAdVst/j+/2gyoxxcgzUBxs/CW5n5JHDlajP/tT9JjXk5MXDYBrxMhW7a4GUKib3MQAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-60-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-60-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-60-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-60-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-61.webp": {
+    "w": 4779,
+    "h": 3186,
+    "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACwBACdASoYABAAPu1iqU2ppaQiMAgBMB2JYgCdMoAvQTPYy9yEO32j+KhzcXKgAP2LR+LTrmL8w2TdE84QEF2uIo56F4e9tTPVf7V/5ziEDPkijBCkiYlb4s2BM0YbiEDIPjWnuoPCVIsoLlJ4fyp61MwkVAQzYA4YMh4jb1P6wLwBdjiwWs90UkSwIvcgJ7tb/w89t8WAAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-61-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-61-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-61-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-61-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-62.webp": {
+    "w": 5084,
+    "h": 3389,
+    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwAkgPeGbaImz0Agg3NCo9VgAA+hCNrtzntlFZj5E4Jpb2aBy84/rlC00Yhh1KTEAh2ht0MQI3SkjaawaneJASkjP15f4K6uPyuKx3DUXnbA8k+Ws736Bz33xTmnvcrKoBAiQUtooOR9hOIxgUvRq+T341KGxyUspWgMk83q25wUTiCrqFZCgNBCeQYaUFMtBfADp4YCj0ZiuIArThZngWgKIAAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-62-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-62-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-62-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-62-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-63.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAAAwBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwAkgPdWW+HqZHPK13Hudslcr3wAD9TiJnsg3/2q6Hj1saILMhGaJxgprWh2L7Ne3AGdcERX6/2LRywZ/h88WDcKpm/JsAGA0A6cFInRPO+860vhzZKTy+Q9NLP/jqf99w1faeCRyr0OsTg1P47CJTLNdgGIG7Z/pvzH/X1H2KljhyjFX7YLIvR2uoMQx4+LMRv+4KS1EZ96nxgN+Fl0yFcTW1u/gA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-63-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-63-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-63-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-63-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-65.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwBtABd+BK/mlXS4VRTGb0t0AA/tAtKA3zPcquTm+wVw2ccllAVymNxACIEZ66BBIVVuJuhzczTLym8EpkiIB1FLWezBOXHuyZAsGInft0s35omdrE4/z12tFI8K4hOQNKWCj/ZOh+sbP6trckFcv28nkmgawFo/jjv6LAkgAAAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-65-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-65-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-65-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-65-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-64.webp": {
+    "w": 5334,
+    "h": 3556,
+    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAACwBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR4PoBxAYyU29kB89wtNLT9QzznqBFZpAAA/ieDcS88ljbJpqzcnIqbECKnxeekYF3A7XTbZA19v4bxXNujukKnwkLZD/sJVPykOokfnXfQCeHh/W1i8cJd+x7MfmVJaU5o+ywd9oVmdxF9g3sp3fFcPRSstVzk63xw1kJgTfXwtI4qh8HcufKD9oiuIOfo58KvpnoYHfYBGEV8xv+AgmWYUSQAAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-64-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-64-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-64-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-64-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-66.webp": {
+    "w": 5155,
+    "h": 3437,
+    "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwABBr3Cfv6w2READ+qM27MrkhMG3UhgBOlDi/yL6Cs6NJ1JA6CtmZomm9jrtW3R+mKb+LEmUg6nLEqNvlxhT5qh88vnbroAzKGga2Y5qHDh3tIMRzD8khiGKlkYm3IfshFdfCUslQ2FqmuWnrYOXlKvB9NUrBhmA+i6x5gmUye/WxMxMIHOqRFGPgAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-66-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-66-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-66-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-66-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-67.webp": {
+    "w": 5206,
+    "h": 3471,
+    "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdG1bAVhpHh5tVsnXbfaIAAP7w03zrmdAIDj1Kib+nNbHtjsE+PvG5Ni9dnptR66aNh+F9oDegh9+jzdHVbO25c2jBXGocAh3mfSPPqARvX/CukiQ+l5VLWqOOsnuvdjal2eCRLNOFPtNTVkorg+sUoIqtUfc26GBWRFTAAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-67-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-67-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-67-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-67-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-68.webp": {
+    "w": 5057,
+    "h": 3371,
+    "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwAB313jhO0vWK2vtgAP7p/XxEoEifBxwPljAidij/M0a5HdPX1nrxrnLg5aAfD+0erFdaw8zTXVfrrCT/pfYPOS9xhv6ThOJ57cXiDJ5ckGHhtOeNuS1WtGP3sTdKXGk3NHCD+BXWVLq4iKAsIhrZkV+B9m0ybYYgAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-68-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-68-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-68-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-68-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-69.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwAB+AGn961sPIiAD+7FfbgEJI6T0DxNtPnGirSAI+Qy3VitexY/54rCWx5qlFq25Ehx0dlhNrXzsQ/FFl2E8EVQCBwXuK0irriKr9drMZpM59IjYotfqgAJIXRYfR+FEDhFkYtSIcDzAaePd0tVGACfvuDpLPIU+Gkqg0DDPJZSAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-69-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-69-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-69-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-69-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-70.webp": {
+    "w": 5009,
+    "h": 3339,
+    "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdMoMjbEoS+8d8X04aYl5iN5AA/tlsZVrS9DLU93KY91/rq+07kitZtyxP8hcZUqSFDm9p8cL3YuN7dtTWjO6whkn9CP0jNnx1RdM6YwkhX+YM6905utHNJoX2MnY2Ky74gH88ecFHtONwAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-70-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-70-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-70-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-70-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-71.webp": {
+    "w": 4273,
+    "h": 2849,
+    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAlvhQOH6jSdYoCbm1Sctgt7AD+GbKSPI+yHqWYDS4XtPbDTR+S9G9yxgZzol3V7UtUQASTR1HGCIhU2ImUleuhfb/dFu7fUAIKacLP177JwYKEwUNz+9sj/HBww2Y+3z12fXum1p0LpC62TqRPmoIdR21oxKGIrSweqlf08thhwsspSQLf7gIo/0f5BKWaJZCfL1ygVXijuMYEAHmG9vc4gAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-71-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-71-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-71-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-71-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-72.webp": {
+    "w": 5204,
+    "h": 3469,
+    "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoADK/YTngCjAPUolxAAAP7RGFCqO2Pp0MOma+OqqCyiGAu9FQar+kQwx0Ua70OciK0LmEt2m5lfjcmArrDzN+KJzy+dlZ2+yWk2rLLha6jP7lHxkijwRY73PS10k/ija70PFYJ2WJ7hyycnG8d3IFfw5e7UjbU3yB3iX8wToMOvuzM8CguCCqLAAAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-72-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-72-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-72-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-72-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-74.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwFf/gPIikBSEdauU4Dw4AAP7AbLWIbI6nnyLXCtuv3ghmIrAaz3QDk1S4qspBahOuVfH3GgWb2cxrHYy9Cge1SewLGHXWTvb8Xm7eYr7CiOHXPZtuBUpIl60mTbk0B5qGl3TPCq1g/0H+9DnFk07fcyzqta2CT5NahUQZwhCBkY4REYao0WuVVV+4XiaUG2s7BXAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-74-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-74-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-74-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-74-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-73.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR4GdA04uDA9l9aSyMGFNnLUAD7FByPeTuloVyEd9x5TMyI1K74TwRjsdxawz8bFtMEkF9Wq296XKGkCcqezrm0Mh8DGaT/KeUqELbGL/ULtY1/yeX1bt5hgMayeY/+7I22JKPwXLRmuMHcVIRmSlV6nU//qAjjs/Qlzh2khW5zLaLVdS/rmdMqtwgI005FRvcdbxwNux5lAuwxgClO33RzM+hPvwK/8x1AAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-73-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-73-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-73-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-73-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-75.webp": {
+    "w": 4679,
+    "h": 3119,
+    "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAlwRl5ItleJqugM6MfPAD+1xt6pxJmr4I7Uw6dEPz6+QNoLaSM90eKxXXPaNd2Y++gIZUPHCz8B0wYzSmc2RXJOeiJ12q52wfEH5npgTTWIuzcTzkuUfmltIiCpenXA6vaMMpGQMakRzew2tURrJVMRkj6N5el4TE9B3F3QMf3jPHRQvk1EsWkAAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-75-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-75-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-75-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-75-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-76.webp": {
+    "w": 5067,
+    "h": 3378,
+    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoMjb0dxnDlS4IAVON9nCjfZKQAA/Ox6PsfkQFx/K6/ue0zggi+Bhd7BV1hbzFvgIYqbFPb5pcNZQQUcYe6QiKKh94ktVM77DX5gVb9G3sG93x8S/3kX6buRkOwwr5P7xDZ5Ybsc9W/YVdhlkTrW8PxiA2v0+bz2S8fIc19Dafn7QkeDvYD/qRyUJsAx90GE0dazEVsDq1P7WVwA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-76-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-76-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-76-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-76-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-77.webp": {
+    "w": 5070,
+    "h": 3380,
+    "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdABozA8Rs9+j+UWP3OXH4APzyy3Ru0cTShiHVz5D+6Wf/5P6ez7yRCpAoKdBd1UeyqWRZHoOOUFn0NnUVLiA0lm50S7Q5cixlIJYJisFqDQ7VX80ozibOKd4jKeCw2zdc3v9740EpKTRP6vXMLBa0D84eNmkdYTWUbh/9cIEEu1EcYH6d4NjEZsjLXRQAAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-77-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-77-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-77-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-77-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-78.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwAdEBCIPqgKZFfYIJydw6aUAA4f/6hUG2nrYTsj/GUDaWOn9kVMq4DwehOJ6NEaM2la7stCdP+kCNfBj3ndVN9zEmSZfPScIJmdWgfVx98evsgpjidr4b9vlfac8WunJWzzFO8yM+guxbsZJFuMO+No8Yde7a9xC4iRC3NkeFXrIj//Xvmh1j+jU7n47PaZOrPr9rAf6Sqc8AAAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-78-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-78-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-78-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-78-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-80.webp": {
+    "w": 4238,
+    "h": 2825,
+    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdMoMYAEvWylHCLGcg8tF7g2gAAP5ha/jqySCZAQnFxvFjUwY/9/1jq79A1BT1Af4G5JvGtc/2hct/BzvpnKlxTPas/iO/SgyXcYeMQwPYyHiCCvO0H5VIfdWizS21gOEiJhxxpfgzH3yxeIdkJ5i6UH/b6ofqJWglBPn0/Ff+gGZEg2EzkAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-80-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-80-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-80-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-80-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-79.webp": {
+    "w": 4673,
+    "h": 3115,
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoADZqaAprd7KEcukDQA/I52ISG6QweJJCp3dQ8D+2DYtc/sNrGj8A0b12C5+XPh12PDXmV2ojSzhE3ZnubUc9fXrWRmd9v9plxMNI25SELr0r6Tcp8PohGCsKg1uEzf9Qsa72iQrl0BM99WhAjXjuA/3Tin1EpqGLiKhC1BswkF9tNP7r4pJkXOai6kzqJ4kCzCgiYAAAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-79-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-79-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-79-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-79-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-81.webp": {
+    "w": 4955,
+    "h": 3303,
+    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoACwXBe0e5MKmajlAD+mRf1X8ErmGnbD1YOXksD0B1lZtrLL42AtCVN2tTVCqUyTWbHdPSDt5HXfphdtLCzsRE9gVLA+HANzoxJUqrNDd76y61ThQHdDSLyiEuqPuOkCWoxIxL4C5TOOgAKXTZWvY/nnrV4/3oZTQOglmFHO2RWRoVo9Wi3cumeMdtMFXbAxqdQdDR/SAAAAA==",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-81-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-81-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-81-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-81-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-82.webp": {
+    "w": 4820,
+    "h": 3213,
+    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwAdBw4ftGQQwJ5QYSAAD+a++TNfNsK6+tBuc1aFookh/+pNw5ZlygNm42YzCSyxZfMz836BV+nYcPcgNdqH42ed2/K1kEY1v4B3ByhUcR9PleeFze1STgN9+XHlABV5550nhnM7gk26RqW7xheYYCsnsdvYlN6WGEjkRg+27dW3ncyLiKxWa3rxV14huqStbiGz91kQH2Bo1AAAA=",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-82-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-82-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-82-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-82-1920.webp"
+    }
+  },
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-83.webp": {
+    "w": 4097,
+    "h": 2731,
+    "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR3ABQ3oJOW3cAqj2sAAP6ok/wfp/i2OrZPsaBdbt4aXdssv4rG/vDyLZkjXGeBoLeZPeEArThmIDPmco4T47PTesavbHt01Kr91mjz/0aqZU7KXN2WV39cqIs4GIVI9k0jk6P4A9buqJE2oMQmRAS8hHwO+Nm2T5/oKxMSxQSlAAAA",
+    "variants": {
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-83-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-83-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-83-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-83-1920.webp"
+    }
+  }
+}

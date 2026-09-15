@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<script>(function(){try{var t=localStorage.getItem('cosmos-theme');if(!t){t=matchMedia('(prefers-color-scheme: light)').matches?'light':'dark';}document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Design System — Cosmos Foundation</title>
+<meta name="description" content="Print & Ember — the Cosmos Foundation design system. Tokens, type scale, components and states.">
+<link rel="canonical" href="https://www.cosmosfoundationbd.org/system.html">
+<meta property="og:title" content="Design System — Cosmos Foundation">
+<meta property="og:description" content="Print & Ember — tokens, type scale, components and states.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="assets/img/hero-building.webp">
+<meta property="og:url" content="https://www.cosmosfoundationbd.org/system.html">
+<meta name="robots" content="noindex">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='none' stroke='%23C9AE8C' stroke-width='2'/%3E%3Crect x='12' y='12' width='8' height='8' fill='%23C1552C' transform='rotate(45 16 16)'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Archivo:wght@400;500;600;700&family=Archivo+Narrow:wght@500;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Archivo:wght@400;500;600;700&family=Archivo+Narrow:wght@500;600&display=swap">
+<link rel="stylesheet" href="assets/css/tokens.css">
+<link rel="stylesheet" href="assets/css/fonts.css">
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/layout.css">
+<link rel="stylesheet" href="assets/css/components/components.css">
+<link rel="stylesheet" href="assets/css/pages/system.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="grain-overlay" aria-hidden="true"></div>
+
+<header id="site-header" class="site-header"></header>
+
+<main id="main" data-screen-label="Design System" class="container system-page">
+  <div class="eyebrow">Design System · 01</div>
+  <h1 class="display system-page__title">Print &amp; Ember</h1>
+  <p class="system-page__lead">A limited riso palette, one nostalgic voice and one current one, and a texture kit — paper grain, halftone, sun-fade and deliberate misregistration — applied like inks, three or four per composition.</p>
+
+  <div class="system-grid">
+    <div>
+      <div class="system-label">Inks</div>
+      <div class="ink-strip" id="ink-strip"></div>
+      <div class="ink-legend" id="ink-legend"></div>
+    </div>
+    <div>
+      <div class="system-label">Grounds · both modes</div>
+      <div class="ground-grid">
+        <div class="ground-card ground-card--dark">
+          <div class="ground-card__name">Ink &amp; Ember</div>
+          <div class="ground-card__hex">#1C1410 base<br>#241A14 panel<br>#F6EEDD type</div>
+          <div class="ground-card__swatches"><span style="background:#C1552C"></span><span style="background:#E0A63B"></span><span style="background:#2B5C3F"></span></div>
+        </div>
+        <div class="ground-card ground-card--light">
+          <div class="ground-card__name">Sunlit Parchment</div>
+          <div class="ground-card__hex">#F6EEDD base<br>#FFFBF2 panel<br>#D8C4A8 hairline</div>
+          <div class="ground-card__swatches"><span style="background:#B23A2E"></span><span style="background:#1F5C58"></span><span style="background:#C1552C"></span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="system-section-2col">
+    <div>
+      <div class="system-label">Type pairing</div>
+      <div class="type-sample type-sample--display">Instrument Serif</div>
+      <div class="type-sample__meta">Display · headlines · pull-quotes · italic</div>
+      <div class="type-sample--italic">“A print is a conversation held twice.”</div>
+      <div class="type-sample type-sample--body">Archivo</div>
+      <div class="type-sample__meta">Body · UI · labels</div>
+      <p class="type-sample__p">Body copy sits at 15–17px with 1.7 leading. Eyebrow labels are 10–11px, 600 weight, tracked .26em, always in mustard gold.</p>
+    </div>
+    <div>
+      <div class="system-label">Texture kit</div>
+      <div class="texture-grid">
+        <div class="texture-tile texture-tile--grain"><span>Paper grain</span></div>
+        <div class="texture-tile texture-tile--halftone"><span>Halftone</span></div>
+        <div class="texture-tile texture-tile--sunfade"><span>Sun-fade band</span></div>
+        <div class="texture-tile texture-tile--misreg">
+          <span class="texture-tile__offset texture-tile__offset--a">Offset</span>
+          <span class="texture-tile__offset texture-tile__offset--b">Offset</span>
+          <span>Misregistration</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="system-section">
+    <div class="system-label">Components &amp; states</div>
+    <div class="component-row">
+      <button class="btn btn--primary">Primary · filled</button>
+      <button class="btn btn--outline">Secondary · outline</button>
+      <button class="text-link" type="button">Text link →</button>
+      <span class="tag tag--green">Conservation</span>
+      <span class="tag tag--gold">Dialogue</span>
+      <input class="field__input" style="min-width:220px" placeholder="Field · terracotta focus">
+    </div>
+    <div class="marks-preview" id="marks-preview"></div>
+  </div>
+
+  <div class="system-section">
+    <div class="system-label">Carousel</div>
+    <div id="carousel-demo"></div>
+  </div>
+</main>
+
+<footer id="site-footer" class="site-footer"></footer>
+
+<script type="module" src="assets/js/pages/system.js"></script>
+</body>
+</html>

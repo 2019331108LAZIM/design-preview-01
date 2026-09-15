@@ -1,0 +1,108 @@
+/* Print & Ember — design tokens.
+   Dark ("Ink & Ember") is the default; :root[data-theme="light"]
+   ("Sunlit Parchment") overrides. The theme attribute is set by an inline
+   script in <head> before first paint — see assets/js/theme.js. */
+
+:root {
+  /* grounds */
+  --bg: #1C1410;
+  --bg2: #241A14;
+  --panel: #241A14;
+  --paper: #FFFBF2;
+  --ink: #F6EEDD;
+  --ink2: rgba(246, 238, 221, .60);
+  --ink3: rgba(246, 238, 221, .55);
+  --line: rgba(216, 196, 168, .20);
+  --line2: rgba(216, 196, 168, .34);
+  --grainop: .16;
+  --vig: radial-gradient(120% 90% at 50% 40%, rgba(28, 20, 16, 0) 30%, rgba(28, 20, 16, .55) 72%, rgba(28, 20, 16, .92) 100%);
+
+  /* accent inks — theme-invariant swatches, used for fills, borders and
+     decorative shapes (as shown on the /system page). */
+  --terra: #C1552C;
+  --red: #B23A2E;
+  --gold: #E0A63B;
+  --green: #2B5C3F;
+  --teal: #1F5C58;
+  --on-accent: #FFF7EA;
+
+  /* Text/UI-safe variants of the inks above — WCAG 4.5:1 against the
+     current theme's page background. The swatches themselves stay fixed
+     (per the approved palette); these are what color small text, links,
+     focus/hover states and kicker labels, and are re-pointed per theme
+     below. --terra-fill is theme-invariant: buttons/tags keep one solid
+     terracotta fill in both themes, just darkened enough for --on-accent
+     text to sit on top of it at 4.5:1. */
+  --terra-fill: #A8421D;
+  --terra-ui: #DE6233;
+  --gold-ui: var(--gold);
+  --teal-ui: #4A9490;
+  --green-ui: #509E78;
+  --red-ui: #E25E4C;
+
+  /* texture */
+  --grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)' opacity='.5'/%3E%3C/svg%3E");
+
+  /* type — fallback faces are metric-matched (see fonts.css) to avoid a
+     layout shift when the webfont swaps in */
+  --font-display: 'Instrument Serif', 'Instrument Serif Fallback', Georgia, serif;
+  --font-body: 'Archivo', 'Archivo Fallback', system-ui, -apple-system, sans-serif;
+  --font-label: 'Archivo Narrow', 'Archivo Narrow Fallback', 'Archivo', 'Archivo Fallback', system-ui, sans-serif;
+
+  /* motion */
+  --ease-editorial: cubic-bezier(.2, .7, .2, 1);
+  --dur-page: 600ms;
+  --dur-reveal: 550ms;
+  --dur-quick: 260ms;
+
+  /* layout */
+  --container-max: 1500px;
+  --container-max-narrow: 1400px;
+  --pad-inline: 44px;
+  --header-h: 66px;
+
+  /* misc */
+  --radius-pill: 999px;
+  /* Slight rounding on framed photos/cards (initiatives, about, homepage) —
+     event pages use the smaller --radius-event instead, and full-bleed
+     hero/masthead photography (no visible corner to round) stays sharp. */
+  --radius: 8px;
+  --radius-event: 4px;
+  --z-grain: 60;
+  --z-header: 50;
+  --z-dock: 70;
+  --z-lightbox: 100;
+  --z-nav-overlay: 90;
+}
+
+:root[data-theme="light"] {
+  --bg: #F6EEDD;
+  --bg2: #EFE4CE;
+  --panel: #FFFBF2;
+  --ink: #231A13;
+  --ink2: rgba(35, 26, 19, .66);
+  --ink3: rgba(35, 26, 19, .64);
+  --line: #D8C4A8;
+  --line2: #C9AE8C;
+  --grainop: .09;
+  --vig: radial-gradient(120% 90% at 50% 40%, rgba(246, 238, 221, 0) 28%, rgba(246, 238, 221, .35) 70%, rgba(246, 238, 221, .85) 100%);
+
+  /* On the light ground, terra needs to go darker (not brighter) to hold
+     4.5:1, and gold — bright and legible on near-black — drops to 1.9:1 on
+     parchment, so it gets a deep-mustard stand-in. Teal/green are already
+     dark enough to read fine on light, so they just point back at the
+     plain swatch. */
+  --terra-ui: var(--terra-fill);
+  --gold-ui: #8A5A14;
+  --teal-ui: var(--teal);
+  --green-ui: var(--green);
+  --red-ui: var(--red);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur-page: 1ms;
+    --dur-reveal: 1ms;
+    --dur-quick: 1ms;
+  }
+}
