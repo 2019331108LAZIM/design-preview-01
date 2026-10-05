@@ -34,13 +34,21 @@ for (const route of ROUTES) {
       await page.evaluate(() => {
         document.querySelectorAll('[data-reveal]').forEach(e => e.classList.add('is-visible'));
       });
-      await page.waitForTimeout(900);
 
-      const broken = await page.evaluate(() =>
-        Array.from(document.querySelectorAll('img'))
-          .filter(i => i.complete && i.naturalWidth === 0)
-          .map(i => i.currentSrc || i.src || i.getAttribute('src') || '(no src)')
-      );
+      // Chrome reports complete === true with naturalWidth === 0 for a
+      // loading="lazy" image that hasn't been fetched yet, so the usual
+      // "complete && !naturalWidth" test cannot tell a failed image from a
+      // deferred one — it flagged 63 healthy images on a live page that
+      // was still rendering. Force every image to fetch and wait for each
+      // to settle, then the check means what it says.
+      const broken = await page.evaluate(async () => {
+        const imgs = Array.from(document.querySelectorAll('img'));
+        imgs.forEach(i => { i.loading = 'eager'; });
+        await Promise.all(imgs.map(i => i.decode().then(() => null, () => null)));
+        return imgs
+          .filter(i => !(i.complete && i.naturalWidth > 0))
+          .map(i => i.currentSrc || i.src || i.getAttribute('src') || '(no src)');
+      });
 
       expect(failed, `failed requests on ${route}`).toEqual([]);
       expect(broken, `broken <img> on ${route}`).toEqual([]);
