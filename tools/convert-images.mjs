@@ -357,6 +357,15 @@ async function main() {
   // entries — are split one JSON file per event under
   // assets/data/images/events/<slug>.json, so event.html and events.html
   // never have to download metadata for events they aren't showing.
+  // Placeholder portraits (assets/img/placeholders/) are hand-drawn SVGs
+  // rasterised outside this pipeline — there is no source photograph to
+  // convert — but they must stay in images.json or every board entry using
+  // one renders nothing. Carry them across from the previous index so a
+  // re-run doesn't drop them.
+  for (const [key, meta] of Object.entries(prevImages)) {
+    if (key.startsWith('placeholders/') && !report.images[key]) report.images[key] = meta;
+  }
+
   await writeFile(IMAGES_JSON, JSON.stringify(report.images, null, 2));
   for (const [slug, entries] of Object.entries(report.eventImages)) {
     await writeFile(path.join(eventsDataDir, `${slug}.json`), JSON.stringify(entries, null, 2));

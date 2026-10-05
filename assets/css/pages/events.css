@@ -1,6 +1,6 @@
 .events-intro { max-width: var(--container-max); }
-.events-intro__title { font-size: clamp(40px, 6vw, 84px); line-height: .94; margin: 0 0 18px; }
-.events-intro p { margin: 0; max-width: 62ch; font: 400 16px/1.7 var(--font-body); color: var(--ink2); }
+.events-intro__title { font-size: clamp(40px, 6vw, 84px); line-height: 1.06; margin: 0 0 18px; }
+.events-intro p { margin: 0; max-width: 62ch; font: 400 16px/1.6 var(--font-body); color: var(--ink2); }
 
 /* One section per event — carousel first (dominant, first photo centred),
    title/details below it, never above or beside. */
@@ -18,7 +18,7 @@
   flex-wrap: wrap;
 }
 .event-section__details-main { max-width: 68ch; }
-.event-section__kicker { font: 600 10.5px/1 var(--font-label); letter-spacing: .28em; text-transform: uppercase; margin-bottom: 12px; display: block; }
+.event-section__kicker { font: 600 11px/1.3 var(--font-label); letter-spacing: .16em; text-transform: uppercase; margin-bottom: 12px; display: block; }
 .event-section__title-link { color: inherit; }
 .event-section__title-link:hover .event-section__title { color: var(--gold-ui); }
 .event-section__title {
@@ -26,7 +26,7 @@
   font-family: var(--font-display);
   font-weight: 400;
   font-size: clamp(28px, 3.4vw, 48px);
-  line-height: 1;
+  line-height: 1.08;
   color: var(--ink);
   transition: color var(--dur-quick) var(--ease-editorial);
 }
@@ -35,7 +35,7 @@
   display: flex; gap: 14px; flex-wrap: wrap;
   font: 500 11px/1.4 var(--font-body); letter-spacing: .08em; text-transform: uppercase; color: var(--ink3);
 }
-.event-section__excerpt { margin: 14px 0 0; font: 400 15px/1.65 var(--font-body); color: var(--ink2); }
+.event-section__excerpt { margin: 14px 0 0; font: 400 15px/1.6 var(--font-body); color: var(--ink2); }
 .event-section__view {
   flex: none;
   align-self: center;

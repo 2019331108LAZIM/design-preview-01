@@ -1,101 +1,13 @@
 {
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-01.webp": {
+  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-09.webp": {
     "w": 2560,
     "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBhmhEEm0Yf79/Bg90JWKfAAAP4HzxTGCbdjbKf3IG8J0jwN/d7Kr2BoNc5uZGo3YHDjjYQYLRJoLPfcLJjRDI7kPjl8NRBGcEKmfG1gUaryMJavOBGB5C7SyZ1XAQyAqfv4zjdAjAAA",
+    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOg1gFn/rVl0F9GwMQUT6TIgADeZsczz+u1WppI/rqMzOaYqUCqoMbGIJ/1+UHqb8clAW4ARE30m5PzJaLNthHrt0/GDXYhA0isK94mkndJenBLV6tLejk/hW+/aIV6v9nU21/WyTFGPM/fBZz39mjuHrvnw/W7r4yefj+VI07NpQ1MQpGysUT4mpdFyr8Jb/UJLCVE4ukfChkFTX8z/AA=",
     "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-01-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-01-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-01-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-01-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-02.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBlAAr3dbmhPWUQWgnYAAP7RqiEsoLMinNVdJtz82IolMUy+7PNG6ASpKjTDn1ReNhCrniqUYPKPFUQCLHUCXHpEr213Wtlb9DcEJBexqz29i7Q4f8YYqrcvAkcJmFazd1AIoJqTxJoQ4+lJ9XvZEs0730AA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-02-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-02-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-02-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-02-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-03.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZwAD5dHaAMbtwrUu4ExAidAA/u9Lu6qhcZ1Su8VuESJZkMpcHDjBoe7DmscETSDH6C2TgI1US/J3OMfeSp+vClH73Pd8jRR9MHOpRwKOpKBtCVBFkajbn8N36odYGAQZrLCDg0tqUtwS9yuAXDgA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-03-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-03-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-03-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-03-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-04.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBACdASoYABAAPu1kqk4ppaQiMAgBMB2JagC7AB6OyesVcznZlaLiAAD+38NQ7CENSOw0vi9lcRc/Rinn/MzeFR4KrwgSGzo4vkwGFW9EF7q/Dlq+0ghFBfCFLrWcYJLtTq5laWqC1WxUaKZYqFnfo8K2nLYuTgPp+T9Cn24ZoSVLRucMXO+YMa26tYawAAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-04-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-04-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-04-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-04-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-06.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZQC7AYzkiNdr7hwm+/rmpBAA/PsYtbWY5bqAuTXvg/pAOsD+tdYStvqvHB150BNj+LA8Hcprcm/wQmEECvxQUNFm0CWpdYwpUgoJXG1ZN534Jsq5IuWy0QtnLt4sebR4DbdKvqEoS8T+nKbI3bW23xWLmbLdwUyUR3aNIgbky9awADh1g7wAAAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-06-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-06-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-06-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-06-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-05.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZwAAW4lYdp79G76/XE6q5UTMAAD+6+RZFTS8w/mb9ZqNc7hd3mMIgJi08LEbCmpfRtxTeloKI2HkR4nle8d2qc3+t1yVeuS67MVTra7f6wVnOYVtUfF7p/xm08/6nLKznOAdNn5KNKVUcxQfI1G8/fWsB/fLEh9T4dFgr3T+ObQAAAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-05-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-05-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-05-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-05-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-07.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCsACK3nyR+0ViQUIE1wQloIAD+1bk5yaU6R5I5XdXl8DOevSSZJRRXx+Pb/aVh19lDV5xUj3smWBB7XV4BFf6Lg8IBzHeJ+UQWwv/fMZf3d7nZfaar7T65G2FbX/sAb3pJ9MqC0/qaS/dBVbm8Z3bz3G3gMToL9mkRoJz/cue3MO9lby8fxpfD07tlRUQAAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-07-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-07-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-07-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-07-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-10.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZAC/ZwABz5K1oitAed3zWQgsfoAA/t+xUVy4OJF9daZqEgvodgZkB8AGsOQi8BTwSssafjgUbFXmMDpFi2RksuOj4u/k7HU7/KZaa9MxrB+WSGESlVsRqsvf1BWNttC7I+yXhGDlc/8psw8kl8T+bFuTSGe4CUpnVJDJzzOeFrmht2/n/Mszqos8wa5MHPlXhoXwKdE0K4AA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-10-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-10-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-10-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-10-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-08.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAwBACdASoYABAAPu1iqU2ppaQiMAgBMB2JZADA3CPt0P5QU8H+rnTNAgAA/tSen2K8bXiFVVNNqjtsKsjvRUfhtr5Nh1lWdryhlx/GQNXKmbHP2Z9KQciJmaYZntSvv06YX7XO3xaBenAu4DxyPsngrgssbJquvPc3vi5RRflmoNa++BJYk2wbjtz2Ktudf9TyqCvOpAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-08-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-08-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-08-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-08-1920.webp"
+      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-09-480.webp",
+      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-09-960.webp",
+      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-09-1440.webp",
+      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-09-1920.webp"
     }
   },
   "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-11.webp": {
@@ -109,136 +21,15 @@
       "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-11-1920.webp"
     }
   },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-09.webp": {
+  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-07.webp": {
     "w": 2560,
     "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOg1gFn/rVl0F9GwMQUT6TIgADeZsczz+u1WppI/rqMzOaYqUCqoMbGIJ/1+UHqb8clAW4ARE30m5PzJaLNthHrt0/GDXYhA0isK94mkndJenBLV6tLejk/hW+/aIV6v9nU21/WyTFGPM/fBZz39mjuHrvnw/W7r4yefj+VI07NpQ1MQpGysUT4mpdFyr8Jb/UJLCVE4ukfChkFTX8z/AA=",
+    "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCsACK3nyR+0ViQUIE1wQloIAD+1bk5yaU6R5I5XdXl8DOevSSZJRRXx+Pb/aVh19lDV5xUj3smWBB7XV4BFf6Lg8IBzHeJ+UQWwv/fMZf3d7nZfaar7T65G2FbX/sAb3pJ9MqC0/qaS/dBVbm8Z3bz3G3gMToL9mkRoJz/cue3MO9lby8fxpfD07tlRUQAAA==",
     "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-09-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-09-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-09-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-09-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-12.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgC7AYxOygyZknfX677t+4AA/loSzVhcmXYtDCTnzwOAdJIdW6ODPzcAuiC5DgEcsuq5QvK+KyYmjiZi9iptVJkRXmTwY6ZPMVOoRjcA27EsM+X1fTRM0S8ZZv4hjKhLXtmfbodTm5sbHx2eV3sDDQ5Tz1wjJpUJqZnYPn5W0J6k2dAAAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-12-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-12-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-12-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-12-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-13.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgDCgCDlFpeOkUZKTTL5y3WEAAD82GJ+8zve/8beJv+v7H3riHFM1CZCvfRR0kMdq6QLcb9QPnhiaPB+zmygn8LfaPAVjBz1U9nC84dP2nmh733iq6iMrFccY17KyzYziUwYA4NuGP8FoAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-13-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-13-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-13-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-13-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-15.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoMYA0glt2fEMTySb5ZzdFLHn4AA/rGOgXsPedsNTy0WVh7szGW3i4kKaBGgDWdBaM300u6RWkYFnpOfyGfKKBpCNryodPFZBF//cu04PI/cXZxjhgYMdKko6sGBSXemcH+0B2kW4x8iSA65vPQuzLiV+YY/wxjxDtJXyn0DpDf+dDWZWyD3cfJV6osZtfsiBACdn50AAAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-15-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-15-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-15-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-15-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-16.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRuIAAABXRUJQVlA4INYAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQApggf8bwLfIOMxlt6S4+/6/hpwAAP7qo4ikJSXO3c1ZA17B3L4//kejbo5CRnPKZnUFo97Dlx2T6oFDYNsvvymW/328MFXoIXCH7oU9aRyUCYNV7gtcFR+x73XFsHUCqKHgek2Im3mcjHCa/E5X2AuBYUq1vcD608bw5dgh/YXJqVRNg7KJAXK617haEHO/8Irnf83tRYHKeAlg+ryfiSf5NRisr8gwna0G6xas2SHg15YnXpmrWhmYwAAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-16-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-16-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-16-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-16-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-18.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwC/OYvqyY9fweRXw4ikKUp/VGoAAP4/XUdN6jKA+qPFy4plJbNqdIjAL/3elUGrnaQcZKBePKu9cDfO8LSP212drVN730fPAc4DPMaUqoIzR9f0G4Vf4aebovMe9k8YTXIF/S4xxpakbk24BkNoRFsF+wQDo6//egWxxQK8Hgc39aDY1HFH/IjLlDzIIX77uZxoAAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-18-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-18-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-18-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-18-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-17.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwAD5VoaYWNb2Dczx4ke1aqPAAD+5yFnnKYxc0L1E6DUnuSQSeqjk4tKlyUOiiMTl2/Kyhs1RbVcWlvY0n3zksFPXzptywHMwXkyHgrQr6/Z0UpX8ixhsOyIYJPYT5MyQUlVc8TSfiv+CdWBTAHlcfI0SkMEKBGdJI8PeZg50TGZ7FGlajtmjMBpHq80+9gAAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-17-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-17-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-17-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-17-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-14.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQApgAPAqBvFmeO5PupYhzXKAAP6xhqIYSH4X2yol+Y9kokWKbekEUSFx2suRhCjue/U5D8SmaSV8v1ZmINNB2Q/M4AwqrId+JpFHA3EeGo5PjFIG8VzXfxUZ6MUZuszjvN53E66UJhawzHjD6SZ6RtGc/Nz1hBx9xrqjyhQvke9RM6v/h9S0G4bPWUwu5GVIRYTJ8AA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-14-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-14-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-14-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-14-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-19.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCsOUAKjIVndJSEl3409CG1xqj8AAD+qYKT6eNU+zqq+5XJGdKHZiTa2WpS8OJq8X1IX1AlgTJ2amLQsdtl3PQcdhfGGbqE0/4wDVl/ld8AJ+8iGLSvkyWQMG8+xlPuferIXKrDaqLIX1x8jX1ue66kkQvq1z//njkhwoVNyTTLPDUlPqFBi+/X7Z/bViTzS89PXU14+RibsM2AJ+u8vcIWm6vOyAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-19-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-19-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-19-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-19-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-20.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JZwAATvhfED38tFq56A8AAP7wgfTN5Ly3BwUVsT+Eb4hj0afb3f/MxMAHSOWDZ0rrpsljqUCJ1ffDLc2D04pSOWXWOsNbBwKgB5NqpoOHZ+VSAcPpMxJgZZIpjYuppesDUL9muWipX5ZiJ1t1gAAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-20-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-20-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-20-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-20-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-24.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdAaf1n9LaxlOiG/gj22H2mgAA+43Vh7OfDg3sErgfcXCT3uC8UO6R6lumouc25TUThvLM6yhY8dP6PRSf5eyvOO2dclLL9GckJrvboTCAtM3DsaWB3uC8WhGb3DiQpewn5yEzupltpL+Yvup/L16O+i2ElhF93VXedbpI/AL++svGE+ZWnnKiBh1db/+MTiJRGQX+UhvvOsLVwA71eRgGLn+DxRhFvTCnx9AAAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-24-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-24-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-24-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-24-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-22.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdAadlobMpBy5Hh69MeJC9O1znAAD7j63pmjlKWBsPiBofLCZMgVMhVFaROfmhJnLbk5kA9aawSvq2as41ic56gF2FaCrQD709guVP203lCF3idrhFISSn6k36ahsTwJ7MQStbPbRAHJBsnyS0CD8DRB39iGgsniDIz/w5zhpib+YZQ1BJiRYubgr4cU7Lhl4ifKrAYRJkCQAwAAAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-22-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-22-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-22-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-22-1920.webp"
+      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-07-480.webp",
+      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-07-960.webp",
+      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-07-1440.webp",
+      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-07-1920.webp"
     }
   },
   "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-21.webp": {
@@ -263,114 +54,15 @@
       "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-23-1920.webp"
     }
   },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-25.webp": {
+  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-38.webp": {
     "w": 2560,
     "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdAYxittDxcZms8dIuoF2AAPX+FjORe5GeN8Z4Gis33pCQSbudWv8VYtwQ3D/ABRUEy5afLW5WLJPJaQ5qm27boqw6NBvOyQxyR12toutOXIveB5SXxwMAkrXqvcVY+3iOFbfb9odKMYDOoBc2jwcSpvezoR3F4GFz7F+qpCEn/TfAnxLuHoizf67sIpNqJ9hkdEeWWGfvGu9gxCYdwAA=",
+    "lqip": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBWAMYYXcyOpFOW2Wl6aEqYt0wAAzbXnfeIu7jZfDcnV12P5lsWcv4JJVKfrGnr+7/0TePfj+mhhR+jmiGIqR0IGSdDqAOPAUfpfDK7UCqO2mahXnhdsWhb+xDUTPuSjz8bjcGQXOM4XEOL4Hy7paPU7OpPLosBs1AQPkeyl/GtBvTcl48jKr6NvJHh+Xq2b52p0btER3uwNM3r5Ufh0BPlPNyUsaKAWgAAA",
     "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-25-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-25-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-25-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-25-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-27.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdAdwLgTb+fSTlQve0U648NnWAAPuRpiY3DHPTlkAJqxYfldzM9hQfU8snFo9ZxdHb2jTCdwS2UKJ+4ZoPpBNd+HrQbo0f+IlTqT+jw51yYEd44DWWPdQFuYbkY+SZm63wzU7Z/2Q+Kk4OYpUVWkeSaB0S0yow+LtUJBCuwsRCJHXDZ82NL1kIMdV/MWI4hrLkd6mIbPrHZQV0xaH/c2/Vt0hbsE8MbU4AAAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-27-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-27-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-27-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-27-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-26.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMXDXOUKebBtzgQo4bDoAAPX2cXuAdczYykN2//atubZQi45uCzWEVuD+nhkZ+ADRNlyQQGtw8TBvPc76qfH1C/QvGf3pxVvZvJJk+ktxldGONhIqSrIayeUR0reU33HQICT0vNVnYy//D97Td7KOiQwQ05mW+6RVotmI5P5+qfbxx0RoO2dQ/yrLWxQBYqIN1vUwsSiLZCYzQXiPFGAVH5PTHcAAAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-26-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-26-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-26-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-26-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-29.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdMoAlwRJz0x3xlekOzkM60AD1/vAcRewQmDRwaAeSmjY4qASluyvgEhcXaVFv5y2OHl3fEIPv9sFgSXX2ur6wo0STWt+gMH40RP3kwyJSdc17214ScyhL+cO1r0VG631Y+Dho7TuNzdnHZTsdrCwuY7UZlp16g/88+8Y+SMxY3K/J8ynxITdPZ/naZwoQ15DBeImM0t0F5+Y/0e/MZh1EgAAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-29-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-29-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-29-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-29-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-28.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdACBv2H8J2+7qOzYvEAD1/uu6U8udQGzQjR0yCfwm2bJpPl2cfvAIBXLN/YwSlmizNyuM64Zj9cMB9vCYoRX/18sgvEeVT+pwn9puNmjxmvfDbNBQ++u9W/FJ3s6QjzIFeIdbUssV0jPBECLO9a48AcZ7vpbZ7qz/uDOdWmI4n1PzKqnjVctF5rPkcjTcOEnFdBrvgAAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-28-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-28-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-28-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-28-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-30.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMX6W2G6ZIFjjKCUDO6wA9fIvNzArLf60N0xGdXeShaoM+cxF3RAGL4Ck7knS7Y6OSvW+sGBVgtr/b+BE8oD4T0No5qYU/8Rj3lZ2xDUn/jtKFQiDvvX4U8feXTBIHk/uZeTpPs7PbF1v60jHqbreKCq17sag1f6QKd3VF93GRu4DkSraBNRAHbRkbJ/ez8uto9qSvowbdFKtaDiCTQp+8AkAAAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-30-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-30-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-30-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-30-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-31.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMXmXTRYcTLKDvLg/fjwAzbjHHpV04M93WWVoWfRb6T4xcj+awkTh6ZfvfCGu7GwA40+9VS31EAhNaDaSVfmfOP41IhiJ4j4IBdf1nXYOgdxjWVqIpRvA8whyju8sauzYj5yWF3jxsPuGtR865n4S9D204jBvjg7V+0vHMsrZEwNmv6p5pdosPWGviEd+rU9BKm74P4Lxch8tDQXmBYrjJo/mjRe4d5WYeAygAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-31-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-31-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-31-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-31-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-34.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdAYt8ykDknvQwMSF9jNjsAPX+6RMU2RA7nChoBRitQ9CXYGPzuFaQYghqj8uP3xTTHCmqws7DLBpcb33wCmF901kynExwEwzdI22kafodI60fePF6iw1I5g42+NGQ4sp6nOR7XyvedY5B0mD2NupQ8THxI0PznOpiwwV3nmUh0X4zx8DNtsU/76YkCJsYggAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-34-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-34-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-34-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-34-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-33.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgO4FvpMmfUltQCldasNJSQAD1+BKzDfHTKV6TLzQ5smUQiyfb+QS7e7ZMGxs4oHebJiA2EZp+KpoOnPvP6Bhb+dPrDbCu7t884NgyCdsttXwO5j8Tf3ayGoS4ORKKvy8pOnRbomrF/DpexjwQv1cKwHZq6gh79DMBIMiAyWBBVEyHzroS8Qo1WwOwp8elbFPTtl3IWG/RBB1B7MmT+3wAAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-33-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-33-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-33-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-33-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-35.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAACwBACdASoYABAAPu1iqU2ppaQiMAgBMB2JQBOmXkS34xdhOwxkMozkvLaDQ7WAAP7I6X9oygQm3dDlXX5g2ACqsQBKm8ORdIa0be8m6Vananqgj2NsV1uBF0DNDvAkaY7AgMQCiGP69ek3NvRfheEX4Ol2T926tuNFXnFrVipbkan4oFRokTRGCYQxuCPfuTDNlv1FIWIf2bjQJzRJS0Sry7ZyAAAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-35-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-35-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-35-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-35-1920.webp"
+      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-38-480.webp",
+      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-38-960.webp",
+      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-38-1440.webp",
+      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-38-1920.webp"
     }
   },
   "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-32.webp": {
@@ -384,169 +76,15 @@
       "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-32-1920.webp"
     }
   },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-36.webp": {
+  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-59.webp": {
     "w": 2560,
     "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMY2ZzIyaP8nzbwSGCF7BJAAA+NGuvIqFym1fBVAbv/T45VvUNVJfL3vQsTEdralPwXRR2qMO4ugL/NiMILOKNvoUkkGQJ2qI8/eH1UpP54jfll8kreFhznscN8J8EVGGJr850DyzZPpoNfbqkR/Mhjgg9q25n+wHIIM1e9PIA4nrC2v+T7Ld1u5C4H2NoedQ3vqMzFuTauTxsELUeqk4kwQrtAkTvYXEAsAAAA==",
+    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMXcbBdkXXJZn/WHrxx90AP6yDn3WJpP8lxQEaFcT81QbaOk6NdpicryV+DeKo7/ehfMEN3TMxjM9EYaRuhiGOKykSVqvwNxL5+hQmRdqLgcJX/kzXlrXNLIDdrGHlG9XRxdf86pHScJR4+vQSu4/0+xTXFlH99ZKKmOMirvSjmjHKTAZhBrpHRicR6tpieosr1xshGvV/wAAAA==",
     "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-36-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-36-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-36-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-36-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-40.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMYq+VjJmPvMyxp6haAX18YAA4bg9cVl/GYGouu0LMs9DFa7EsAnJplq3QXyZv6Wf7/c6QYgdIW7DESAdt4SXOYEGgA8cfZh44/jPIAUyYmuGZ4D9PmP/LYocwSFHhMJp9kC/RR/puCBF6b++33t2MbvXVrbCj/NVHkrZI2eYe02+X/rWm+GEDR3r7yehXm16gPB/rdcbDZz9dadDcVROUbzBncyJycIgAAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-40-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-40-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-40-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-40-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-38.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBWAMYYXcyOpFOW2Wl6aEqYt0wAAzbXnfeIu7jZfDcnV12P5lsWcv4JJVKfrGnr+7/0TePfj+mhhR+jmiGIqR0IGSdDqAOPAUfpfDK7UCqO2mahXnhdsWhb+xDUTPuSjz8bjcGQXOM4XEOL4Hy7paPU7OpPLosBs1AQPkeyl/GtBvTcl48jKr6NvJHh+Xq2b52p0btER3uwNM3r5Ufh0BPlPNyUsaKAWgAAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-38-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-38-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-38-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-38-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-37.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBWAMZUWxqLh1rH9VrrGoADhwbubCAQfe0NlqZT3T2X5yXsAMk9ur8GsxTt33Z7T84axlEsHXb2qifvQr6nOm3AGwNT99WWcW1rhn9VwebQ4Ijg/O5OXxHqB6xfyy4ob3KgHP9Az9ejJ2S/U3c1tfNDcd73D0vy1eEPYSnIfT3nJu8c/Pgz9GgROqJa7VNQsWcn/R/ZC6kb9D9G0hncsoYwUAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-37-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-37-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-37-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-37-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-39.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgC7AYv+zgo3xcM8K6tw1HyNwxRgAP5r77h86N5WdrbJI4SKzMz/DlCDFELxnx+fD9LObdzgzN5tCj+WGgJecM6n6KlkAXokMllWyr2pvbwFqZLTn57+SO/ZxtSTAREwAaaDosb3TbYn+QifWPGmiacpjMHqfrKVPb3d87ZUPBlvxNcWekbosCI8k1G8ViH8AAd7YnRpJCKWRXe5LAAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-39-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-39-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-39-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-39-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-41.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMYxb89GDVvBCBU+ZCv6QAP7I6dCQPqZ00YD5HYE8+xhF5AskH0GfdyRYmRfNuyNz3WK9y29pFXrGqF+zw0P7Qqr62C/TgtpEHGVIV0J3doY39oHJbM2zG+3dq68fjk0S5fXKxGv/vbyj1iFoScinqQCLCGDdyS6J099pvDs/0nEEqKP3BMb/x8g55H2MiaAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-41-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-41-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-41-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-41-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-42.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBWAMYEatlpb3DzNOOzGbvL9lgAA+EJfwy22yOgc9gyEScf7Ue/liKM78W6+zmXI8gHQPwdvMsbjcrhub+64hmusARMXKu/dhZdp6ekGMPJvEYLDyot5rgD0BSkDG64j5f+HwmJkkoWNhwraJhfpKXmWaNb5SPGmvQnL3pRYFWeZ9SJ9t40eGkmawv6RggK6qQrzx8Mp4Frup2SIgDwAAAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-42-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-42-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-42-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-42-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-44.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCsAdwLgxVZ9K5Mp7Hfy9TNH18AAP5mCIRtLW/rWEa256uP+HLJULVodessfHG5mbqs9uFRkDq1olEzgavqA9fW78jMJXkNm03DML9IUYcXgOkv3qeN0Fj7xXzjBnJrju18+yhEbUied2krmx2uuxSP1WkNNH/38E9bVnnGq0gOMY+NUDt/0MDOoGajVW98jfSLDwqrrygAAAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-44-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-44-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-44-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-44-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-46.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMYTbhXxgGYIv4S/fIf46TwAA/mXr/UIV2n2wdPZPNebMfOFc4KA3BVy/NmxWhekelbYHGvnuZYr+UH+bXkqzuydUL0L9mZ8RNwqp4tObYLPHJcWdUfn+QZdeI2PT0zcvvYH1ibZg1IKPoGKhWmos+CclM0+tg1Y5awIsuZ/VHWvDJVfZDHnmbzc9attIQ33nSBpLwAAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-46-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-46-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-46-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-46-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-43.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwC7AYwIyUnMbMjfrI1RA9CM+QAA/o2E14wxDLi34p09tnPizhJgpYBmI7zLaDG3/FSAQ1nqsmpytR681Js1ocC6T3AnzsOcbbXqgHq/RZPN95o9N9mccfamsuZhzTTPHiKxmR8vkTV3pqNLeT53wYe4TtpJm9NDwV3Ht37ARMDkGkK39edG6BWFeCMOJ+1PdvA0CnevWpxCq+TT0M0AAAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-43-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-43-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-43-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-43-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-45.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBWAO4Fwiogr3nlCdV5NLEfwQAD8+LEm8nCPi93u+Zqpm7dbpezaRfrZv/LQx5m0U0AisQJyCh6FjYSqm27eslIphvZgkrdk1pEtfW3YqL2IKvmfFN6Wxzs7W39mI+0nnKxlxAvyGuEuvo4iKWREBL9iDqx4FmfL+F8AVeqj7h9DVOp1xu9ZRNe9ep5vQfiO6XRulr5UoBqH3i7lGUfoJItC9oN+bALAAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-45-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-45-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-45-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-45-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-48.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCdAdwLf/ZsHAMgSluJ+LuTd7wA/rXUqUurVL/nBBmB7FWYP3XZWULqwwhiK2rjLeflE9MsDEaO++AIFxZQvFQGLgqJnjcOAk/WkO/44uthONb9t21vTB8NQO2ot5QuLY3sCdbkq15vF8j/acbExp9ArrPXuQtdYRdhAEXfj3+iu7EgqG4sXn9IdPn5W9vku02HyPveE0Byp3Vu1AP3ediT4oAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-48-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-48-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-48-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-48-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-47.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBWGUAS4QnOBnUgE4OmWCf7/6WAA/pffREOBjbh8SOPe1aq/6Z3H53+IVRhbZO3U6MdxF1kORU6XnEiW9wYmb2xE95OHhF72qFgC6XrDTHYy5+MPbwqAPDBic1gKom9D6BB50Fzcb39jS5Z3UHJ0zKN9Hj8Je67sq07aMqcqUHOcGDF/OlknI7k9enXeD+7l77kZDWlgt6pC4AAAAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-47-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-47-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-47-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-47-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-49.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgC7AdwLfhVonEpToAFF9pFZ0DEF4AD9+5YEI3p2goGryngnKWQVaVpYIZZSYwCRH0toNIjA/aAsXAduGJRqF+tIRimcFL7tqyb2yzug+kGFmeHGwu2U4uA2YISU7gb3cMZ5L1FJN9npZ+/2f6WbVV+8Q9K8sXgrhQ4NPxGTGImZqmvbF8t1+e7aFjf1Aix7M9ICjCzuJekrlybj1iAjnXp5NM0AAAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-49-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-49-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-49-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-49-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-51.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMYsdsm8UP8x64KwxfPfAQAD9+tiUKbG69J18uwu5P8/i+iD5FtvdU5tqQ5WSqe47fGAIJlHrrgV7L4N8M0HuxsFduQzCTnXPa7ZEumBBI9gnzdLJjI1+iLS/pfz8V3u2d96MpAk3+tCOKbdLrt02QIjy7rxjrel45OAzwnRrJbQVg7Kd5GTH3u2hqG0hD3btb4m+PqoHY4m2pP05ifd4AAAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-51-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-51-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-51-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-51-1920.webp"
+      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-59-480.webp",
+      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-59-960.webp",
+      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-59-1440.webp",
+      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-59-1920.webp"
     }
   },
   "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-52.webp": {
@@ -560,37 +98,15 @@
       "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-52-1920.webp"
     }
   },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-50.webp": {
+  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-51.webp": {
     "w": 2560,
     "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCsAdwLgEVSZsj2hGMkVASKndYDAAD+ZgrOQET050wL6ynPPLEdPTxxDh9tNui+baSN7HJuQsVILCqhS1h68ZfYZt4vqnSrQzTe5n8E2nWURpX+YE3yVfj234Q/dTTNx0hyzwCWp4+yT1BYt8BPOrPjFJxLoM3Xa/6Q0CkDyl7/6N5ui3xy/hJjh5VurNZN5E20+amrbJhAAAA=",
+    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMYsdsm8UP8x64KwxfPfAQAD9+tiUKbG69J18uwu5P8/i+iD5FtvdU5tqQ5WSqe47fGAIJlHrrgV7L4N8M0HuxsFduQzCTnXPa7ZEumBBI9gnzdLJjI1+iLS/pfz8V3u2d96MpAk3+tCOKbdLrt02QIjy7rxjrel45OAzwnRrJbQVg7Kd5GTH3u2hqG0hD3btb4m+PqoHY4m2pP05ifd4AAAA",
     "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-50-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-50-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-50-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-50-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-53.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgO4FwHLq0/r82XwZDiQ9dqM2QAPxghSQ4Qi4JSeaknqGPcwn3/sTnorf5udEillqWIpi+7vow77Cr300nRczcu49NnJGIW/k3RiwpDN7ybdbZgFDGXGLt1Pu72o0cxbyfYiVc+MVU0BjFYR9Rpgt4boLg8BsG+HXm4Tv+g6dDt+PfP1C6+bP6g7s2l76dTRw6E6SBbRWTF5XB1sAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-53-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-53-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-53-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-53-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-54.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBWAMX6VC3QzSUKJ+pr3eOLygADMnJPx1xv5kOym0Q9tvwnpFeOv1yimwoiPq7ZLzjZn6t6jaIvCyodH4xxO8C/zVwUa4rlkfsZRJ3cOtDOf1SAsNGIHTBNUbvTMcVrdiB6S1SWZYqGBPzBf8XBeHZpUzwY1acmK+y151S2iDy7RpmeNLrb+71CFIVKv4hB9SHn5esrUaV4e77lDHjfegAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-54-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-54-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-54-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-54-1920.webp"
+      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-51-480.webp",
+      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-51-960.webp",
+      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-51-1440.webp",
+      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-51-1920.webp"
     }
   },
   "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-55.webp": {
@@ -604,246 +120,15 @@
       "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-55-1920.webp"
     }
   },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-58.webp": {
+  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-85.webp": {
     "w": 2560,
     "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMYTbiWw7u1Mfga47zbia7ziwAPzWXcoHch6+uy8m9OF6aBVJKhfbQ+FW1pZRMevOmunpyYciU6KvOlLqaIFWhAAN8bDpfDPpa0kih3JwoaO4GtqRsW/6TKLm3cK8D3RHqCZzsT9HjC3mTtTX/FtnJtO+sOj2hEED6tbk7RbvidMvNA1qbUFgvHQnkVie8MjZUfNS0Mr96AA=",
+    "lqip": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQAB8tC2b6m9AtCwnxqldfAAA/t7fDw134V+O+pqM0lvtchGcQ6RtGL1xVNrMCLkvs2tsRshh1HdNCgSetOhSCAz05t9UN50AcBfgKnfxQw2YXyn7IEau/WZZHHdUsGoG/zzAIhYMEqjYaTboakfxu6a2fVSE6/bPkB/2uzyRJluNYtiNPnvkqPzIq7btLLglPe4RHJJw5Pc3fwd+xXyatgu+7xiM/4CgtpAA",
     "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-58-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-58-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-58-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-58-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-56.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgZYJz0LjQhz+++oc2zoygAPzQUybrdZgJBzc4IN3Nrd5mc5bqUVGzQlsep2wRwuWzQB4UD0CO7J0hHkiok1XCtYnS777zUAYpi/SBnVKzyTSl/Xb/IKDLDMIJmivkQMi+/8L2/JgGuvFRNmPqCt07/2MPgcz20m1Rn03yZJ+qyqgFs5m9Qugh+Q55GbVHGWgQ3AAAAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-56-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-56-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-56-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-56-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-57.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgC7AYxExtPX+EJ6ZXGQ3yRGYAD8yQenCQi/EV27PJ7XWqsuPRTCIBFM5SmNFz9babZ+etXJ47fk9cVF4XyLiDWt9/VGrIElaPTr8Gf7yRX/6cX8sv3+204Pcd2uPi+Zbc5MNOg4lvx/hnAAPz7in+AyGbq6rG/gSBsR5f1b7smXvgds/uxSUQH+n6kcLBE8yXxVauYAAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-57-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-57-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-57-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-57-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-59.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMXcbBdkXXJZn/WHrxx90AP6yDn3WJpP8lxQEaFcT81QbaOk6NdpicryV+DeKo7/ehfMEN3TMxjM9EYaRuhiGOKykSVqvwNxL5+hQmRdqLgcJX/kzXlrXNLIDdrGHlG9XRxdf86pHScJR4+vQSu4/0+xTXFlH99ZKKmOMirvSjmjHKTAZhBrpHRicR6tpieosr1xshGvV/wAAAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-59-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-59-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-59-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-59-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-60.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdAYxO5cxlrxaVgq/HJaUlqRAA+Nrmr7x87qHDBVG8Ec685zh35864GVJxGc96GC841ykxPRBnRfRY4ctcb7u8ozPgwm3KPc6+61StzJh2IozoevLK4q197HI8fIIv6aRi2eSdrsiRRhMKTQaS772+e/9o8CSVVOHClKN6UjDfaAHnbPhOiGZwf8eomjZOXypCZ2wB2LyfAcqAAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-60-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-60-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-60-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-60-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-61.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMXratMw2Q1Gmj7+adaewAP5kELZwHKU8s77xg2SGZC12Ns2OwwfsKBJ5T76fJW0TfdCpf69oAh1XSA3JSJ7VjabAtcmS8GkcFPEY6EpmUTKywfPbQU3uIjjmAwYsifIU9A6SIwOfe7gcl+Pmf0dMbLfR6/VTIbl66XIz6fcIH+/HEBlOW1JvPyY7VTT/tkmsaGlGsTmS2nzNOmAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-61-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-61-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-61-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-61-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-62.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCsAB0mkW2VCWhBLrPRf5AigAD9+z0H+Yee+ZuUzZ/IGWUzQSuIb12HCINQcnTNe5wLpApPCjO1bhVBZztlAPRbzcBv775JNeQoXAlL+6jrNzbeLdnaiRhyDQAoIlwFWMpmo7CYLgVR2idkXckDCBe6QEmEcVzQcuvKfUZoDy3vficid85X1e3AAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-62-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-62-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-62-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-62-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-63.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMZKVlWqgWvrFxkioOiXgAP6xB3Jja3RpdtqOnt8c3MYAuAIqQr0nQDfp/dU+AvYeJxNq+tjgGJAQECd96tkrGn9r9BpSfsOzcPe39rNVyaKqLTj76E9/bAS+nmb6kM0ll+mQb1aeiCncRlKtxkUdDOkEiQbtkN84we3WBso+WYbWgBxYgmbtW+8lh98RAAAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-63-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-63-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-63-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-63-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-64.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdAYwc1f/BKEl+pC1at7m3ozioAAD+mkoZQpRFLPyHn0+/7NNjRqQ3L3ISmlmGSviQYtXGLidQWgAkxZXhHmsgq/9iYtxcwuNaKc43uDOunre0PIC9GFh5YMruuggsxcsRGfNtUXN3vP171IZHIWlqNOdy5atJyyUsdQCLTbv4P6PVwGbc71zEsmY22XM1VN4MjWWvss4r/24WN+AA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-64-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-64-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-64-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-64-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-65.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCsAYyKl62dEemtbdW3gVQwAP5kxcBh2lD0xzFrG4cHmPqT9saSzHnwIV+vHWKPkJ29sZduqIpXsHVNSZeYFsmny7RxvFtnoSSSykGp+jU3xjc5AOSMal9julYIZa2s7F/yBHtFmNvdbxr0QX5zlI4RBy/bbv3uCEVGFavb1Aqi8bmwf6yxnAQ4FGJuvRYAAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-65-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-65-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-65-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-65-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-66.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCsABuw6bCPfFZOZkmkb9MgAP5pL2Oj5zpnK+haekaji3C4Ai/3VkhVhhJoE+1YAAGyTiY5emVbOBJp05JW05sSOpIqzI4Qbof/vBQtlMOrH3R7flLxe+z1V6Etw6koAPm/IogTtMSa2NYc7Wvo19f4Nx7O95F36EcjWCSffO8ldpmTBN06xs1c4gAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-66-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-66-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-66-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-66-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-67.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBdgP4FkB7sSMrk0pTrmj15acl0AAP37OK2kyG2P2NU6lE55oLc0C8irq/agMn4zuMedlW5Q32Z2Yk8ozKDWaVTTWMmudxQBVnco+Ls4x3wKuX8VgDhsjXvCP86aqvU/jQXZCV6lrrWItgb7NxCoCjEc3ssPNr5zutrsJoZ/UXqVlhqbEz/5yi4kI7ImQTHd8G9mIJ8zLQCwAAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-67-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-67-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-67-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-67-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-68.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCsAYxY5CaYl4m9LJnOqmkEHgAA/mXc2c/VmqQu4Hlj9NyAJlCFH3YJ526oqJxI6Aew+ixc1civWtwXV0/uByMusddmoV5b99GiuDR8xjBT3H/AOilCjNkIW3uuLOd+LZjXhiSi5KKbh34WqUzcVMFjexEv+cpaBV2Thv02mgLH+cTBPwYaO5sRAAAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-68-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-68-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-68-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-68-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-69.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwC7BrALQdS9CnpsKqF3V0AgGqQA/ftMkIlfrqYfga9MBDxX1vR3mDiaGAy40nO48z+tOcB20cQq/CmSate85yNxkuz8D21OwVhvw65xNyb+m7a3VDVbrwYFNBNIESyiO+HCFEm1A4fI/Ze1a+Hjti5cWEsRR98mnxyOiy/UyizYRkduLuwxN3+gIQNZ+B/SZKKe6Ie7jZ5bj8VWJhIEhjmAAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-69-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-69-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-69-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-69-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-70.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwC7AYwctNf36i3cG7htWdgA/fs/LYB01bINNL9L3HGMmSkKzMFxrFW7spVFD1+VsFASg0kzy9A63tir8G51rBb25CrqfOv6HvirRIu2ckkiYmDMJhE9rsdoy/0RF5BDjFHtEvG/ZfiXfdcuWf1R59T7oTfsu9mcKP9D6041lWrus4Z9Fk57kJwmH+c7cUXnBAhUxJIc4g+AkAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-70-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-70-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-70-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-70-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-71.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCsAYyeykdjI3QDs8UOr8I4uAAA/fsJvZCFJ8z2U4z8Erm+fXPm+0at8wmTT7+ImEdrA+MrllJUOJ1TtSb5n0GHBtkLxecpLH2BOPnU/hdvL5uzP4RuDo8t/ajks5LODP/AABmbnkbvmlM3wg8Y1hpnWiO2Iv0bnCUNq7j8bStblk67Ivxor1fP157xm5iTfJDDrVmCwaiAlPTRggwb5y+VFnWnVYAAAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-71-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-71-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-71-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-71-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-72.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwBV0FwEua1ltAjH1n2pKDs4sjyAAP37U4iUXoKlnTq6guWye4rHEyc8pQYYdRlR2rzD8u7Hp/ZZqdi8a6Ohdvd7c8uqUFwVsjJwJu6ex4nxM6fAp1t4/qxNKnHe/6YGaU1xfZ4eiBYrP+W6Bw+MekAPCONOxf8z9OAeUNz8vEKMGKGqkVeqSBDv6kkPfP7yn/VJsftIzN0bcNljd/a1+cxizxWQzb2iPMs+5UWdUVgOAAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-72-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-72-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-72-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-72-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-73.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCdEf/gNnUuZiZmDVRvyR4AAOJGy05rebxUHPlJyjMA57S0lNUFxYvaPKIg4aRuKJrJwAXQLGZDs2jf7zqLspnejXDoqfI+3O8ZzEzcWfIBvOOgvnpGvdbGRdnwWPofeviuxxb0qTdHVn8OE8XlU1Yq0E4q669x0voLDBngfZRAUAAAAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-73-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-73-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-73-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-73-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-74.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBdmUAS3Yxlq+KyM+bNmhxnw6ZOAAOGZkCta/eHEcEM3vbyltTL3cpJs8ag/daiMVVL9mOWXlleF8KcKwunz+qnf5W6co0+jzsszJF3jGvqx3SBktraG+7f+lmleaDljS+Xl7d7KnPT/IQGIBSY4YQ6uqJIPFU4A8F7afzP1ChFTDxwxlkEXjc/SxjcZF2stqep6gaztVDspON4nAwdc5z2L46fFy0vUmtJWgAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-74-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-74-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-74-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-74-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-76.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOkGxBXDVuisrwkjyhEKqgAzINLwdZqQhRP/v8buF+qqskowQisg5h+3DQ5+Db6V+4hl5D3rnLxTbrh74f7ls7rl/3FbmjYlmwaHM+1Qf7nfmkjxsXn+pQNGs6dBrmswOOF9DJtpct1bV/95NCwXPeYZaaBe8/nBGveKOoUAouKRHpTz6X/f/Lml+AC0ouUxjG1VgmDUAAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-76-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-76-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-76-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-76-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-75.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBhQMYEbDa5j/CkQOZpd7gAA/u1QytlcnmBWN29o/coIbaNFFw78j7acnYinObzXyINreV9mOmnpQfRW3VBvb2kecLMPV506rMPlAwi9V6Zr27ddxYIbFDDXMqhvOZgqQoF6AzqCYeO7RCnKMFpp3HP2tbtA/jwNBc4+G8a+w/mxnNLGo9KJy3et16mPYXutit91XsPps90G7KKj2NMNbtVUAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-75-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-75-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-75-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-75-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-77.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBfJMXXUze60x8o7KyAaYAD+7V/Ape3YBbl3UlzESLj0oTc9Hyh1riLLIHcxtdyqj5c+D1JOFXTXeSoizPogw2CvWjrJhxoR7WVIqK2Bd0nxadH2yFl6SHdse3Nm4MmmERu3PvtWbUt7zesT4JxzV4C4XhsbAW8H6MP7ps6qQIIoLny/DCDjaIJtHAN2jDodHjZ6NCit5l7wQAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-77-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-77-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-77-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-77-1920.webp"
+      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-85-480.webp",
+      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-85-960.webp",
+      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-85-1440.webp",
+      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-85-1920.webp"
     }
   },
   "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-78.webp": {
@@ -857,26 +142,26 @@
       "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-78-1920.webp"
     }
   },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-79.webp": {
+  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-88.webp": {
     "w": 2560,
     "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADQAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBbZA6NBiSqcM28ssIAA90/5rTKFHp/D5XGh8a1PV1zWfv1v459G80o7+S6j4QvsQd2PMMHGSInV++3fEVarKdvc3SH42tnXytnOAWD9x5DolCtG1/gDBPeLmky4YtQ/whhk9v8+uS24ZwPSRzBfAx+eZgAA",
+    "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAQBACdASoYABAAPu1iqU2ppaQiMAgBMB2JYwCzgCKdXsOxnd3C5KKulADycgjg46G7IylxXU7rVYcq79HAXHnTkpqsrqo+sWDaDE/SLeTqxnwa+ZScCOhtzj9K6DxvdI9Q4HCruvQG3TQToodBrgP0vCzDAPNWNADXj8oAAAA=",
     "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-79-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-79-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-79-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-79-1920.webp"
+      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-88-480.webp",
+      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-88-960.webp",
+      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-88-1440.webp",
+      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-88-1920.webp"
     }
   },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-80.webp": {
+  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-89.webp": {
     "w": 2560,
     "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdAdwLg7S9lgMMwMNcflMDAHAA/snjWYdbV8t7NA5D690AvMHMYIts7gxYghMBpLLOynMal7uAqlB/v9LsnCgVroqHR+emNiDHGqwt1F8DphpDw9aDcwN2qXUVkxqxav4Cx+26kB7CfPsXvNBxEMK/ORGcRwmSo2g+fdOGuYDdrZWe5dzM+JUMZ6NizbsmAAAA",
+    "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAwBACdASoYABAAPu1iqU2ppaQiMAgBMB2JZQCdACKlxG6p4qsuNzMtCQAA3jmzkGEhLMV4EBnpCOyCBkoC3MzHecnMMDCwsxFizU9cErV1kcBFw0D+3fwkbyfUnEln2YeNfaSAG36pUfF7LgP/RnaxMNu5Dpv1VJRfex76x8G8oEOBz9KqwA/DgIEAAA==",
     "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-80-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-80-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-80-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-80-1920.webp"
+      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-89-480.webp",
+      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-89-960.webp",
+      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-89-1440.webp",
+      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-89-1920.webp"
     }
   },
   "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-81.webp": {
@@ -890,92 +175,26 @@
       "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-81-1920.webp"
     }
   },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-82.webp": {
+  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-67.webp": {
     "w": 2560,
     "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAwBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdMoMxhsAnRhXPmNQVIXJN/7Gfd/4bAADLIraFbsBE8uCOT0w0J3YqrKpNV4YpZfiCcABu+Y/92yhtChPiwaz7kbTMBHXYVCK9l92+WszaD7S25e+Pee8rT6jZY5fjJ/xItGe1MKHPJrOS2zoVjWRr7L/kzRORm1hDNthyLHaUNZtaa3OLYcchL/VM5QvBNafSSCkJ0Afg2E4qAKIAAAA=",
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBdgP4FkB7sSMrk0pTrmj15acl0AAP37OK2kyG2P2NU6lE55oLc0C8irq/agMn4zuMedlW5Q32Z2Yk8ozKDWaVTTWMmudxQBVnco+Ls4x3wKuX8VgDhsjXvCP86aqvU/jQXZCV6lrrWItgb7NxCoCjEc3ssPNr5zutrsJoZ/UXqVlhqbEz/5yi4kI7ImQTHd8G9mIJ8zLQCwAAA=",
     "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-82-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-82-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-82-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-82-1920.webp"
+      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-67-480.webp",
+      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-67-960.webp",
+      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-67-1440.webp",
+      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-67-1920.webp"
     }
   },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-84.webp": {
+  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-66.webp": {
     "w": 2560,
     "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwC7ICf/AJsD3eoCs8/Of39wYkKOAAD+5yB0f9MC9/wHcOjNeVBFzynwnStdAE+vJnmuO2IjeW9IF9yZ4HA4I/ebfB4Or5gpn7xZlMmSH1tIeO0HDn+YEWAi/CD22C2hGH9UfOSJEir3oja7d+YBL3b7/sJq5hitEdvcVuH53nP2Tw72l/eX7IkgXf4QaDL30Gc6og9s4LgA",
+    "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCsABuw6bCPfFZOZkmkb9MgAP5pL2Oj5zpnK+haekaji3C4Ai/3VkhVhhJoE+1YAAGyTiY5emVbOBJp05JW05sSOpIqzI4Qbof/vBQtlMOrH3R7flLxe+z1V6Etw6koAPm/IogTtMSa2NYc7Wvo19f4Nx7O95F36EcjWCSffO8ldpmTBN06xs1c4gAA",
     "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-84-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-84-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-84-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-84-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-83.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBdgMYTbcpK2glOFc3gz5QAA/tMXCIj5Z+BDRFeYLmhVLu485PIWRM3eibpAwrC9vfTcaqYKqbgEcf49DTIMYqqyxmH0ekw4DFbeq3mjTcOrwkeJGMc+476S122HnKZhaKUXqFD3a5g5HrAUL2ULOeuT0ELXAfjtr3+vvpu5rJzjS/FzDP3MFHEX5GKfuck07AQ18tWXT8AA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-83-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-83-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-83-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-83-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-88.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAQBACdASoYABAAPu1iqU2ppaQiMAgBMB2JYwCzgCKdXsOxnd3C5KKulADycgjg46G7IylxXU7rVYcq79HAXHnTkpqsrqo+sWDaDE/SLeTqxnwa+ZScCOhtzj9K6DxvdI9Q4HCruvQG3TQToodBrgP0vCzDAPNWNADXj8oAAAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-88-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-88-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-88-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-88-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-86.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgC7AdwLg7V/uINJKv2TKNgA/lMAGVbF/4WUgVTPgttY46uGSpqNi1owVwKAb+SmzP6lr5bVutpa1MyMQW9IqRF5i5IBMTrg8Sp55TzryH2KL12duNjy4bZ4QFy2US15WPRDsllyhPhFJtXpdWW+CFEgDKOWZq+VSZuGtArVvyknyz34HAWSD/HtCRLyS3iQJUROe8+5X1X1Np5z0wAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-86-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-86-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-86-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-86-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-87.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBfJMXmbcytQ1fvXqCDs34XTzAAA/ucf7sx84SZkdP+tIcQgAV235SPSU3seBDxOp1HoiIXWf1nqc5CRpY2oyPucBlqljHShfX9gYCHPfeGkudhQIz0+41GeO/M/fvcZ0XxHEAVZ/3jKVEWMMZ/zoFT4HGM3g3uvszeznuvjv9rp7pj5ZiQPUlRcWP9s+KObSYSvkAA=",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-87-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-87-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-87-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-87-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-85.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQAB8tC2b6m9AtCwnxqldfAAA/t7fDw134V+O+pqM0lvtchGcQ6RtGL1xVNrMCLkvs2tsRshh1HdNCgSetOhSCAz05t9UN50AcBfgKnfxQw2YXyn7IEau/WZZHHdUsGoG/zzAIhYMEqjYaTboakfxu6a2fVSE6/bPkB/2uzyRJluNYtiNPnvkqPzIq7btLLglPe4RHJJw5Pc3fwd+xXyatgu+7xiM/4CgtpAA",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-85-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-85-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-85-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-85-1920.webp"
-    }
-  },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-89.webp": {
-    "w": 2560,
-    "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAwBACdASoYABAAPu1iqU2ppaQiMAgBMB2JZQCdACKlxG6p4qsuNzMtCQAA3jmzkGEhLMV4EBnpCOyCBkoC3MzHecnMMDCwsxFizU9cErV1kcBFw0D+3fwkbyfUnEln2YeNfaSAG36pUfF7LgP/RnaxMNu5Dpv1VJRfex76x8G8oEOBz9KqwA/DgIEAAA==",
-    "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-89-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-89-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-89-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-89-1920.webp"
+      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-66-480.webp",
+      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-66-960.webp",
+      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-66-1440.webp",
+      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-66-1920.webp"
     }
   }
 }

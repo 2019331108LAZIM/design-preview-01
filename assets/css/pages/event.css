@@ -1,41 +1,152 @@
+/* Every cover is 3:2. At 1920 wide a 420px masthead needs a 4.6:1 crop,
+   which threw away two thirds of the frame from the middle outwards and
+   sliced people's heads off. Taller band = less thrown away: at ~58vh the
+   crop keeps roughly half the frame instead of a third. */
 .event-masthead {
   position: relative;
   overflow: hidden;
-  min-height: 420px;
+  min-height: clamp(420px, 58vh, 660px);
   border-bottom: 1px solid var(--line);
 }
 .event-masthead__bg { position: absolute; inset: 0; }
-.event-masthead__bg img { width: 100%; height: 100%; object-fit: cover; }
-.event-masthead__scrim { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(20,14,10,.1) 30%, rgba(20,14,10,.86)); }
+/* Biased up, not centred. In event photography the faces sit in the upper
+   half of the frame, so when a crop is unavoidable it should eat the floor
+   and the foreground, never the heads. */
+.event-masthead__bg img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  object-position: center 28%;
+}
+.event-masthead__scrim { position: absolute; inset: 0; background: var(--hero-scrim); }
 .event-masthead__inner {
   position: relative;
   max-width: var(--container-max-narrow);
   margin-inline: auto;
   padding: 60px var(--pad-inline) 50px;
-  min-height: 420px;
+  min-height: clamp(420px, 58vh, 660px);
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
 }
-.event-masthead__back { display: inline-block; background: none; border: 0; padding: 0; cursor: pointer; color: rgba(246,238,221,.7); font: 500 11px/1 var(--font-body); letter-spacing: .16em; text-transform: uppercase; margin-bottom: 20px; }
+.event-masthead__back { text-shadow: var(--hero-text-shadow); display: inline-block; background: none; border: 0; padding: 0; cursor: pointer; color: rgba(246,238,221,.86); font: 500 11.5px/1.3 var(--font-body); letter-spacing: .16em; text-transform: uppercase; margin-bottom: 20px; }
 .event-masthead__back:hover { color: var(--gold-ui); }
-.event-masthead__kicker { font: 600 10.5px/1 var(--font-label); letter-spacing: .28em; text-transform: uppercase; color: #E0A63B; margin-bottom: 16px; }
-.event-masthead__title { margin: 0 0 18px; max-width: 22ch; font-family: var(--font-display); font-weight: 400; font-size: clamp(34px, 5.6vw, 78px); line-height: .96; color: #F6EEDD; }
-.event-masthead__meta { display: flex; gap: 18px; flex-wrap: wrap; font: 500 12px/1.5 var(--font-body); letter-spacing: .04em; color: rgba(246,238,221,.78); }
+.event-masthead__kicker { text-shadow: var(--hero-text-shadow); font: 600 11px/1.3 var(--font-label); letter-spacing: .16em; text-transform: uppercase; color: #E0A63B; margin-bottom: 16px; }
+.event-masthead__title { text-shadow: var(--hero-title-shadow); margin: 0 0 18px; max-width: 22ch; font-family: var(--font-display); font-weight: 400; font-size: clamp(34px, 5.6vw, 78px); line-height: 1.08; color: #F6EEDD; }
+.event-masthead__meta { text-shadow: var(--hero-text-shadow); display: flex; gap: 18px; flex-wrap: wrap; font: 500 12.5px/1.5 var(--font-body); letter-spacing: .04em; color: rgba(246,238,221,.9); }
 .event-masthead__tags { display: flex; gap: 8px; margin-top: 16px; flex-wrap: wrap; }
+
+/* The article: body column plus a details rail. The rail carries the
+   facts that used to be nowhere (series, speaker, chief guest, media
+   partner) — short, scannable, and the reason the page no longer reads as
+   one paragraph followed by a hundred photographs. It drops under the
+   body on narrow screens rather than squeezing the measure. */
+.event-article {
+  max-width: var(--container-max-narrow);
+  margin: 0 auto;
+  padding: 0 var(--pad-inline);
+  display: grid;
+  grid-template-columns: minmax(0, 720px) minmax(240px, 1fr);
+  gap: 0 56px;
+  align-items: start;
+}
+@media (max-width: 980px) {
+  .event-article { grid-template-columns: minmax(0, 1fr); gap: 0; }
+}
 
 .event-body {
   max-width: 720px;
-  margin: 0 auto;
-  padding: 70px var(--pad-inline) 50px;
+  padding: 70px 0 50px;
 }
-.event-body__lede { font: 400 18px/1.8 var(--font-body); color: var(--ink); }
-.event-body__p { margin-top: 22px; font: 400 16px/1.8 var(--font-body); color: var(--ink2); }
+.event-body__lede { font: 400 18px/1.6 var(--font-body); color: var(--ink); }
+.event-body__p { margin-top: 22px; font: 400 16px/1.6 var(--font-body); color: var(--ink2); }
+
+/* Pull quote. Only ever carries text that was physically printed at the
+   event — a session or exhibition title off the programme banner — never
+   words attributed to a person. See tools/lib/event-copy.mjs. */
+.event-pullquote { margin: 38px 0 34px; padding: 0 0 0 26px; border-left: 2px solid var(--gold-ui); }
+.event-pullquote blockquote {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 400;
+  /* floor raised to the 24px display minimum (tokens.css) */
+  font-size: clamp(24px, 2.6vw, 32px);
+  line-height: 1.3;
+  color: var(--ink);
+}
+.event-pullquote blockquote::before { content: '\201C'; }
+.event-pullquote blockquote::after { content: '\201D'; }
+.event-pullquote figcaption {
+  margin-top: 12px;
+  font: 500 11px/1.5 var(--font-label);
+  letter-spacing: .14em; text-transform: uppercase; color: var(--ink3);
+}
+
+.event-facts {
+  position: sticky; top: 92px;
+  margin-top: 70px;
+  padding: 22px 0 0;
+  border-top: 2px solid var(--line2);
+}
+@media (max-width: 980px) {
+  .event-facts { position: static; margin-top: 0; margin-bottom: 40px; }
+}
+.event-facts__head {
+  margin: 0 0 16px;
+  font: 600 11px/1.3 var(--font-label);
+  letter-spacing: .2em; text-transform: uppercase; color: var(--ink3);
+}
+.event-facts__list { margin: 0; }
+.event-facts__row { padding: 12px 0; border-bottom: 1px solid var(--line); }
+.event-facts__row:last-child { border-bottom: 0; }
+.event-facts__row dt {
+  font: 600 11px/1.4 var(--font-label);
+  letter-spacing: .16em; text-transform: uppercase; color: var(--ink3);
+  margin-bottom: 5px;
+}
+.event-facts__row dd { margin: 0; font: 400 13.5px/1.55 var(--font-body); color: var(--ink); }
+
+/* Draft claims from tools/lib/event-copy.mjs, wrapped in [[? … ]] there.
+   Deliberately conspicuous: this is copy nobody has confirmed yet, and
+   `node tools/verify.mjs` fails while any survive, so the page cannot go
+   live still wearing these. Remove the markers in event-copy.mjs (not this
+   rule) once each claim is checked. */
+/* Unconfirmed draft copy — [[? … ]] in tools/lib/event-copy.mjs.
+   The real gate is `npm run verify`, which exits non-zero while any of
+   these survive, so this marking only has to be noticeable to someone
+   reading the page — not alarming. A filled block highlight made the copy
+   itself hard to read, which defeats the point of reviewing it. A thin
+   dotted rule under the text says "unconfirmed" without shouting. */
+mark.unverified {
+  background: none;
+  color: inherit;
+  text-decoration: underline dotted color-mix(in srgb, var(--terra-ui) 70%, transparent);
+  text-underline-offset: .22em;
+  text-decoration-thickness: 1px;
+  cursor: help;
+}
+mark.unverified:hover {
+  background: color-mix(in srgb, var(--terra) 10%, transparent);
+  border-radius: 2px;
+}
 
 .event-gallery-section { max-width: var(--container-max-narrow); margin: 0 auto; padding: 30px var(--pad-inline) 50px; }
 .event-gallery-section__head { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px 20px; margin-bottom: 24px; border-top: 1px solid var(--line2); padding-top: 26px; }
-.event-gallery-section__head h2 { font-size: clamp(24px, 2.8vw, 38px); line-height: 1; }
+.event-gallery-section__head h2 { font-size: clamp(24px, 2.8vw, 38px); line-height: 1.12; }
 .event-gallery-section__head-right { display: flex; align-items: center; gap: 18px; }
+
+/* The slideshow button is the only route into the fullscreen viewer now
+   that "View all" is gone, so it reads as the section's primary action
+   rather than a quiet outline chip: filled, larger text, and a play glyph
+   that sits on the text baseline. */
+.btn--slideshow {
+  gap: 9px;
+  padding: 13px 24px;
+  font-size: 13px;
+  letter-spacing: .08em;
+  box-shadow: 0 2px 14px rgba(193, 85, 44, .3);
+}
+.btn--slideshow:hover, .btn--slideshow:focus-visible { box-shadow: 0 3px 18px rgba(193, 85, 44, .42); }
+.btn--slideshow .btn__icon { font-size: 10px; line-height: 1; transform: translateY(.5px); }
 @media (max-width: 500px) {
   .event-gallery-section__head-right { width: 100%; justify-content: space-between; }
 }
@@ -71,7 +182,11 @@
    object-fit: cover anywhere in this component. */
 .gallery-item__btn img { display: block; width: 100%; height: 100%; object-fit: contain; transition: transform 600ms var(--ease-editorial); }
 .gallery-item__btn:hover img, .gallery-item__btn:focus-visible img { transform: scale(1.03); }
-.gallery-item__cap { margin-top: 8px; font: 500 10.5px/1.5 var(--font-label); letter-spacing: .08em; text-transform: uppercase; color: var(--ink3); min-height: 1em; }
+/* Caption sits under its photo. An uncaptioned photo gets no empty
+   reserved line at all (.gallery-item--nocap) — a row of blank caption
+   slots was part of what made the old grid read as filler. */
+.gallery-item__cap { margin-top: 8px; font: 500 11px/1.5 var(--font-label); letter-spacing: .08em; text-transform: uppercase; color: var(--ink3); }
+
 
 .event-footer-nav {
   border-top: 1px solid var(--line2);
@@ -85,6 +200,6 @@
 .event-nav-card { display: block; padding: 22px; border: 1px solid var(--line); background: var(--panel); color: inherit; }
 .event-nav-card:hover { border-color: var(--gold-ui); }
 .event-nav-card--next { text-align: right; }
-.event-nav-card__label { font: 600 9.5px/1 var(--font-label); letter-spacing: .2em; text-transform: uppercase; color: var(--ink3); margin-bottom: 10px; }
-.event-nav-card__title { font-family: var(--font-display); font-size: 21px; line-height: 1.2; color: var(--ink); }
+.event-nav-card__label { font: 600 11px/1.3 var(--font-label); letter-spacing: .2em; text-transform: uppercase; color: var(--ink3); margin-bottom: 10px; }
+.event-nav-card__title { font-family: var(--font-body); font-weight: 600; font-size: 18px; line-height: 1.35; letter-spacing: -.01em; color: var(--ink); }
 .event-all-events { text-align: center; padding-bottom: 40px; }

@@ -57,7 +57,10 @@ function sectionShellHTML(event, covers) {
 
 async function fillSection(event) {
   const [images, gallery] = await Promise.all([loadEventImageIndex(event.id), loadGallery(event.id)]);
-  const photos = gallery.length ? gallery : [{ src: event.cover, caption: '' }];
+  // The gallery file is the event's selection, already in display order —
+  // see tools/lib/event-copy.mjs. No fallback to the whole source folder;
+  // scan-events.mjs fails the build if an event has no selection.
+  const photos = gallery;
   const track = document.getElementById(`${event.id}-track`);
   if (!track) return;
   track.innerHTML = photos.map(g => slideHTML(g, images, event)).join('');

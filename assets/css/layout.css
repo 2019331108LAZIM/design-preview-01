@@ -29,14 +29,14 @@ section, .section { padding-block: 90px; }
   align-items: center;
   gap: 28px;
   min-height: var(--header-h);
-  padding: 12px var(--pad-inline);
+  padding: 16px var(--pad-inline);
   background: color-mix(in oklab, var(--bg) 88%, transparent);
   backdrop-filter: blur(14px) saturate(120%);
   -webkit-backdrop-filter: blur(14px) saturate(120%);
   border-bottom: 1px solid var(--line);
   transition: padding var(--dur-quick) var(--ease-editorial);
 }
-.site-header.is-condensed { padding-block: 8px; }
+.site-header.is-condensed { padding-block: 11px; }
 
 .brand {
   display: flex;
@@ -51,9 +51,14 @@ section, .section { padding-block: 90px; }
 .brand__lockup {
   display: flex;
   align-items: center;
-  gap: 9px;
+  gap: 12px;
 }
-.brand__cf-mark { display: inline-block; height: 34px; width: auto; }
+/* The mark and wordmark are the only branding in the bar, so they carry
+   it: larger than the nav links by a clear margin, and the wordmark set in
+   the body face at a weight that holds its own against them. */
+.brand__cf-mark { display: inline-block; height: 46px; width: auto; }
+.brand:hover .brand__cf-mark, .brand:focus-visible .brand__cf-mark { opacity: .85; }
+.brand__cf-mark, .brand { transition: opacity var(--dur-quick) var(--ease-editorial); }
 
 .main-nav { display: flex; gap: 2px; margin-left: auto; flex-wrap: wrap; align-items: center; }
 .main-nav__link {
@@ -62,7 +67,7 @@ section, .section { padding-block: 90px; }
   border: 0;
   cursor: pointer;
   color: var(--ink2);
-  font: 500 12.5px/1 var(--font-body);
+  font: 500 14px/1 var(--font-body);
   letter-spacing: .02em;
   padding: 9px 11px;
   border-radius: 2px;
@@ -137,7 +142,7 @@ section, .section { padding-block: 90px; }
 @media (max-width: 1100px) {
   .main-nav { display: none; }
   .nav-toggle { display: block; }
-  .brand__cf-mark { height: 28px; }
+  .brand__cf-mark { height: 36px; }
   .theme-toggle { margin-left: auto; }
 }
 @media (max-width: 560px) {
@@ -161,8 +166,12 @@ section, .section { padding-block: 90px; }
 }
 .nav-overlay.is-open { opacity: 1; transform: none; pointer-events: auto; }
 .nav-overlay__link {
-  font-family: var(--font-display);
-  font-size: clamp(28px, 8vw, 44px);
+  /* Navigation is UI, not editorial display type — spec requires the body
+     face here even at overlay sizes. */
+  font-family: var(--font-body);
+  font-weight: 500;
+  letter-spacing: -.02em;
+  font-size: clamp(26px, 7vw, 40px);
   color: var(--ink);
   padding: 12px 0;
   border-bottom: 1px solid var(--line);
@@ -211,7 +220,7 @@ section, .section { padding-block: 90px; }
    half is fill="currentColor", which is why this needs its own `color`
    above rather than just inheriting body text colour. */
 .footer-brand__mark svg { display: inline-block; height: 38px; width: auto; }
-.footer-brand p { margin: 0 0 20px; max-width: 34ch; font: 400 13.5px/1.7 var(--font-body); color: var(--ink2); }
+.footer-brand p { margin: 0 0 20px; max-width: 34ch; font: 400 13.5px/1.6 var(--font-body); color: var(--ink2); }
 .footer-brand__contact { display: grid; gap: 6px; font: 500 13px/1.6 var(--font-body); color: var(--ink2); }
 .footer-socials { display: flex; gap: 10px; margin-top: 22px; }
 .footer-socials a {
@@ -225,8 +234,8 @@ section, .section { padding-block: 90px; }
 .footer-socials a:hover { border-color: var(--gold-ui); color: var(--gold-ui); }
 
 .footer-col__title {
-  font: 600 9.5px/1 var(--font-label);
-  letter-spacing: .24em;
+  font: 600 11px/1.3 var(--font-label);
+  letter-spacing: .16em;
   text-transform: uppercase;
   color: var(--gold-ui);
   margin-bottom: 18px;
@@ -251,7 +260,7 @@ section, .section { padding-block: 90px; }
   gap: 24px;
   flex-wrap: wrap;
 }
-.newsletter__title { font-family: var(--font-display); font-size: 26px; line-height: 1.1; color: var(--ink); }
+.newsletter__title { font-family: var(--font-body); font-weight: 600; font-size: 19px; line-height: 1.3; letter-spacing: -.01em; color: var(--ink); }
 .newsletter__copy { margin-top: 7px; font: 400 13px/1.5 var(--font-body); color: var(--ink2); }
 .newsletter__form { display: flex; align-items: flex-end; gap: 14px; flex: 1; min-width: 260px; max-width: 440px; }
 .newsletter__form input {

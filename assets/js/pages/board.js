@@ -17,8 +17,11 @@ async function render() {
         </div>
         <div class="board-group__grid">
           ${people.map(p => `
-            <a class="portrait-card" href="board-member.html?id=${p.id}" data-reveal>
-              <div class="portrait-card__frame" style="background:${p.ink}">${imgTag(images, p.img, p.name, { sizes: '(max-width:560px) 46vw, 240px' })}</div>
+            <a class="portrait-card${p.placeholder ? ' portrait-card--placeholder' : ''}" href="board-member.html?id=${p.id}" data-reveal>
+              <div class="portrait-card__frame"${p.placeholder ? '' : ` style="background:${p.ink}"`}>
+                ${imgTag(images, p.img, p.placeholder ? '' : p.name, { sizes: '(max-width:560px) 46vw, 240px' })}
+                ${p.placeholder ? '<span class="portrait-card__flag">Pending</span>' : ''}
+              </div>
               <div class="portrait-card__name">${p.name}</div>
               <div class="portrait-card__role">${p.role}</div>
             </a>`).join('')}

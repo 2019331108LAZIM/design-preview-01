@@ -25,7 +25,7 @@ function renderProfile(member, images) {
     <section class="profile-hero">
       <div class="profile-hero__inner">
         <div class="frame--offset">
-          <div class="frame" style="aspect-ratio:4/5;background:${member.ink}">${imgTag(images, member.img, member.name, { sizes: '380px', priority: true })}</div>
+          <div class="frame${member.placeholder ? ' frame--placeholder' : ''}" style="aspect-ratio:4/5${member.placeholder ? '' : `;background:${member.ink}`}">${imgTag(images, member.img, member.placeholder ? '' : member.name, { sizes: '380px', priority: true })}</div>
         </div>
         <div>
           <a class="profile-hero__back" href="board.html">← Meet the Board</a>
@@ -37,12 +37,22 @@ function renderProfile(member, images) {
     </section>
     <section class="profile-body">
       <div>
-        <p class="profile-body__lead dropcap">${member.bio1}</p>
+        ${member.placeholder ? `
+          <div class="profile-pending">
+            <div class="profile-pending__k">Profile pending</div>
+            <p class="profile-pending__p">
+              This entry is a placeholder. The portrait above is a drawn
+              silhouette, not a photograph, and the text below describes what
+              belongs in each paragraph rather than standing in for it.
+            </p>
+          </div>` : ''}
+        <p class="profile-body__lead${member.placeholder ? '' : ' dropcap'}">${member.bio1}</p>
         <p class="profile-body__p">${member.bio2}</p>
+        ${member.quote ? `
         <figure class="pull-quote">
           <blockquote>“${member.quote}”</blockquote>
           <figcaption>${member.quoteSrc}</figcaption>
-        </figure>
+        </figure>` : ''}
         <p class="profile-body__p">${member.bio3}</p>
       </div>
       <aside class="fact-panel">

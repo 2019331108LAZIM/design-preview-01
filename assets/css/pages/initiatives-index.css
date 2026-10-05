@@ -1,3 +1,3 @@
 .initiatives-index-intro { max-width: var(--container-max); }
-.initiatives-index-intro__title { font-size: clamp(40px, 6vw, 84px); line-height: .94; margin: 0 0 18px; }
-.initiatives-index-intro p { margin: 0; max-width: 62ch; font: 400 16px/1.7 var(--font-body); color: var(--ink2); }
+.initiatives-index-intro__title { font-size: clamp(40px, 6vw, 84px); line-height: 1.06; margin: 0 0 18px; }
+.initiatives-index-intro p { margin: 0; max-width: 62ch; font: 400 16px/1.6 var(--font-body); color: var(--ink2); }

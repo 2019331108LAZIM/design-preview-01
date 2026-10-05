@@ -10,17 +10,6 @@
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-01-1920.webp"
     }
   },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-03.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOmUABob2SY4n0t/aV7b7AA/uRn6Cx0uilfAkQ0IkDLQNNvIISYRbMw1sw9FrWGziMV0pvtNxSzEeLuS1A1igYIxBFzAT81Z4BBz2Aq1OKUi+zPQ7zv1JHJ5IEOIY3Ntc1wq2/9v7Pd47WfCPsnItF5THtn4rViwiScaqjX2dbBDBL4uTGW6KBq7HBjiigAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-03-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-03-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-03-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-03-1920.webp"
-    }
-  },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-02.webp": {
     "w": 5472,
     "h": 3648,
@@ -32,26 +21,15 @@
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-02-1920.webp"
     }
   },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-05.webp": {
+  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-03.webp": {
     "w": 5472,
     "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAADQAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBYdg8riLrv0QLTk6UAA/sJD7OHP7M9yfY/OHjktAvkvj15uLtZyX6ThEWj/k6syefDx9gUdRuATawEC3HZm4/pieDMpxnr+2Jjy4lnkPLRQIkuYkrm9L+tj1N6bGPYTzhh+1jDJuJgdP0tXSHDqBUUDrixXNYxPGOi7s2WS61g9a9n1/oAAAAA=",
+    "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOmUABob2SY4n0t/aV7b7AA/uRn6Cx0uilfAkQ0IkDLQNNvIISYRbMw1sw9FrWGziMV0pvtNxSzEeLuS1A1igYIxBFzAT81Z4BBz2Aq1OKUi+zPQ7zv1JHJ5IEOIY3Ntc1wq2/9v7Pd47WfCPsnItF5THtn4rViwiScaqjX2dbBDBL4uTGW6KBq7HBjiigAAA==",
     "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-05-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-05-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-05-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-05-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-07.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAACQAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBWABFVLVXUACRkAAP7pjpKC1MRpN0epcAFOR/KIK2TZsntKNzQie6OLmiKeoAJNImY1GkeP+Ks1q4GzTRiZ5yGv1yhkSD1mHLTbagT6gEbw2xeHe46P5aiuq8O8Ok4rI5VFO6oQWA+ZE8bOJ38/iR+yOM/fLBQAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-07-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-07-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-07-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-07-1920.webp"
+      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-03-480.webp",
+      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-03-960.webp",
+      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-03-1440.webp",
+      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-03-1920.webp"
     }
   },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-04.webp": {
@@ -65,6 +43,17 @@
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-04-1920.webp"
     }
   },
+  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-05.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAADQAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBYdg8riLrv0QLTk6UAA/sJD7OHP7M9yfY/OHjktAvkvj15uLtZyX6ThEWj/k6syefDx9gUdRuATawEC3HZm4/pieDMpxnr+2Jjy4lnkPLRQIkuYkrm9L+tj1N6bGPYTzhh+1jDJuJgdP0tXSHDqBUUDrixXNYxPGOi7s2WS61g9a9n1/oAAAAA=",
+    "variants": {
+      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-05-480.webp",
+      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-05-960.webp",
+      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-05-1440.webp",
+      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-05-1920.webp"
+    }
+  },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-06.webp": {
     "w": 5472,
     "h": 3648,
@@ -76,26 +65,15 @@
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-06-1920.webp"
     }
   },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-09.webp": {
+  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-07.webp": {
     "w": 5472,
     "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAQBACdASoYABAAPu1iqk2ppaQiMAgBMB2JQBOgBH0X/hqEs0s5vuMwgAD+8Ri6fxgTL99X1SQTWTRk+YPCPRyHv7W4rKD42rxnQU7jWx1uhW9zD15xuxrGkRO3eVlt7y9xoO+uv/i/bcSKeaAlvpY2HcqN1AGrxZqq+QtnJqyr52mHRulgGzvzM4OjjJMa9IUu06OMAAA=",
+    "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAACQAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBWABFVLVXUACRkAAP7pjpKC1MRpN0epcAFOR/KIK2TZsntKNzQie6OLmiKeoAJNImY1GkeP+Ks1q4GzTRiZ5yGv1yhkSD1mHLTbagT6gEbw2xeHe46P5aiuq8O8Ok4rI5VFO6oQWA+ZE8bOJ38/iR+yOM/fLBQAAA==",
     "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-09-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-09-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-09-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-09-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-11.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMYOXQ0Mp7Xawa6yLoVwA/sFRaf5tqM4gyyQW2xUuPQq9OsjaaOJJ1/HdJf2UYI/l2DnTsN4TaSgQsh2dVJ9CtgDmuSMhjh1mI0WOmf7QYCHEKf4IwUdvihFlepddDLisD0UHw47YYHcKa4Fy7aKcz056HVoqptNMkgrlwbJBcTAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-11-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-11-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-11-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-11-1920.webp"
+      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-07-480.webp",
+      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-07-960.webp",
+      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-07-1440.webp",
+      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-07-1920.webp"
     }
   },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-08.webp": {
@@ -109,6 +87,17 @@
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-08-1920.webp"
     }
   },
+  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-09.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAQBACdASoYABAAPu1iqk2ppaQiMAgBMB2JQBOgBH0X/hqEs0s5vuMwgAD+8Ri6fxgTL99X1SQTWTRk+YPCPRyHv7W4rKD42rxnQU7jWx1uhW9zD15xuxrGkRO3eVlt7y9xoO+uv/i/bcSKeaAlvpY2HcqN1AGrxZqq+QtnJqyr52mHRulgGzvzM4OjjJMa9IUu06OMAAA=",
+    "variants": {
+      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-09-480.webp",
+      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-09-960.webp",
+      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-09-1440.webp",
+      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-09-1920.webp"
+    }
+  },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-10.webp": {
     "w": 5472,
     "h": 3648,
@@ -120,37 +109,15 @@
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-10-1920.webp"
     }
   },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-13.webp": {
-    "w": 3648,
-    "h": 5472,
-    "lqip": "data:image/webp;base64,UklGRkQBAABXRUJQVlA4IDgBAABQBwCdASoYACQAPu1qrFEppaQiqrgKATAdiWwAnTOcyKhBRsS/VDv1qzXX0ncUKMWmy6OTfLBr0/+XPdTdCAjiSwIAAPZFq2jHPjOcP4yVPuNyUKwGjb88KRUA1rtgL/4Lg11j/cOwidYzqbAs/QHX3H6EBNtcXyoJlmc2PvKBsEB6AdPN9NdncI6gPgffwGVaQCxj48VDziOawsf7nD1y0fThQ6iaKXcRwRa9nRhHzeAXfepWNscLsEpVGziNTkyv4+eRv7MWlXTjryQrjeJPv1y42utIdpY0OFXezskIKINFxlm5k7dLGG78ER99jLnK/D7kZ4wvBRk1tdoReTo5pKssei6wqcrreJQ/Dtoa1S1fTPP413UtQcfnuFR5pssSC/xfV5FpITtvo0PzwIGBQtfBXGW5gAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-13-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-13-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-13-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-13-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-15.webp": {
+  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-11.webp": {
     "w": 5472,
     "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdIJPCuSeVs3E81GuAAPsUkhKUemgqMJb/rfLvvt+ftLSeN1Dvd6SA/hX6wDnfyikbnIQh3wirte6aPHodSkcBoCtkVUS8qL56ToB7UbTPEPrkKCW5vBCYgzZKS6Zta3VRPq4j43B09o/8Gvvs9ag9yVJHEiDq7SKrTMVNqoWAAAA=",
+    "lqip": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMYOXQ0Mp7Xawa6yLoVwA/sFRaf5tqM4gyyQW2xUuPQq9OsjaaOJJ1/HdJf2UYI/l2DnTsN4TaSgQsh2dVJ9CtgDmuSMhjh1mI0WOmf7QYCHEKf4IwUdvihFlepddDLisD0UHw47YYHcKa4Fy7aKcz056HVoqptNMkgrlwbJBcTAAAA==",
     "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-15-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-15-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-15-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-15-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-14.webp": {
-    "w": 3648,
-    "h": 5472,
-    "lqip": "data:image/webp;base64,UklGRkIBAABXRUJQVlA4IDYBAADwBgCdASoYACQAPu1qrFEppaQiqrgKATAdiWwAnTOpuhlsRX0C9EAMu0S6TdnklGTEjclG+3ZZ2aKJi5S8c7RgAPZG1aMmDQMrawvcQy30iJnymRthIc1B6AP0HPOm2X/Z9a+m/ed3ePBSCzKZFMyhrexLPn7Lxzfx3n3DZw/Tr8BBpHHSA95q8pJjh2ho7D3wbragY3H1RGuEJIDXcYgfQSZuJN88MKDEB1k7T2mnNrgEIEU0OL6hoKMqQVPkAjVst/G0m/wjfwl0YBO25xa42vIIfaWNDhV/s7JCCiDRa79IQrBz64sYj72Ip32q3YJ8KX4KVUPYCUxzz2VhcnIF4SPNGsW+QjnqRO3dFcgZr85PdI3rLvBbI0sIgkUeFchRpT1239UKW/8/HOA9EG7sOIaBAAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-14-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-14-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-14-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-14-1920.webp"
+      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-11-480.webp",
+      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-11-960.webp",
+      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-11-1440.webp",
+      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-11-1920.webp"
     }
   },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-12.webp": {
@@ -164,15 +131,37 @@
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-12-1920.webp"
     }
   },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-16.webp": {
+  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-13.webp": {
     "w": 3648,
     "h": 5472,
-    "lqip": "data:image/webp;base64,UklGRuQAAABXRUJQVlA4INgAAADwBQCdASoYACQAPu1urlCppqQiqrgKATAdiUAW9wFkli9kYEQkiMyzVsBPHAYwq3ro+CScLCjcgAD+7NIkU7IE1RyWice8hSyCvJ+crArAb5QRM66QjLM3Y7Wje/cjpt0DJ5d4KqtpsnnRd0ZY1bDzl2WwIx+EUscqNX3FJ0HdzaGyyuAGDgeG9P+MwufvNyXpd7ZY2x8ge+8DfbalPLFte1VJl0lvjVhxMzm/jtFwhjOIMMRHlMmrPWL35KZMP9crzgR6OgLls8iPmzaZroaxlrBstIInAAA=",
+    "lqip": "data:image/webp;base64,UklGRkQBAABXRUJQVlA4IDgBAABQBwCdASoYACQAPu1qrFEppaQiqrgKATAdiWwAnTOcyKhBRsS/VDv1qzXX0ncUKMWmy6OTfLBr0/+XPdTdCAjiSwIAAPZFq2jHPjOcP4yVPuNyUKwGjb88KRUA1rtgL/4Lg11j/cOwidYzqbAs/QHX3H6EBNtcXyoJlmc2PvKBsEB6AdPN9NdncI6gPgffwGVaQCxj48VDziOawsf7nD1y0fThQ6iaKXcRwRa9nRhHzeAXfepWNscLsEpVGziNTkyv4+eRv7MWlXTjryQrjeJPv1y42utIdpY0OFXezskIKINFxlm5k7dLGG78ER99jLnK/D7kZ4wvBRk1tdoReTo5pKssei6wqcrreJQ/Dtoa1S1fTPP413UtQcfnuFR5pssSC/xfV5FpITtvo0PzwIGBQtfBXGW5gAA=",
     "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-16-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-16-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-16-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-16-1920.webp"
+      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-13-480.webp",
+      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-13-960.webp",
+      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-13-1440.webp",
+      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-13-1920.webp"
+    }
+  },
+  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-14.webp": {
+    "w": 3648,
+    "h": 5472,
+    "lqip": "data:image/webp;base64,UklGRkIBAABXRUJQVlA4IDYBAADwBgCdASoYACQAPu1qrFEppaQiqrgKATAdiWwAnTOpuhlsRX0C9EAMu0S6TdnklGTEjclG+3ZZ2aKJi5S8c7RgAPZG1aMmDQMrawvcQy30iJnymRthIc1B6AP0HPOm2X/Z9a+m/ed3ePBSCzKZFMyhrexLPn7Lxzfx3n3DZw/Tr8BBpHHSA95q8pJjh2ho7D3wbragY3H1RGuEJIDXcYgfQSZuJN88MKDEB1k7T2mnNrgEIEU0OL6hoKMqQVPkAjVst/G0m/wjfwl0YBO25xa42vIIfaWNDhV/s7JCCiDRa79IQrBz64sYj72Ip32q3YJ8KX4KVUPYCUxzz2VhcnIF4SPNGsW+QjnqRO3dFcgZr85PdI3rLvBbI0sIgkUeFchRpT1239UKW/8/HOA9EG7sOIaBAAAA",
+    "variants": {
+      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-14-480.webp",
+      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-14-960.webp",
+      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-14-1440.webp",
+      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-14-1920.webp"
+    }
+  },
+  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-15.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdIJPCuSeVs3E81GuAAPsUkhKUemgqMJb/rfLvvt+ftLSeN1Dvd6SA/hX6wDnfyikbnIQh3wirte6aPHodSkcBoCtkVUS8qL56ToB7UbTPEPrkKCW5vBCYgzZKS6Zta3VRPq4j43B09o/8Gvvs9ag9yVJHEiDq7SKrTMVNqoWAAAA=",
+    "variants": {
+      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-15-480.webp",
+      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-15-960.webp",
+      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-15-1440.webp",
+      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-15-1920.webp"
     }
   },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-17.webp": {
@@ -241,17 +230,6 @@
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-22-1920.webp"
     }
   },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-23.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAwBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdH8B4AbgLhUatd1cWKRyHvTfj26Q+YAD+JMERVawqbwbtL68YkfrNiLCu/YLJTfMUvalBOwHugdzTfq9FZmTKk4XydfxU+cR8iJ/ZAWBFn/Dux7qIC+jRte0SQRTdAThG5VNSucWoryo+fbgeju6chsvMQE7KdSd5N7kJKYuUEQW3sKXSYpDwfJNlaLWban8JvjoUCSnhLgA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-23-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-23-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-23-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-23-1920.webp"
-    }
-  },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-25.webp": {
     "w": 5472,
     "h": 3648,
@@ -261,17 +239,6 @@
       "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-25-960.webp",
       "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-25-1440.webp",
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-25-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-24.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoGvt2P+WLPuiQzLOk8V68uuV2AA/u9qOwvBbCUSb4YjEro4gzZ8Ol0pPWSxET3TKJl+YmwmSqqx2ueXKB64pwRz163zQxz/8r7OSlFdpv2Woi+rTM4pUoT2Mj9qtmImZl2nNUSR7K4G9BmLinxpdcABGJPATd7e4yY77efx3dDnfxNzmQRLn0l7IwJm6eA4XfUWiWcIIkk3KnEIKruRSVgN6RmYdCPO9AA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-24-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-24-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-24-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-24-1920.webp"
     }
   },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-26.webp": {
@@ -285,103 +252,26 @@
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-26-1920.webp"
     }
   },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-27.webp": {
+  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-23.webp": {
     "w": 5472,
     "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JZgC2yBh6gq0PE0KaIocAAP70L4a37w7ChRXDtwXitJPgOJ1xyJ2XAVQTHy/EsM/K2NvygLT89zuuI7o+mfVr55ckzj/ujAy9PdXLEpktU+4uy12Z/V4H6nIEbdAsa6EFcWQhqTc8l6BjJEXu8DDM1YoAAA==",
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAwBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdH8B4AbgLhUatd1cWKRyHvTfj26Q+YAD+JMERVawqbwbtL68YkfrNiLCu/YLJTfMUvalBOwHugdzTfq9FZmTKk4XydfxU+cR8iJ/ZAWBFn/Dux7qIC+jRte0SQRTdAThG5VNSucWoryo+fbgeju6chsvMQE7KdSd5N7kJKYuUEQW3sKXSYpDwfJNlaLWban8JvjoUCSnhLgA=",
     "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-27-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-27-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-27-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-27-1920.webp"
+      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-23-480.webp",
+      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-23-960.webp",
+      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-23-1440.webp",
+      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-23-1920.webp"
     }
   },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-28.webp": {
+  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-24.webp": {
     "w": 5472,
     "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAADQBACdASoYABAAPu1kq04ppaQiMAgBMB2JQAXf+LXNblUO5T8o47PftaOvRlUOwAD+9CPDuv7tsWydEgmDfu33U2mw/FE9WOD1awqdWS5njjE/3s2hg4nDcZcdyfhJAROsgI2v5z2ysORoEPgf5FTfa5XzUzgtOx8BeiQkLr0FoyEadU6rS6qql6WCliyih8lAhkE8AY6Y9E09FBduTOuNkAA=",
+    "lqip": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoGvt2P+WLPuiQzLOk8V68uuV2AA/u9qOwvBbCUSb4YjEro4gzZ8Ol0pPWSxET3TKJl+YmwmSqqx2ueXKB64pwRz163zQxz/8r7OSlFdpv2Woi+rTM4pUoT2Mj9qtmImZl2nNUSR7K4G9BmLinxpdcABGJPATd7e4yY77efx3dDnfxNzmQRLn0l7IwJm6eA4XfUWiWcIIkk3KnEIKruRSVgN6RmYdCPO9AA=",
     "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-28-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-28-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-28-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-28-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-29.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoACn/UFSZvGZAnsHAAA/un749pI7Mu1pwtjQ3tqRZDM7ER67j9LkLTjNSzCtP60LxVIJSJ/D7FIKhBh6o5XYhDFAtZB6FMqscscMlvVwDP6/JEEO7tYQI4g3fjuXUkQIt60FeWQMywQRYqk9bBpE8Hm/BqK8apckIP3CAP9zlFPLSDP/JMirjmf32N9QAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-29-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-29-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-29-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-29-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-30.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagC06YyA5a6d9MzWh/3hh5GiAAD+wHOJI1l4BOw49Rqb49NoPlPJW2CbinE5vh/bKHlUSNDibYIEnWhHb77gWOyhSoSVqiPaTti+J2Qex8j+ijeQZtmhN2dYG9bbbpOm8K/5fRERrZ37r34O/MdgbrN6G5Rw172jbtH5aykSH+ibetyxWhsCVgGgoyxYn/w5CmiagCHfgBjnwAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-30-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-30-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-30-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-30-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-31.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCAAHkAMCfQfFeIiaEgT7gA/sBbEu8FaXQWWtZqwv324y679VlO7riitkVt9qiIMTzRTZA2PtFLqP6iYMhsPUiaV5NwbTL9/idjUbabq52z1sdSN/ch1D6bhJ1P8CbRhjpuKSGRXz13151FOeoH1/BcDU3rkW/YA/I/4V20SJP7BiAHyfesNDF177514KwSTACxBAGv9QAAAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-31-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-31-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-31-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-31-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-32.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCAAHkAMqnsl/5nWrFYMwyYAP7AXxZLWiGi6qWqvy77BQqHn1j8UziTG8pqQjSUFM/tz2bRVtEx2hCNFf1pdrzxGbYjCUXqsL/r8N9i0TXYrIFzP02vd7mMaxxs39bsbglUG0YSveYL8U+KLyXalWr28JevCy7ZxK4A92HZMvQp9NIf+GeFcuAF2Z1UMwkhakYAUbYAx/yAAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-32-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-32-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-32-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-32-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-33.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdL1yB4OX11Nhsn9FfGExSAAD+5ftNuIcZJK2ZzCqBkcmDRKLtY1w4Ywz2/BSaQ8Jsh8QOX0akLUAYOx6cp4vllqCOQcXqE+82zHf/JR6hhAfboFBcuZkABFhwn5Gq3rKMAcPocd1CEfQfxLWrb+Yq2DBpWl1QJrgic5UP767Mop3wUU7AAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-33-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-33-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-33-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-33-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-34.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAACwBACdASoYABAAPu1kqU2ppaQiMAgBMB2JQBbdEUk1WEAB3/+I1OgA0HogM5AAAP7nQmASiya9QRVmT9vqR11+rh6vXUv1AnMu1E55aGkEMEthNO4W90flE4ygq5coz/Ndg+gybdnlmRvWckqrEKeuTsI0M8nR5klKlrck4tRQWvXYRls71hOBNghb5gqzmfEUWUxmhZ7qO+qXlFoocgAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-34-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-34-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-34-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-34-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-35.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAADQAwCdASoYABAAPu1iqU2ppaQiMAgBMB2JQBYdg9HZQY3wywAaLeAA/rgTJYhXj4kPvadmjgP8KG6crkVs/4T8tyNuF+22u5y81m3xAQAvLzn5Y9yS/5EJzj1G7u1O+6SdflNdf3tomsNK1GVklP30UlP5zwwqbNsasi35HecUsjskyzLEU4WwdljimZR/RIiMAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-35-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-35-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-35-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-35-1920.webp"
+      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-24-480.webp",
+      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-24-960.webp",
+      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-24-1440.webp",
+      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-24-1920.webp"
     }
   },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-36.webp": {
@@ -395,59 +285,15 @@
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-36-1920.webp"
     }
   },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-37.webp": {
+  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-34.webp": {
     "w": 5472,
     "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOj+AVLFuZPt3euqfgodi9GXC4AAP3FZxe112EIbQQP2j90k5xLED3ME/X9XJfkCYy0l1RaRz225ojHaUDRYEpO78dtkiS9yBveLveFgk8J1I6Df7YAg+K2F7viSb/fUPkU1ZJug31ZO5o3Tno764G7gTbQ1CopdVr2bUvcIK472S88GE5zde9EJjTLHAAPjjxlLRfo5+UGoAA=",
+    "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAACwBACdASoYABAAPu1kqU2ppaQiMAgBMB2JQBbdEUk1WEAB3/+I1OgA0HogM5AAAP7nQmASiya9QRVmT9vqR11+rh6vXUv1AnMu1E55aGkEMEthNO4W90flE4ygq5coz/Ndg+gybdnlmRvWckqrEKeuTsI0M8nR5klKlrck4tRQWvXYRls71hOBNghb5gqzmfEUWUxmhZ7qO+qXlFoocgAA",
     "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-37-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-37-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-37-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-37-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-38.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgC2yYy8sVChe4SHTc8ZnwAA+xrKlM1cerTrHFBKlb+qMl8lDhRnMkdUuu9tx0JbWHeFa2Ezsm00ireVZnznBvIBXK4KFFUFbjpyfwM5/4sQ91i4iODuJb0Oh7pE1+Hdc9ukJR4fG8Ovdj+JUCxZsjmpudvl81AlLVGrgoVZ3NfbX4VQ4Hza8YE+2bfelZVwhE+2yAeD4ZBjA+XiuezwpgWlgp9xACSAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-38-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-38-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-38-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-38-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-39.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZAC7IMhDgBnb1BR/BGE0YAHtgAD+iPoH6/krWKMW6tSwSaxIbYdOviBa6EB/+2mJ8Q2QZJ0GKdMufoEqfXsWPinBoMmriBONknO/a+LjqBzMKfphrezXD/wqpPJAVahXbxG74CFOy4cveYtgGyZbAGp1mY2VDa35zgOcqRDdcQQAAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-39-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-39-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-39-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-39-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-40.webp": {
-    "w": 3648,
-    "h": 5472,
-    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAAAQBgCdASoYACQAPu1sq0+ppiOiKrgMATAdiUAV4YRs6SnAXj5u44SQyen6ZmnjUwUY2GJT0ymepQAA/fwpbIbYa743O6IZBu1k65MUit8Qa2BKeSiK9rzpp7cGy+tUp1AunnM4jOI1S4hurFbNYKxzbKiLWoLUAL9U6aiIOAYB2ZylXIEfmSJ3PltXEc1WMYiGEB4qBjk6tBUJqPN4idi1nZcgg4iBYtfcPfEJalT5N64EXNv5nBIgWDSAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-40-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-40-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-40-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-40-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-41.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoAlyBiuYLn9RY5C8JRqxD0/AAD+qgsYtLGEMMMUJ5S7Ii+ks5BVDwdvgBj049MlhozwUuZ+dDokiIl6PMFhfPqH+1Ubf3RIedhroT3K+sdCenlOmXYk6ETM83KuQxOtxM5Xt8xrWUox3S7qxxa7YJhM6KmGWua94IHzhLdcSZsFNad3PWOE+wfOSHoQUALwAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-41-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-41-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-41-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-41-1920.webp"
+      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-34-480.webp",
+      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-34-960.webp",
+      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-34-1440.webp",
+      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-34-1920.webp"
     }
   },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-42.webp": {
@@ -461,83 +307,6 @@
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-42-1920.webp"
     }
   },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-43.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdAYw6tcFdW0kRT/ixJxwLzYAA/toRI/UAN9Te3e7QmN1+SGLGhDlOWqmotfp1w5rJRma7XfueHwAPxeutkIo4ByuckxGDcT1nc3KJp7ga1eQdzw9d0n83kf7+ViZ7CARHai+wyH8jG0q33v+ISMmDtORtezyEZHD8qXA4GzbMfP2TTGkfgtPM7wKnrJiDyEyLAWPd6W/17ijIEAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-43-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-43-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-43-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-43-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-44.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgC06dwA82rMsbxZ0NtZmzgA/mzQR0qDnVQ2vbkdw6cXkyiP9GDqykmUGuLmliZUyMx38VpP/0dPqrtUU5pr9aPCVN8i6Oi6gsihrivj0qbNyUp+l5QUrxgjfiuDdQJo1vi+w4yZ8FatL3/dnspV4O9Sc+UaiT5WAkcft2eL+7ZmINB6qqfg4Cqlr72foEmrwlhXv0W0iJLLLQm0jriWalJCHbaAAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-44-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-44-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-44-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-44-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-45.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdAB7GAH1rMdk6yfj5QAD+0bDsbA4aZx7dnWiFumKHpaU64ssRj6Rj2uXDOc7+4JMyPa1verdAC4IiKE+Gp+lkPXGT5s0W4GtqzZ4Nt/KYvhMQt3j3xlS0u7RKXLahzjXhiR2W/gdvS+6RyrO+yTJGf7jI1dyerUGREjXHLTweRKSlXzUfCyMG3zIknA0HdIm2B7/UAAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-45-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-45-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-45-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-45-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-46.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdAYyK1ezuAU9ie9H4f7UPAAD+0k6kJz/lgLMuscRk3JU3+lIw6rsnyop/k+vKx5QpAv2EqPmZILuZNWV2lFDjSAz16p0uDbXUax2xZa9C88tangJnzse+HP25MBKo1/2p/eVyfcuh6yK/DSigAd+hWCzj2QYuom9oa9vPDjjjlrZVmqYGI9QabeIT1NQdbY+y4AA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-46-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-46-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-46-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-46-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-47.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbAC06CHMbbFSQP/RQbSbaOwA/siTSelXl3thRTn72bqVF5ncb1rRoThiPBfmYoW7kZFAWicRGkDX1R0ge5DZok0W5I3RIog+ph7+e9ivHyy4rdmvFku3vaMOWN8bZkmloFEKYEu4A6dvuSka6fe9rKk94NaIX6FW/V+HvZX3bwz9sOPJEjiDJMYarAGPABxHAAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-47-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-47-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-47-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-47-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-48.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagC06Yye5EuYyeIwb3ZG5XahAAD+yJ22Bub5ytFrv0/qUt59a85RrdAZdhsO1XB+ECFXrI9JKRa9xNVxea956cRlkG0L2Vap5Zh3P7vrM/9qIoSCO1/wrKoWtdz5gnHztil9LOji01vIIbox2sRPXq5CfcP/5NRENOhPshLSwvr41ltFYSOHjhChhNbkiCInUUHggDESHs0HAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-48-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-48-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-48-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-48-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-49.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAABwBACdASoYABAAPu1kqU2ppaOiMAgBMB2JQBdkBvk/wHuqkmIkLCRGN0aqlAD+U/wtNqgBZrDgCivBgwIibIch/bWPUQl5AABqo/M9IT8XL4eTjDf1jcWc+B1SmGcvbOWuvqse5oM+ojvy6Awz3FLd0cNw6T+Nm9UDnI77e/0xoGLg9yvjilNAs39xE6yhpmM4467AAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-49-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-49-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-49-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-49-1920.webp"
-    }
-  },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-50.webp": {
     "w": 5472,
     "h": 3648,
@@ -547,17 +316,6 @@
       "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-50-960.webp",
       "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-50-1440.webp",
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-50-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-51.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAAAQBACdASoYABAAPu1iqk2ppaQiMAgBMB2JagC7H8ADHXti8Hw38ZkXAAD+q+UHZ7BR5b/QqOV1lFOqIiURsfH3xOGJ6SSMWEgKUF9IpeWXdBOCyx6kjmLtrD4qZyaSrQcqOql6vqy/5iOMYzcvrVZIFJSCDyGwPTMBj38PqK7MTTqq5GA2aE3zmbm3rb1dQPrY5EkavWpOOQQjofICFyRtPyU3Z8ZkfzUWfAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-51-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-51-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-51-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-51-1920.webp"
     }
   },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-52.webp": {
@@ -571,39 +329,6 @@
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-52-1920.webp"
     }
   },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-53.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAABQBACdASoYABAAPu1iqU2ppaQiMAgBMB2JYgC7H8AC+QFIchYo6M4E/tlwAP7rocGFyf1D8JvBXS6uBz88wZ61MK7YYRIPp7yTC/SSOjf21gTtB0HJsCvorjrKEbQlILBQ0gfo3QGqiz8uvUJwFV3b80ptoGc4ZHR5vAGBMbILNyYtrMMdEcy4CHTcOAIQi8boPFcIMXqSCZhldzvs2q/9DpQh4AAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-53-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-53-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-53-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-53-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-54.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACzgB5+nzLvHxElNjKvKAD+3hZFqdlVK0BrUDG43zsMj91X2r0QDnF5mqQcl734yA3uA8slElWl7l5q/PMjMd+keh2PfzHjoNn3yFGna0DuFrMPf+EBLkn6GVLnVn9ehW6SRjScbH+vUkrhtd9BFfmAMr0VqC1GKjqrZFI90Av5M2p7oqd3c9iU13d3g6gAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-54-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-54-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-54-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-54-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-56.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACzgB6P6BnD0UmdWsDUWQAA/ubf8N5PFObO52nsdi7XPMEeIynA3yJybYjnv0Fl0idMD9bPn1dy5AAKdM/FqiuD+Y6fQI74lCHLV18nQAfYe0xbrckAXUkbkLRr460onAOAPD4PrUnijdp/7Q21JutmED9dX8FrtqmvvmeVNjrkOiKmEAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-56-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-56-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-56-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-56-1920.webp"
-    }
-  },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-55.webp": {
     "w": 5472,
     "h": 3648,
@@ -613,105 +338,6 @@
       "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-55-960.webp",
       "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-55-1440.webp",
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-55-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-57.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAAAQBACdASoYABAAPu1iqU2ppaQiMAgBMB2JZADE2Bt6WQL89IF78mxigAD+g7aGHpZlWB5Ed/Qa2Ju5MDZGOpUw1AyOwl9Yb8gRl+/Bs/UJwMmtYwiXj0c62PGzhzEdDdVtl5z9eYzd8jjt6c1skY5MIhH+EKr5E3XrF+ZfxHfxBZ1OrQVuepsD4l4FT7P5mhkikaPrvnyBSgQ92yABUnwAAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-57-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-57-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-57-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-57-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-58.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbAC+SCK4TdMHpOsvkeQd4zlSAAD+wpbsFxT/nOVfAtUbyPHJnR7JOR1L9aXdoEdffMrogtXH/joBVls1E7pqo4PkU/vNxW/0Wo27y9Dl2dr57dqViKN+wpl/Zr7XORSX2CB4+zSgFt2EFaupsd6yNSfcc5t3ircc/zeRaKL3gjxBkkyKKGijM1Bsz83BMAAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-58-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-58-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-58-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-58-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-59.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbADFBwABvWFxjh+cfE/tk3R6YAD+wpbsFZ6Jt4aj1iwD45onkzoBuezhlPyQQ8UgfWmHLrNhQ6xlvji9zUK3qF6tlWEGbit5yAh9V2GztIB8y+oV4WxKX+NQ/mxENvAJ1eThGmrw39BroaIvzB8+V6YpekhQPUUuy7qanmc0wzj5cAhqIqC8AAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-59-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-59-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-59-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-59-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-60.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JaAC7AB6Nl+9HR/r/Cw0AAP3GOpkTtsNabGDG6/d7Xg9MfnkPRXnj0FTCTSGicyD0Snt57MZEy/vj422vFfQ7BTRnjMbvxZUhSxBH87zKDeOa3U4nivnr0QynOn7ae0NZs+UrZDkCISrXThQC+OzGQY+qznZZQ9ZlXvEWnQ5bwptbFHAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-60-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-60-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-60-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-60-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-61.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBACdASoYABAAPu1yrU+pp6QiMAgBMB2JYgC/OGlE1PEAM27w3CnEAAD+8fwsxq8zwl2mfr8HoYrDVmmDcPLcAMi1gfXBG0tyFI3fadY1L4obpYfVxDBO3XOJnDZZgBN8AH+RwZXsUlV5gB8hK7SuDeIZ3ZYCvwwjkAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-61-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-61-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-61-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-61-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-62.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgC22f/gPJD20TgcxzgwVN41AAD9ARIVy2x8jL6m8nShXV0EESCYkQ9ZPZ8BjWghUc1tqNhAxxMOLNdu/IMikDGZiurlQPVJV5+e+eXYlYMN9R5XM0FxWQyaZ5mUGohZy4FKRiT7vUjJ4CcRzIOmCQ8gEDPV6FXijY7d//wioAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-62-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-62-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-62-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-62-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-63.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagC7OUAAzO8rXFVA5SN/fPw2D1igAPl0pbwA1n0KXWrjq1GViwjXP/DPPw5EHQzzNJqz+jLhtcAfbMWUUdLpC3VmuEke4qmy8yfZ6KWz9K9/HHX8MqYrQhv8eklPcYl4XR31xfp+lLNl/TPhwMvthbUfnh9zIW6sqtqx2CbwG+ORvhr6EBhAAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-63-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-63-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-63-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-63-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-64.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBbZMYib7RSRU1XljVYXUAD+4UqH0F5Dz9GiL6QMVmPP6Yrd9lThVoJ5gx/OiGSiAGOp+e4/fzKWWRIEZTUYS/3ynzRM55LsI+HreYk+IhC1QyKg338eYLEwE2U6LiwvMT5GGFdh3HyldcdbQkYbZy1sAAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-64-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-64-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-64-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-64-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-65.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAAAwBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdMoMrmcBhf43gXBius0S+m4HnmcztygD+oXc2FrigCLijACy1S4P6Uh4trO12eGyL2fAQWRBflXRSM7r0D135wH2/8xcGViYLr7BN8y4j7mWXreXzeWn+7w5QpMOnI4vGv/QiNfc+PRCL5k9gj2C/Odsozi9QPOpt2F1Ndg28GJRsNB+JKe40FcV1QlBMmXk3/LP6DHAX1ij/93F6KA+OWJd5fc+sdcW5lEvq2oAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-65-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-65-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-65-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-65-1920.webp"
     }
   },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-66.webp": {
@@ -725,61 +351,6 @@
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-66-1920.webp"
     }
   },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-67.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOmUFGzASA91gdTSzQKvK+1QoAA/tx0X+r7QYPKkgqdz1QLyhBZH84Dzpza8Aj1RiiLvbkDWfhw3GKda21aIT7+dtOLW7lyCdg7dAxTD8kFxb36g7Qel0CqOoQWdWnpzN1WE+w32G8euu0l0qEybqz8fmA7mVwdtq8wWlPnSicww1Wq/qJhD69KTUfRGzrCrDuGdIlRVCs2AdWgAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-67-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-67-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-67-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-67-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-68.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOmUAS4omz26M6CZwkR4xU/QAD+zAA/ynIVGHxkATmtXgXRg1Qr2W5wFR2SwNRJdFRKoltrES1ORyUpWGP8ypyf99Dfc4P5obaI/dKCU59xFFrXyBA92vW5/x3QV26L+lzJvsueUPX355aDqfyuBO83hV+JUtSJJFTGBq3i56OqLZn3NoVYHSC3qWAMjKcugcFA0r7CK4Z0a5iXcrVstQAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-68-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-68-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-68-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-68-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-69.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOmUBDAA6rAw3dRZ0e488mno4AA/swARC7bofFe1jli+8cO4htzkf8Rks7hHGgR1ZjRVHw8aDGFcSvNrYgkaNR3WhfMeJ4DGcbxRO4Cw7/wIQZaVCvgHZ1kh37/tkPC+Wl73JB0Unel7TG8j704tVXgeRMyiJ6aX8za6K999BPMfQcPX/ySm5xH1QSfHL4x66pCt5QmQGEgYAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-69-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-69-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-69-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-69-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-70.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwC7MoMiDRmAdG5+noVTatR1BqCAAP6BzD1UuAtX1m11UKP3mrEgGsTFSvXcXanqPJdy6UVR52WGtJS0YAW4csbQWxQuhZMHBKD56760XeF2mjezZwCMLy0+exy0oP9KrK0Id+XT35T1SbQQsk8wQjUcGFTfCMbcQ+YoBiMgQ9JMy0jAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-70-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-70-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-70-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-70-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-71.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwC7MoMlkFaRB+Z60NGpQFQwAP5ypx02yVXmneJoAE/rXVvvVG3f+c6EeNTDW89WJSXVuInJSTffANajlHfVQWXFnbtTl505VmZCGn6c3bv3mUcufkuwv5+34vCt2/VO+q5gQgq4Wfa5/oyUyhSZQK8CWRDxlu3hWNO2vir2syKDUYvnngLHAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-71-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-71-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-71-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-71-1920.webp"
-    }
-  },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-72.webp": {
     "w": 5472,
     "h": 3648,
@@ -789,28 +360,6 @@
       "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-72-960.webp",
       "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-72-1440.webp",
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-72-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-73.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JZwAAW+j4+r4H5QAA/vKkv1Blws09H6AOh76vADWBiUgAPJaUsh4yr5Y0cpGlY4/C10FZjJgumCUxIPcAQAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-73-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-73-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-73-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-73-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-74.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQBACdASoYABAAPu1iqk2ppaQiMAgBMB2JYwC7ABocwE3vK8n1/EWAAAD+9DLb4405yMoiucPJTdFiVKVLe3tnROEYY3zJF14fjS2U5kQZ9SPtQ9l9+a0FQ92eq3admqWXeWJS9kErJJuE6zfqoHk0kb1EaAAWJ0seDi8qTgBsKAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-74-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-74-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-74-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-74-1920.webp"
     }
   },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-75.webp": {
@@ -824,39 +373,6 @@
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-75-1920.webp"
     }
   },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-76.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAAAQBACdASoYABAAPu1kq04ppaQiMAgBMB2JQBdgBDeXEJIFWRyD+snsAAD+8qiAisy8UJpupfjjdSbZsoP5kBrnFzvbrhlZa286Jz7vx2oUHybEb9uuosoYzMK8xYvadGyWktEjz9pzrv42N2dwWVqYoj5HwRRSIoJyw3DBwxBvzFvZwUMDbYUAAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-76-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-76-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-76-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-76-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-77.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAwCdASoYABAAPu1Ct1apoqakGAEwHYllAABcxwFp7qtUVaUgAP70JOqdqGzb/8mqnXZLK0YokSmoYEAiaPzkc1PPVZ7g4fz0bU6jOY1SdjL6CoQWyHOUE+tE0KJVpHFFcT2LpCygpnQL+xOfjeX4FiAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-77-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-77-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-77-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-77-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-78.webp": {
-    "w": 3648,
-    "h": 5472,
-    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAADwBQCdASoYACQAPu1ap02ppKOiNVgIATAdiWMAxNgWg5NM46rC51HJTO0dQyX/8swoCXf7gGjRYAD+9EQmc3Xm4gVZIYco3xgQRHqwxrXfaoHUlz8nts+QRMU5uT8RyCSxB9UyfbgGAb6H0Hrdy1oRSK2fHOvjk7QGJKGQ7shzQo0Ku/PbuA6MZ9nwQ7F600vfv4J0QBd9FsgKhNKqUrlYry4aH8SUkktqx951gMemuiV3poMma7GhigAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-78-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-78-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-78-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-78-1920.webp"
-    }
-  },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-79.webp": {
     "w": 5472,
     "h": 3648,
@@ -866,380 +382,6 @@
       "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-79-960.webp",
       "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-79-1440.webp",
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-79-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-81.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAQBACdASoYABAAPu1iqk2ppaQiMAgBMB2JZQAAW/A6GiKXAupFHYSwAAD+8qUpppR7qwR7Jq6Fj09lo30QEUx1WxMAxBignficXcZ2meW9dA+BcOQD0l9ePCUaZVDeY/PRGmrLIDM34kR27X47s7ttcqs9cGswaG2oZa8nEI8Pj+2tomdEm2aMg11nnwwhj+z2syJkcAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-81-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-81-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-81-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-81-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-80.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABwBACdASoYABAAPu1oqk6ppiQiMAgBMB2JZQDCkf/gPI7yjh4ruaUlGsfaAAD+8Mw8fFPtHA3S6wPsCuNKg2LNqeNq6Gf5FY/qXr9FFPNXDnD/mr2i71KfiHZR1nhMuBbiJlzYjIMyMOqU/1E6hPZLQHHDb0LFgAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-80-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-80-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-80-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-80-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-82.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZQAAXBXcCE761CTEy7/2nF4AAP7yvvxuVFwBbsr5gK8TVU9zWPWs1eROfCE+8hC1+rYr51U6J/CnD20kO8sYqgMdEKp9G0dZgJy84zcbPsbQ7JjgpvAFA7sD4BP3eFNT3pcGajoAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-82-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-82-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-82-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-82-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-83.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCw83gAV7FRYHnymCGF2AAA/tvNJd5NL04KMj4XlUrpa8Ror5uQSya1EhZ1ZLTbSuCH2QpeWRJ7JP4LvM7RsyC7QZOT7ORPmbD2d0FS+eSNlDj9WTskSXTlIpxwsKdKCOpo/gRAxHzTjlF6Ivd1hRyHAJnHagAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-83-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-83-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-83-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-83-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-85.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZQABJMwuEq7j2USJFwLIgAD+/nGFXNCnVTggptwl4yhnHJ16wJ5bo/yaTuit78D7OeMIj+cxWzYnPp5GinNg1sBUA0JNTE+WOGVdTA/qLltNdjwo0bYjFMh8qtdvRALlH3IoBCTADAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-85-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-85-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-85-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-85-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-84.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADwAwCdASoYABAAPu1kq04ppaQiMAgBMB2JYwABFbnojht2AX0PDHjAAP7+caHtCiMjooYBZNyhXThzReVOrcY72xTYKgucBBlyOKLBAr5a1khhkP0BQUxisIy+b8n7ZYmsKBlgOgq7oYBr20Ix4QHHV5QAvtmzKYBtCAFkAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-84-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-84-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-84-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-84-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-86.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACQAwCdASoYABAAPu1Ct1apoqakGAEwHYllAABc6WhkmU6wrteAAP70I5hsEWlVWPR92au4bG8Z6SdmOUaI1WERKORQ90p9isKGSxR8kDjJ9JHbotZzlsfdOA3gRpnohsPCu3wfUxzREP1gjN+DkQC5R/j/VoFU8nni4IAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-86-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-86-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-86-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-86-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-87.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwBTALwBOZ8Cv+rpuMtsX7wA/v5vpdHRpeu885m/M8yRmKNz6rTf7uqYYRaRr5QlKlRQLisOCIx+gEfIHB3AIBJ3bwi2fT3L8BclhR2JsX9ChA6NhvdpiJxciAZhAcQAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-87-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-87-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-87-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-87-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-88.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACwAwCdASoYABAALrV2u12jqampiYC0SygABc6+Y7NixWLzhcc8cAD++Q+afqy25Vv/Dkf8N84t8AWgXCLDWqTCon6iVOHvpZSQML1SIJp+2HV672Tx31aojNvKP5+KEBcH3Eynnf9xyHiNfhvFPjvGX1JY6cgeAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-88-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-88-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-88-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-88-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-90.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADwAwCdASoYABAAPu1mqk4ppaOiMAgBMB2JZQABH6+KO41wisvtIaoAAP7+bo5uzGtILs/6v9i91AEVzpgJ/eYUPLgbijNu2uN/34sjjv0HEcXk7GDDCR67WhUoBODVqtMIc8znT1ch5CqPjIqlCsI2qvW+pM/BclZiQASA9u2gAeKwBZAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-90-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-90-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-90-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-90-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-89.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwABH6+ZZUCJFGQenyxG3AAA/v5vpdKvFGtILs/R+lwf6CKFp73t2cKfNc+BLOBtPv2XM9iTlfASRT2DJfBqDDnyedDDVCYjOcyhAABcRoHptZ3nAXEclFhOx0ouEgIE7ik6+j8cABUDAEEAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-89-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-89-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-89-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-89-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-91.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADwAwCdASoYABAAPu1kqU2ppaQiMAgBMB2JYwABH6O6PDa7naRpuDE4AP7+bj5ixzqfBKa2gRfstHKgcF1a2FTiMF6cN8YNJXrJ6vvNVuhNqCRmWMcwycGHuJFxgCWJqAABZ15YS66YbLbA6epknZ4M1LLB9hZwNFUCv+btdt4l5AAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-91-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-91-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-91-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-91-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-93.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAwCdASoYABAAPu1iqk4ppaQiMAgBMB2JZQDKACHgsjc0DsxyXmigAP70H0cyLbwWSY50hi4YY6lvvL3pC8C+OV5PIP9n7Stbykzcpo8a7n9XAakIAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-93-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-93-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-93-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-93-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-92.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBACdASoYABAAPu1kqk2ppaQiMAgBMB2JZQABHuzl4yQ8mtc+Hgvk4AD+/m4+qQuoLwNS0HYJ9ZvGIkK+MrHQq1cvRbJKQ6ffPsFQcMvUz7uNYd6jkalXrKHeiclANCVgZgDIgzb1jKP25U/b65tP1qiMTSfANHiVoAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-92-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-92-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-92-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-92-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-94.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASoYABAAPu1kqU2ppaQiMAgBMB2JZQAAUrkfUjhLW66elah6gAD+8yW1I9otX2L8SobADN3Pr0tG/lrT05nL43/v2YNarP4jMFj87IJ+id3+c/RXjqpuysI/7hNqAjaQT9nuOAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-94-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-94-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-94-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-94-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-95.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACwAwCdASoYABAAPu1yrU+pp6QiMAgBMB2JZwAAW+uLzK3rS/PsAAD+8pmOZSzY92lwAy//sDtgsPafVFKK/C5LNLtAu2dXyXp1c3SBCi5YAmxoQ3UVptt/adv06I+7CMkY4Wy/+24BFUBY5RehSb5OyAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-95-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-95-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-95-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-95-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-97.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAADQAwCdASoYABAAPu1kqU2ppaQiMAgBMB2JZQAAW+zM8V/evSjIwyAA/vKuGIaGnzChNuqHC6hNK3mDWgvnOecYrCqanKUq/BeTBNjPpUOpqgQG5ElqCkbXyA+RyZWRt/WYtr3CE9vn5U65e2/t3nPfkKHy35Rgjfd+GkwjlFs5+aE1SJuDGgAAAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-97-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-97-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-97-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-97-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-98.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACwAwCdASoYABAAPu1orU6ppiSiMAgBMB2JaQABHuxmYW/CzXCIwAD+/knZuc4o78A+YISGxy4hmQPebUnjfc+Dpd9mHvw5Et/b5pes1TIWF11wMKEQZQcHGT3AQAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-98-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-98-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-98-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-98-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-96.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAAAQBACdASoYABAAPu1iqk2ppaQiMAgBMB2JZQAAYfc/z/e8P9aRQWXaAAD+8sSlglcxfKXZEtFMqL4Venen2cKEMD3fduM5Z8t+S9A89z99EOcFIg4UECmNZ+BXjnDc1pSyu+P/CoOdu6zcZoqB0BOk9LnxL7eNKaV6sbHCZUP7omjG6vLFEAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-96-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-96-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-96-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-96-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-99.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAADwAwCdASoYABAAPu1iqU2ppaQiMAgBMB2JZwAAXc8hd+Wv1KbfxPIAAP7ypafsjvNS6SdSKzzYK0VnxrXPmECuZY5NNVpv2LiVsJh/tMiOlFgUHN232luGS/9MTBRv4PFhiSvpIEWNErFCQUzBJe/W7ue7wKq9R/rq4f+R50vKAj/fc4/UBm793c9OQYV8oHdCMPJAAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-99-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-99-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-99-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-99-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-100.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADwAwCdASoYABAAPu1Ct1apoqakGAEwHYljAABc7Mzc79Jien7NBc54AP7y3WzVgiArTc9yhQR1fQUWOmw/EPBa/730SvafpOxmxqGqMF/vYPn5B/UrIucGIYn3MHHwMzFAVl66repCQVKr/ao8QZd/l5+Dxu4vch+hRAG/z+CI5wAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-100-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-100-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-100-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-100-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-101.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAADwAwCdASoYABAAPu1orU2ppqSiMAgBMB2JYwAAW+oPpaCn3XyiDb8AAP70UBkoGkHAkIVGpxMF/zvV7iYluGWIUDYm/XoY7At/wnr3WMT1eVogyrT66cQqQfieC55UOWhqnNHakND+JRa07tdasCZ1bjvtN/nXXv9afWlUM79b0qNzlkTmPYZlcYAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-101-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-101-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-101-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-101-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-102.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAACwAwCdASoYABAAPu1Ct1apoqakGAEwHYljAAEjymypCDKJewDs2AD+/QdseNdSo8TiC0bRCK3YzEjHvZXirGtdhZyf9l11yfOFzmqlzvNcvbuC83rBn0jmsAVhodEImZwLDBrXenM8JA6E9MsuTxC/R+ZLYA6zOkvQ64rB5IAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-102-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-102-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-102-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-102-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-103.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADQAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JZQAAW8PCgbilL2k38oAA/vQiiRB57BdF+0dXPDZMLfol5XMhFLNt5mXApqPAUgHYzXABk90o9heo089IUvUn82DRht/rKZNI4nyOL4RQQjGipOrRvN9oc4zqovTSqtVES4AagwAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-103-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-103-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-103-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-103-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-104.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABwAwCdASoYABAALrV2u12jqampiYC0SygABVwNSClAf1IrIDAA/vhqZmc62/jYMquNYbZZP9SzP99nLJwfsBVdADYTonsyZ4jxxmsvAbOV2y98tLaHVx7erRGiV0AmMrGITpyXlCt2HZmQO63zsNlsk2W8W9XWAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-104-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-104-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-104-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-104-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-105.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACwAgCdASoYABAAA4BaJZQAAujdTIKXCyg+ZtiG03AA/vkT9Hw0VkqV3nrWHVQHNaYhDwFKzp1UG3Wdp/PQqS17pswT0++7anVrS4THjtmXPVLhq0Dka6/40P1KH51GzUpnKYeld/twtSwezrlVXfWVnZAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-105-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-105-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-105-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-105-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-107.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAAAQBACdASoYABAAPu1iqU2ppaQiMAgBMB2JYwAAWp9eqvCDvaFQraqOAAD+9CoJO1oOtjWWxBpC5vQisNilwBV6efvag5oqY03QCyEvn3l3RIPscunsmhh+nke023x08PGLA6Hjn1zBe+jGPBupF9OjAFcwM5pZvLCULUSBNZeAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-107-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-107-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-107-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-107-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-106.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADwAwCdASoYABAAPu1Ct1apoqakGAEwHYllAMb0aGF1c9BwVXgTEUcAAP78qUOl6vEorF6LHT969OW86LaA21C9tW0pqsyGUpa6wwrVYP1wKfXE4OJCnSXcDBOckQ5cdDRM7V79z3dP6qTzvGW49rxtlmhc95/yX5wxyAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-106-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-106-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-106-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-106-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-108.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZQAD5XIOGje9jXwV8zZdPKgA/vK1gW70SpHAIfU1dN8LbgCOoghDmLO8ci6oV4K0KtFzf9TwhWFeo+E14IvX9NOaBEFA/MKabwgzSHGRDwKBvMoyDRffvGJr5A3AAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-108-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-108-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-108-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-108-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-109.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACQAgCdASoYABAAA4BaJZQCw7EPAoIkLoD0eLVwgAD++REhQU5LhaYPoVl5SLtcgbrYOT3qKKGp0QedWMlr1t9EWIiU70RWLQcyJMlJu65dmAPy1nfFr7hqDEHH4cXxQCmFjnGzEohD4Y/+S1VezzkWorWr2zggAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-109-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-109-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-109-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-109-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-110.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADQAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JYgAAW+t24fsFx/6raJAA/vQiVd1Gdnobn4xRWfdNyEBNo7nFRdVNyJ0ASqtz8VSRgK3uSAZafXLMj+iz4I/0zTE3T4flfEa9k2GAcSxHY0g+v40AAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-110-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-110-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-110-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-110-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-111.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JZgAAW4WGf35aRvenbz34AP70ImddQoRz307k1OQXum5CB9dnbTJ4zON2w/IyKdm4VxLVRNUhda4ArbJ8vt/HPtrZYnPPgfGUiuqi9lsOcAqtjHLCXf50AAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-111-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-111-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-111-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-111-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-114.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgC2yYv+5bIYWx1ubtNXEQjgLiQA/uFJqZT7M2zcQdVZcmPIt7qcz6IXRSTBnnMEkWwHyk3OeS+z3EYCEFfKyGFF2JCtXdZEU547co7mQCHDHAdM6tW2lfElR/RhlfZYa8wRHlTlrPnxgc+2v0gzMdFY4xnqdELWXDv9RgZLeYSMaL1H7s0EIdxjvK6XJaeHkAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-114-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-114-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-114-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-114-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-113.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdAYx23FaUTSlBXH5Ss8iZzoAA/unyxbsudXuEsZy6Buuq41US++XdBV+UXoznrY+cknYzg5Fjra0ZJHNcnZWZ9e6zDctNy7YraQMDtaAVlwDsw72JEvwzsA4HrCcI+8vnshXSHyx6vT8etoyRLCZ3+UGTTjsOV6Dccb9CAExWeYbsvYB5STDgZaI+7YVGEo8aS1x6PqM8l5QAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-113-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-113-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-113-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-113-1920.webp"
     }
   },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-112.webp": {
@@ -1253,138 +395,6 @@
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-112-1920.webp"
     }
   },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-116.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdB2gAMxnLwy+GtjPM2WgA/bTORAh325cxh05TeG/zhs/pCtmNzo9Zcd2vywhk4IZD93hEwt+fl5OPn5VWmyIMHBVTHlnQ1wjsLNoh8KG0l9UNqKjZdlS1MdkSWX68Au+dRND6mKyoMLJSTc2OhbRMK3iiyQpEThE/aRc1RtDv0/M1ppGbW4wIXDQ6WZEHPmu4AAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-116-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-116-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-116-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-116-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-115.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagC2ydwLg2UkaUNs2wIrGJ/n4cAA/uDHN1y4M0JNY6AiG5EpUvMYee8Nxr23O4lWxZvu6pHMYkhwGW5CeY/KxUSpszpD1ws0cyVeGIgOxFqIj37tBuC76/bw5sZcfGMA2OmMhDPtf09ckVZRrOC4/f8fxKDwJ/Z66IRgE2ILPpWE6ybcGmdx0CDb+tTdv+jqzmXpZmQAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-115-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-115-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-115-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-115-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-119.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBdmUAS4gxFon7N5KnPbaMdB1TOTCgAA/ryZKGjyTn2iLA3wW8jTfEKhc48R/Lgm32MDU3tQ8PxPNhnEwWoRrEn8l4j7Qx3aXBSRmAKJTV1UYoj/gjxoTzLjOxMcxRJ2+z3JvwPJdvh/3rTRkQNmlwzytksiHM5327c3nrvf89SO5J+K7GEVKZc8iFqbzA+5bcY9sUpG0QAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-119-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-119-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-119-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-119-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-120.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBadMYsTlAknq0M9Wn8fOi4zAADOAgkyk3STEEm8Lge8WSgw94F9+q8XX7YlCXdVe/1lc4HbiWoopRYqmg54RfU1UDEDfC3bONG3/osLb5NeVT8jHj+oDk166Xs2N+CK24mC6IEI9iOZqyadDuT5pJjjh4JPLBlkoev+0RTBPLI7jWmE7qorUg2zqKMxdSOHXjLoGD/UvrficQ2oNhBnAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-120-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-120-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-120-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-120-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-118.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdB2pUEBq+zWAsdkNku7KLqMAAzgIC4Grol7vVLfdlkxztSuBHPLP+gCFkmVfGej53M61S/eCvZbZf8+A0sBJe0fhznJNpCIwP2OL/C0Azg74JF8yMU+SmGiT9MyKzZoTuygVSkGvLCHWHtYlDvCygUJ5/2/dFEXnOCei7qnuUbCc6f9fWfoS58oMHhvG2dY6WA9L+Sf6xBqaZgHc4uJTCxxrAAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-118-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-118-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-118-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-118-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-117.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwAAWp8zE1sV0H4zEjcXAAD+73wefdlmtILM6/bA6zUuUklsnFbwg78URgEIv5iv/w3xlKCFrysnApbjMyTkQLsuMaZtz+KvDIbyy7bw1EkgFnzuxFP2x2O/9zT109SbSQTM6DDTIqRUzCw6MdfQ7d7J45/I3seDWt2fPqrUCod09+AAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-117-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-117-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-117-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-117-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-122.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBYdsX1bpMPw/Zh7BDV32JtAAP70KSeAMKOPvkAbvPPPSSMiiTltxkDakx3gYY+/raoOpjGW0cGCcI6scMjXfolrPRMm51ZlSCXwERL+xArdnkffhnMTN8jqkDwlLwaoO7jD+5qqaNQY+y1DH7kW4wSS84Xx6Xr/Q+XD8JiQDi+aBeWtedDWy3yDaNzACImUoJAg+utm4AAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-122-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-122-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-122-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-122-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-124.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCsAYx220uI3Nu6sSdzpZbQAMyQQJja7G7WtPKz7R8xGsTbTP0nPRZod00Me+0TF3/jKuRe3b1yljdafaw5LgdHy5p7ttoZC9BxHxs+D/E4WQs/VADb3PnldxtpgurBYkk95LTgzwSXkpBqGjI9Yj+EWXFffvYef1aCFQDvMOphRa6W2A/poIzDd1nXmlyoWg3D/tw6X5zUAbla2aarRoFiznQAmh8AAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-124-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-124-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-124-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-124-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-123.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgC7MoAlqhfh84HZ/JjAdmhsXhQA/vQm0ibuPBKvTVXFaQ8irOTSPbZsIkeF/xxSe95bi6TJXuBk/iQALIpmB38zlfbZnb2pe8MzHm64r5oipme9CqrUu0sW0VNksJtUMHq+DiKUoGaecfGeRno7i1XthxEfOkCvu39GfYezAuDo0olXrbtp94ROTt2vjmdE3j18qsnK73OFwgj8Mn2rcPmiAzX3MoszvwAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-123-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-123-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-123-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-123-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-121.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBYdsYicthSzFprZPpVPiN+o3gAA/tUIgMFbPHrHQWm4us6cdppGpuQVX8ruRgKDL1f8WuffqHP7+HuP8hjBSP2a5IxE3Pj2zqmJZRvtL5CX/JwMXJrrHfRj/WVmCz3qEYvN0Tyg81CkR4VG69fOZ1pMz8Eqc1CuLcub+tGlKJQpK91pIR6GrROT1j4i4Kj82i/axkny0xCA2DZs2MxAAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-121-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-121-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-121-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-121-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-125.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBWAMYEaQ7T5neNy1+6wWaJMAPJ/OxPQl/WhLUWkSM6eOTguWbjdppbAIuVohmJZW9HCYjs/ZgdbJ4wAcTPdpzPx4HY7/U9XUVz++5YGlj6TLCpiKVCznq0tSDE/lbFy+iK8TYp9OHcQHwazJC/K0qz5/qgvgp4FJqBpc+VD5ubKlz7LT+nyjUCHBrr8bs3GBLJImZ3MMwMMPwqFWjQAEAsCAAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-125-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-125-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-125-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-125-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-126.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCw7YzG7V4MK34e/0Pdz5aBAAD5dQrPZG9iHgK8/sfbLmh+H/jaGFq/w+o9gFy9FjiirReT+fN4uZV90avt0ZPhEin1pSUfW6pcYG+BVaCwlwc9zMGyfn49CXb16Nd69EgC/yln9FGllQC1/BS8u0w/++Mg+kEerdhn0XU7DTmyX2nuLbhZAdZowrYuOdem7ZGOtgAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-126-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-126-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-126-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-126-1920.webp"
-    }
-  },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-127.webp": {
     "w": 5472,
     "h": 3648,
@@ -1394,413 +404,6 @@
       "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-127-960.webp",
       "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-127-1440.webp",
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-127-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-128.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwC07AgBE+Vmm6sEMLxHeScAAP1QlyngLvcBxoPWx5CfzAVM4/WUpRLAlQ5NH3BNSDkOSRaVMVq8Au6PrYYB6wUhwgNj4uNg7zl7n7RVltDL4C/BvjAgt3zFL2LRXkc/wI8uAt9sQe9+P9eLHKG1I6/E+v4cSZ+eYZ5CXPsM0/SWMezQl7WEyov2qWKd3dIMELFAaSe2gQdwAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-128-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-128-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-128-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-128-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-129.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwC1A1/DyYlun18y41WW8suPVwAA/ryW176mRlTSnBv7StP/TsyA2ohBEQkln5CIqpLHxucka/FiYp5TXbLZxo5i4i9aJRQ6hCxSGQO8c6uBy5bbky54c78wWKVfjfpYEsC0F7tKyXd91zLFVmEzW816NRPn8jNJpf2pmigewl5igWj9UNfsasFK/5+I1Ox4RUQQPpZfhX0GZAEOwAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-129-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-129-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-129-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-129-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-130.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwC06YyU39mXcKgXAiUh/mvgAP68ljP7y7DKb1VHF//sG7iKSubSOu//SCrRfK2dMAK4MIcb2cXkjXQSj6iehiqo9HJnMrZ0WQOxYaT+32k/fzhEyu+PHUkPJr9URZMWRNVT6rHbE67rWqIw9hILg3Gg92ZUatqK6MSEjlp/LbKZzHn4PTZJAr/UaxU6wSNknuQCKgRz6gAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-130-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-130-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-130-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-130-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-132.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoYABAAPu1iqk2ppaQiMAgBMB2JZQDCgBk2Hf/iIuDFK6aEPEAA/vQyyY4GLerqfrb7KkXa1BMSinu5KDuTyTE2QWS/2maz9GFjhKQvNLwSuM7GmlNgk9qiu+uprXfQXemNonMpa/k7YRWbjCJAStd7fC8uYR511/Yq/FgOhICh56LADSrLuZMAAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-132-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-132-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-132-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-132-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-131.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCsMoAvQBt9v3jlgP+lj6AA/ryWhcp88b4Z/n3QpqGNeFv0IPHHWhbx/IKLIQ8+NIzNsbBjdKjhcWSVgi4XeM3TAUIV7KGnuP4SrJxsupU7gv2BFRf7qHaa/RX66SAZpk2uR9rPF1gP17qQ/WbwtiGiWYTG04qAT1sHlMdIkJgPF/PngkR9tugTbVP1wMX8K+ynTiUWJ0tt+ECgmIsAAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-131-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-131-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-131-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-131-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-134.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAACQBACdASoYABAAPu1iqU2ppaQiMAgBMB2JZQDBB78JcMYHcP9H1aXfWaeRjgAA/vQrNBaNcU11cKLCm95kmHSk1nPexNQfrAMES0L1kexZBKKpVQ1va4HOI0jEmaOzNhH5oBMrNRPogOrrdc1ApPBASRiFdGphPMwHuI3+3+FU+M3D5V4VlUl42jWUo9oCcl7YGA99ov2khbtVSfvgAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-134-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-134-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-134-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-134-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-133.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwDA4agBtvmWKWjrnoU2xkTKA2XAAP7y4gRI9oDoJxGX28MhLSG7vcDqTQmTrOtY5th/1Zt4XRhgbGBj40nJHMwiy4Sb70SMhtmtZpYb2mSy97dg9Uo/sPj//q35cfeEhpoTW8K/E3yYpLnIScXmRirCxITbwmPS9tyxzSL4Ivzko6Q2FIbuW/8EvWmGPE3gAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-133-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-133-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-133-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-133-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-135.webp": {
-    "w": 3648,
-    "h": 5472,
-    "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAABQBQCdASoYACQAPuliqE2pJaQiNVgIASAdCWcAAD217pIXa9D/oYQk3NsSSCZecMpsk6AA/vV5rnFWeA5vtSrplCYajQ9wvp4vU+cX//POX3q2iApp9TVr7hAQAuTXt8MVuzZHa8wzv2JVK0Wz8Fno3Cpg1Lzddc83IrsigGouiOub3tROAR/6ub+BzrkfoLiRTK9BZDgAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-135-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-135-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-135-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-135-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-136.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdMoMlksAnPBCADZTa+Kv3iTYM9AAA/b9d0vX3wd9TsaQvxbtK1jL+IJXjn3y2evoSK20e6Oat2y9hgDVT7TraCZwfvTFvyfiAzxuUIY/WZCiUiMT0LedE5QyXzAFLR8Mc4dSyMF7w58H7jzOUP+PQOuDJfEJu7LgPtiwmil2QPcZEetPZXm4KnO5vtpgns1/ltB4RAO7u4QvXVALuRAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-136-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-136-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-136-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-136-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-138.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBdgMX/ZJQw6ob90pSU2yqKAAP70MtaAYdFx8QPqP4oeB5SuvDWEn1V0vjwxBrqCBoKkRUS2IeFQUk/apvzo0aGe5i4Ml/oCa7scn55i/AMfUlVLXDUnWQS7mb3xjtSSP3nN3Y9oSCOOeTsN2i8Ew+r910KIJLQU8NxOc7v86HT9AVWWbV2wIzy4Q189XcRPkHQ5YbLU6u3+BZ1HFwAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-138-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-138-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-138-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-138-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-137.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdABa3AZPb8Q3HbnYAAP55NOtBhyP3/TN7KVcLrrElSxWYyGvAluxBovk54Nr4+U0AwCsm706bavTF73+skKeOJfhQ0j0Gd6c9+mfKlDpU31WgwHCqS6IT2l02w5niP/drdSv9xDAFFOwnhDx8cYemtevIOFngEGaZaxX3UGzBM1F/8mHMUZFtU0ApWGNR7S6tvoAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-137-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-137-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-137-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-137-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-139.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZQCdAYwcwLJ+5/yDBjksBwqFAAD+7t585zo16fTDKXDUmVgjGpR1hgqczPmCeEcGx3A1mXQMoB966TFcY+qD2XXfTDBsX4is6SZKaPdBqQ62BLiTODtRB4aPSxlL7cL31tMVUl3Yb4j473BO0tqWHK7eloXXv9PfCOStSrV2tzW35amJXLefnfQmlefp9x5PlgUUVayj2EDkGOgAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-139-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-139-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-139-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-139-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-140.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCw73wIqwUtAJjUbK1FChlkAP7u3nFzkG5H0ZfrimgicC35vLFjCEVPvaQu1/TtYnKn4jKuF37HjxaAxtLye9Yi3AxOu3YaEEYklHOUBmxPGYotLHgfdtrQn3RKHqZyeER1dg6P1oltY14bmdL/A/hSQz9Df2NDYbw5vuWVVAc0RpFuNfDtwxt+/KwreLhZrhWXIBr0AA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-140-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-140-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-140-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-140-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-141.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwDCgdwLgnJ+pqu+ccu3rW/FgAD+6UMz1923NQMLYFOa6PeuwGwIIdIbYWSeX0Ds/YkwF4nkMqrkY2iSbpRp8IoEXEBxKVVhOERs6ej4rrU04qzbNYMaeuBPf55pUMfe1bfx+O43Nvcp71nMO9VlUSNt9Nlk360SraSiwK4OF81Qttz/miQahDS4G1+s6eEVIAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-141-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-141-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-141-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-141-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-143.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdMoAluhP3DTpyms0JlTvuXKUAAP7ytNNnKr+1/xCwK6kxaC5BWE/i7GJ53MknM5eke1CI/1D6mr3uNj6rmLxnDKxKy+6Gab7kGjFZBAhfvK8+P3WH9rOQs2T334ZS7zaQ5FVDcz72wd64wvFfVOc+x53/x76btSf7mO8Upe0mXpoXIzbksVoPQoj+n9n0MyS0hnPyA4tlY96gKd0oOKCFpAF4AAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-143-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-143-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-143-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-143-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-142.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAAAQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JZQDCgdwLhFdmpciyw/n16pW30VOYir7YAP7aV9zzgJTWWG6k+gYT/G03qWG7yITvDS374zzR5PSx5WhYwpR5L9oIMJEPkJyu4XXeNQ+aEYKegaGE3EufTBixW5V7T0S01quMiq0k9sT+BW6QnTsS0PopPpLBYjImAGg4u3qHL/i/eAdeQ0AjRMAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-142-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-142-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-142-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-142-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-144.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdAYwc4Tbjj0XfTa4hoazoJQ4AAP7ysU+oin1QKeYHoXN4IrZGMA5gttWAODYLNnwlekW5M+hnG2gOAN+65FhgIswITeL8P4Pc0gERg8BFFpjsawVz0vB2N8Zxo9uhcefUja4hT0UvyfU7S5DIHTQkLFdEj2RAKixHz1h4WSGo1AHhafXuI1v1FbKoN7tlyMJjf/eAB7/HhlnEm7VpOBEzff2OBnAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-144-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-144-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-144-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-144-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-145.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgTYEqB7qzsshmDEXlQg89X2AA/uldY63WygxgY1LEtG/6jupcTy2Eha7ThQsZAQ/joTDEXi6uTSTte/ahQTIOOxGMNID5CNXJLMu38N3E0qi5X78Vp/PMw8jqMzJV6XIe8SV22o+OdjEDDiDp8qG5AXI1PtXWh8S1uVti1qLYaHVq+B+aGkKcAdwHYSRLUQDhNHSodG0W2ld7jOEI2Ya20AAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-145-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-145-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-145-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-145-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-146.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdAYxO7dhKI8B3erdPYAD+5FRMGINO+6DrV6mYSUT/J0Mtv2edAXOvqaAprrwVGO5uWA2wRm8HgOfSQxGlGEXZQ/iADvQ86Wc36rE1EL2uvnlIn+OltW4RLLVXwLDHBoiu8zXdgErrPkxNAIrnWMkFCEHGdoJwSwiqyQH9KxQiYw5hFYW0vWmlKnQWMKcLYLDGcIRsw2YYRAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-146-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-146-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-146-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-146-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-147.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBdg7UuKBYdei8pupkjhNkZaz2YFll0AAP7w3K+khmWdhIOoHKZPFcISX/+w6wIKMIrX2EjWYlBNWllvL+B/BtoViOmGlvyKSoEjcFco9p8DgEKpBkOPls+HroAsuehD3ovrTZ05aLCX17hm6UotI3xWM81fIZx9B57dCBtQv2MbqUlAsRQ98KTG2tBE3sD9YcPjfUWg0wWo5GngSZDDgAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-147-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-147-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-147-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-147-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-149.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdMoADT83ECkcdzG7kmL1QdAD9U/qrgCurV1AeL0T8edbh7uv+BWNM2UONpvQJPmSgkBKkYlq7r1BZsLy4++7/nLLS3ufzPhJR0ysOItsCsD9K1vLKmZPj8227xxv4sdC2q35OYuwsPeyCy37hZPWARKA/JdRuFfK5Q9bAykPgngTDyVF4GcHvG6wLoc0NzRNvexQkC4AA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-149-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-149-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-149-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-149-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-148.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCdAYxEjGO1AV5YGacsTcJNmwAA/vDfXBFz6KhcXyBsC+SYP+GWW2bCXfgKe2WmYxyYjYsnrn8QVymEdP77Ig07Ar8sp9eaxEUpUA0GUiACjUcOKfaOnv8W4ioV1R/3wjm6zWpSRpV5JA94+phFGDoEQtaE+c/vZqmfHko2jaqx1Gsl9ocPQAPZj3+dXuwDsUfFp4CkGb500p/WJNfIjTwJTbnAgAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-148-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-148-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-148-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-148-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-150.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdMoADQL7VTnbDJkAAQRlVgAD9U/qrgCwVue0g27RCH1oFQCZxWbfvznCRTwh6+ldZy8SRRFKXqLracq/vcXokoLZWpQokAg+VhQ0Jm9VzfFvpF1C3QpjSm8BI4U7bmP+1LQBKAT5WMvrBEzsZVHuctELpL1zWLiobZevGKMoYdZRYaYPlaIX+5L6lqRVrDs7wNyfS0AAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-150-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-150-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-150-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-150-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-151.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACw8agR+wc3ry6QH2Z41oAAAOGz9N4oU/NzoIsObr9mwOjQ/wzUEfvxfX9yHtrt0sj7+OHfcAan0m3bBkiQwYVsaqtFXQE3+Fe/LHCyq39Ye6AZWabshauoVcCz3npAu3arMgqeP4TpRvkIz3YjHj5neCqn/YzvdIItvMjvENMjYU5ZgidJj2aUCCJ34M4KtInnjfQoXNN+G053O+hYxZZdslgA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-151-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-151-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-151-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-151-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-152.webp": {
-    "w": 3648,
-    "h": 5472,
-    "lqip": "data:image/webp;base64,UklGRmYBAABXRUJQVlA4IFoBAAAQCACdASoYACQAPu1qq0+ppiOiKqoBMB2JaACdMzx4MjN1eOAFVZoYmPjF3CUezOBzCnAXYoDao7BBhOLih/lT9Jekoe/Tm0gAAPl7ZBL9fZrff/RFOZdoaAiHNALkMmH6Qe6szKozrSjrEEYojzM5Re5igVaKbgx0swUqxAkhZ4MgbV5pfDtpZtFoggz8axNyfARfPnPpZBf0Dq+Sz8U/CVv0V/iNaPQ9ePMlIRtC9FR4duHPMGi3oRXuJUZmRpxij2MpB93PLmzIJNAFkRfESOMlU4yog2SBnrAT64Flog/FWKdnsUiu/vxMV53kMpusBRwKcsDlyECt3CbfYjP0cap+NdSJZK01XSy7Pw8EFU2PpRSBaYtX2SRJY6xB4/GXDHta0zF+Ndl02LHpho375zMXG872I2Nu4ja8JNzJ8SqQIB1gfCQtgEn65mpQGaByX2c/LDrgAAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-152-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-152-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-152-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-152-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-153.webp": {
-    "w": 3648,
-    "h": 5472,
-    "lqip": "data:image/webp;base64,UklGRmABAABXRUJQVlA4IFQBAABQCACdASoYACQAPu1uqVEppiOiqrgKATAdiWgArDLH6SLPxzhiS8YTolnJp+TxjGRCtTM8Ln9UNwKRo+uzn5cjFhVJt0Sqp3kLaUAA/m0feFQcubq4RECAwD3nAGaR3NZvvkN23nHGqe8vr/yk7vlGu0pa9Fd74AoTpwXSqkMiEAocdZQhXqHoOyrjYPV1VQTyNzT2m9BUgKlkJPl87IkQuzPeeJZo42xIA45AYA/4U38+Pb/hY8TwFaypZgFuCJRGBMLxM7vKTi6i3wXM1zvZbpce/a2ygabw++jGv9Od8OJrKtkWwfirjnOMPvOU60dv3+xwJaxTgWHdNjVKtS+wMwyzYlcoN4jXnDDMel2oY8y47mK3krqZ3WL6I93+k6aktgoBfvsVaZ7I11I3X+NrrGn3TGD0o112r3BE4d39pZtcXBe91EFTugVSOeSfj0fkxAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-153-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-153-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-153-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-153-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-154.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOkERhjJJLOYl99m0LhI/eAAP6HOVtgHBmaPU7QQNoI0J51t2mijtP6+1sR1SyKeW/dP0yxNQFRY56BJXjo3t77uQSkPlw7aNooMFOBi5iuqaXjLMwOuS2wWX2/a9WdIY22NiM2m7h50Tzf23Q6VZNTqeZBWlfG4io+znMZ21GyCg3KK2RabBRsRmToPAAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-154-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-154-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-154-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-154-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-155.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdIIjgxhimy8PaJ6d0PSQGp/BZAAD+hzlRcRbdPbcWQokdDjLPEWSfNvMXoKITtpftJGfPjZHMsBg2f0iAu8D4UlJ4jB71kxPIPC/zzFdT0q/GMvDN7kh7nmD0de8pfKSr83x9avLqlE8TC54VikNx5mth+zlOagAfI4RuHIeiL1v3jg8I7EOnDJZ0CyAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-155-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-155-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-155-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-155-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-156.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdMoMulEYqzg/vsaQAjWvW/71QAP5zBPwf+S5KGiFWzVFSc3LNW8gUcv1kH/uYqq0Hl2uX+8TRdYjcHdf2eReJL0dnDy0tsyQyoqiEU+HOKKGvGnwMTTIurnjXpkVeGzZvEHVmPebL+f2+I8zm9G/n34lvLos+W9XD+ndtKYwEeXwgevuytI26rNa0AAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-156-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-156-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-156-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-156-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-157.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOmUGQ6iMNTdUHomyZG55YwAP6/rRh15yNY0kDJUM4E3C6VIJmM3cPxKpFU66+IKYxOcMNucjOIxYb0dZpyCkhhDa9KRINfcHdlHrv58x+6kjy8e/MWVYqduva6p59LAqBNEruYJ5oFLSB3HG5IVVu+V3yvwtncFjna73FLBo65gb1TwabesAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-157-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-157-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-157-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-157-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-158.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdMoMpAEYaiCexukvWybY2lPRkAP6/rRh15ybfgAsuOfUR2hhbSd0lqRveH448rTYF9cckgha+VitKL1/9p89xeRHkyNBkGvq3zOjc1rnkapDg0thOy/ItOiZvwTdTPmxyubG0kkLjDtNhIY6DBbXZ2P+CpLN46eqa+/KtF1VJTEuyAAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-158-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-158-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-158-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-158-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-160.webp": {
-    "w": 3648,
-    "h": 5472,
-    "lqip": "data:image/webp;base64,UklGRgYBAABXRUJQVlA4IPoAAAAQBwCdASoYACQAPu1mq1CppSOiqrgMATAdiWIAzjqbBjAG9QIo5c0fZR8/Cub31gwf2SkVpCc0W2/0q8PvNZNywAD++cLwfAQ/oJx1l4KEkCHdinFDfq/SsqfDmP9be6pWTgQz87n9/q4rBzjrQbFCIWNlGIAsd0ul/NF/3hn1OlleTi7P7m8KssPcGzapb/xAlsnmXRdb4IebtePCxPFVla4glftQ+jwQqdNVXuBvw0Mr03scjEM0qq8lxZ/M1MzTye001OsXnXy3ZSNGpJfQ/2QGAjh/IBSxFkmbSzpwCpnZHHsy8c57popTk4qWRrC2OW3DxqzqBlAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-160-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-160-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-160-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-160-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-159.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZQCw82gDZYmqbu/fgkhELcYAAP7u8wcyp99OOIEqHZqm9AnHbMjVd65oSJpdosHb6UKYH69KKwxvgvaDdNAxvHpLW1CXh6zJzsFIJWjbjqQHomFgtmvXO7VVs6Bs0EvrdltUnikI2OA4Zt4ce3HsrTIt495LRSxZTGqGyYIndcoKaT3qa2QSd+wAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-159-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-159-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-159-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-159-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-161.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwAD5kndc8i7NYEcbZlPXPoAAP7xU2navsBpw0bGuPxhbte+4Yl2OblXr59urB1wphOSckuKUpAAkrzmabcaew8ZUhtsu37cYRbaku7H30hROiEetvnOR+pYunxleeRL6fnx1dbHqtHl1S2ti6+yB3/fXSsjW/JSHiVJJSzhhWmb//BIAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-161-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-161-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-161-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-161-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-162.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBbZO4FwbJhXg3E4PY16Z2kQgxYAAPhcvh+zl0kMLeqAnBh5mnajeL6f+eMirO8FZ2bjs+4REtQ/TWOhwDLCRNY0xiQm4JtFZlk34L0jUHXbjw9zjNB312mWVSmeqzsuXW7m00h+kOiTSgp1K77YiiJGc0WLD4rurpM2NObr1fuWM+CGJlW9EvRAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-162-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-162-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-162-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-162-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-163.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwC/OYye4SeWvV587DZse7AA/jRPYV8fxkngzm7Gvtc7F9nglBNN0gspIvEITdAFw3HcwluwrGZChRexFzvIVkXSBdmY2oArhpGk73xMMeY8Hz8aw1JwoCgj05Nty92TWe0d0ADmf0W22IQq4FVXRYvoTUqYujaRwTZ5e0RnXuU+1O16upyz6gGozM+AAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-163-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-163-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-163-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-163-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-164.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwC2yYukwLJ3vZYDcG66n4AA/q1vnB5Vt6hp5IjE6WzKDJHr4/eTSLLgTumPbbDbF7ecURejvpiBr/Mg6dlDcPvC4K/e0yUESnFRm7a7d1ZRoyi9Se5FD9H3d2DcsKnJXNdxKfWGpnaNmYZNnyxI/9v+vRiR3VKfd98pTfCCOwAGg4ZwBxNVyytimAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-164-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-164-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-164-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-164-1920.webp"
     }
   },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-166.webp": {
@@ -1814,72 +417,6 @@
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-166-1920.webp"
     }
   },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-165.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZQDCgCKKhKut3NqbDEj/bs/mgAAA/ubopNyNoxgtgbea7N7tLSnkaiXFizf2vz9UHGqxATow7zAavUexwsKZCPClZONzsjB7ROTJQnPP1Z4G1r1rDKu4BzxAv+TW521e1fwP0Pb/RRoq4XNnpVpy9EoUXOTPKFPZUdpA+VHV5Rmywo5aww2gMvAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-165-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-165-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-165-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-165-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-167.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZAC7ABe6aT5miLTTWvmU64dAAP6HhbWJauEP1uT+Ios8dcIrOAzM27BbnLS5MIUFXfZ53ZMWj/Y7SUtmUdagSGleAAWLXaL739jC+moNPa3/IgKqGlSHRV+VREp86v9kbgnRrPczeGGAm5rU8v+anp2ERaRMIHMwKf1hGSApAddl2SLnDeCFWDzu1mfrj3GmMpoN4h2Fd3xSS3QMbgO8tqzJ4gsgAAA=",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-167-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-167-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-167-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-167-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-168.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZAC7AdwAqihD7iNuZEg4BxfOQAD+h4W1iPD1cdRDVRRZxSEN7sv1wrXJtr1GLpIZ86ltys3xftp9AzaEBjRJATaKNMi3wmpTdHEyQvpqDhzVa2DVRbgPu4GHtoKMVZSnmtfqYUb2VBoq93q4tgmf+p7ElklPUvtUF0Rn1X1pSNHMnau7PBFVfGF6xNtmPcoXJK7gf7vk+LYhuo0HxJQQT4gYhRAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-168-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-168-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-168-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-168-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-170.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwC2yYxO290g7s16A9PqCQ0yJQAA/vKrAw+5h7cOdgRhg1NNiKaWwD6ThsdurT95d9/cTv7l9yX1IC44p6lr8afAE932nmL/HtFwchXdGd994F4b/n5mzfkx2BDkNYaAtJOqwe8Yeilcab2fyInsHPeMA9e5IeXdjDQoAPG4QWHN24wgeks/p/zKYo0p/Y/n1ApPKM8NAi2IhTOR/xbBzpgSQAAA",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-170-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-170-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-170-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-170-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-169.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZQC7AYvgmCONI4t0uAGukAD+7qFSGz6Iejel45pRk9C4eExWp2Y1RCe150V20fUqvUFTUGYyLKlPdsODb03Aa2VFeaPtH8qJ+5mKvRg/0sTZ4LCK+5Fv1uplyPbNj/JhtzzvfA+d1Wvs9cf7brExp2N8AdYghC+FgteznYdCAeOe1DI+v0uQ2wWGGXbfm63Y2+4DbdQwQ24tIMAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-169-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-169-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-169-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-169-1920.webp"
-    }
-  },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-171.webp": {
-    "w": 5472,
-    "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBdiP/xbHbdUxVRLqXNgLgDwAP7yogZaz026optQeiVkaz2HcrPFBFaR/dmiaU3oUc1HZcfQjMq3p6YdfpOipdi7l79/k3yZGgTyBuGXuqjMuQWA7ciF+Gsm6/P9N33wmIT/R38Lyv03UVYESAPyuJcMD/H37uceaXfxiS2dX9hBdNoxIGv9xUBdbb72mm9ya3LXMP5e6vP/GTluGUSmGSSKdyAojAAAAA==",
-    "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-171-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-171-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-171-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-171-1920.webp"
-    }
-  },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-172.webp": {
     "w": 5472,
     "h": 3648,
@@ -1891,15 +428,37 @@
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-172-1920.webp"
     }
   },
-  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-173.webp": {
+  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-147.webp": {
     "w": 5472,
     "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBdgMY//aCPNSZM5oxrHNoECeFcAAP2PgJjxQxIqdsR80E4m6Z6BTz5xcYthD1cWwlWYzQSv/eYm4zWOmGI72WKFAG8Hwvpmr3E2vTosJsQGPmt+ehsv4cQjlkvFoCyqQo4t0UVvv12HSJ/Vs+5Y86If827LHRYDnS+JhC//RlMY2sT4AIeQAAA=",
+    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBdg7UuKBYdei8pupkjhNkZaz2YFll0AAP7w3K+khmWdhIOoHKZPFcISX/+w6wIKMIrX2EjWYlBNWllvL+B/BtoViOmGlvyKSoEjcFco9p8DgEKpBkOPls+HroAsuehD3ovrTZ05aLCX17hm6UotI3xWM81fIZx9B57dCBtQv2MbqUlAsRQ98KTG2tBE3sD9YcPjfUWg0wWo5GngSZDDgAA=",
     "variants": {
-      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-173-480.webp",
-      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-173-960.webp",
-      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-173-1440.webp",
-      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-173-1920.webp"
+      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-147-480.webp",
+      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-147-960.webp",
+      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-147-1440.webp",
+      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-147-1920.webp"
+    }
+  },
+  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-146.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdAYxO7dhKI8B3erdPYAD+5FRMGINO+6DrV6mYSUT/J0Mtv2edAXOvqaAprrwVGO5uWA2wRm8HgOfSQxGlGEXZQ/iADvQ86Wc36rE1EL2uvnlIn+OltW4RLLVXwLDHBoiu8zXdgErrPkxNAIrnWMkFCEHGdoJwSwiqyQH9KxQiYw5hFYW0vWmlKnQWMKcLYLDGcIRsw2YYRAA=",
+    "variants": {
+      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-146-480.webp",
+      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-146-960.webp",
+      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-146-1440.webp",
+      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-146-1920.webp"
+    }
+  },
+  "events/rickshaw-art-exhibition/rickshaw-art-exhibition-140.webp": {
+    "w": 5472,
+    "h": 3648,
+    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCw73wIqwUtAJjUbK1FChlkAP7u3nFzkG5H0ZfrimgicC35vLFjCEVPvaQu1/TtYnKn4jKuF37HjxaAxtLye9Yi3AxOu3YaEEYklHOUBmxPGYotLHgfdtrQn3RKHqZyeER1dg6P1oltY14bmdL/A/hSQz9Df2NDYbw5vuWVVAc0RpFuNfDtwxt+/KwreLhZrhWXIBr0AA==",
+    "variants": {
+      "480": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-140-480.webp",
+      "960": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-140-960.webp",
+      "1440": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-140-1440.webp",
+      "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-140-1920.webp"
     }
   }
 }

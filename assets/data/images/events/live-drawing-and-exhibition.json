@@ -1,4 +1,15 @@
 {
+  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-02.webp": {
+    "w": 4160,
+    "h": 2773,
+    "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBadMZFRU00fvCD+vrOwAP4nCNDiVV771AVMm5uLHxDeBIjWa3MpoODBHSDofrQG/99SX6oRtZSECIdpyh2ZhEnX/j/fgsk7z9Sq/BRH0WXfVEC8eNtmR7GnOlkdabpsVapB3kJvDCwY1Kf+zUCGUYi/yyambnqTUVlZ36AAAA==",
+    "variants": {
+      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-02-480.webp",
+      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-02-960.webp",
+      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-02-1440.webp",
+      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-02-1920.webp"
+    }
+  },
   "events/live-drawing-and-exhibition/live-drawing-and-exhibition-01.webp": {
     "w": 4160,
     "h": 2773,
@@ -21,37 +32,15 @@
       "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-04-1920.webp"
     }
   },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-02.webp": {
+  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-06.webp": {
     "w": 4160,
     "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBadMZFRU00fvCD+vrOwAP4nCNDiVV771AVMm5uLHxDeBIjWa3MpoODBHSDofrQG/99SX6oRtZSECIdpyh2ZhEnX/j/fgsk7z9Sq/BRH0WXfVEC8eNtmR7GnOlkdabpsVapB3kJvDCwY1Kf+zUCGUYi/yyambnqTUVlZ36AAAA==",
+    "lqip": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAAAQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOkEqk/xvAuCJv0y1YUaS1Io4CVAasoAP2dXsmyn03KYt6KRhcXQIFuiWADE4ftNMwPZM6CpxpTYQ5FG6aNdIRsDaqADSdNHSOaXgRKlLtWLPooYpapUszHPNdvkZa1/ZW5eR4VED/VeT5+r9Fnm5enajmeRugnzoJCTph7pbUmHhg+0Y4baIdTymEApa5P43Qn+Otif8QK026U7ULLGA1FpSAbf/UFMzZPAozmIdAA",
     "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-02-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-02-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-02-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-02-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-03.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdAYv+1fyqkIzEUIFugfqwAP7cd8ZtxJW4s33CS0ts4w1L5PR8GooYwjYXygR2BntGsf5OBLQ41V/rUCy57PJ5AucmAlXFPxhaZdczdBKYYBAJZmx7WuwCnoYzJrQKmih5QMz/mmhZ75aFjcWUgNMKJ6m09AAAAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-03-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-03-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-03-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-03-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-05.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCw7BdOP/+opNkVm5XPjAAA/eBV4uFKGNdkxcBOpyfNhcp1J1oWcCTQiJWXs7zV/RfvRT0uoQJorOM3rxiGWZYa0aT7BdbohC0AjFRGMNw978Pqe7j12RaT7AVx5h10wtJYqos6ytO9OzTg5Kn9tL4H7eHkisMIy5MbP0+JHZ2AAAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-05-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-05-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-05-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-05-1920.webp"
+      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-06-480.webp",
+      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-06-960.webp",
+      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-06-1440.webp",
+      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-06-1920.webp"
     }
   },
   "events/live-drawing-and-exhibition/live-drawing-and-exhibition-08.webp": {
@@ -76,171 +65,6 @@
       "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-09-1920.webp"
     }
   },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-07.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBkTBC8sKYwqucsJufx3RAD+6Za4oDt+rbvhwnu2p1P29fqEtIWAZY9myQlD6lHy/rOCmV0bDyOEFub2zGVB3mefCbwXOjs+QyKZ9zyWM4tH4CjGPU8rMZfwXhxgXOdCrPl9P1nD+VI9riH1woHdUgGF0GZO1ygEAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-07-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-07-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-07-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-07-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-06.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAAAQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOkEqk/xvAuCJv0y1YUaS1Io4CVAasoAP2dXsmyn03KYt6KRhcXQIFuiWADE4ftNMwPZM6CpxpTYQ5FG6aNdIRsDaqADSdNHSOaXgRKlLtWLPooYpapUszHPNdvkZa1/ZW5eR4VED/VeT5+r9Fnm5enajmeRugnzoJCTph7pbUmHhg+0Y4baIdTymEApa5P43Qn+Otif8QK026U7ULLGA1FpSAbf/UFMzZPAozmIdAA",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-06-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-06-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-06-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-06-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-10.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwC+SYwmpK7dXQdWJxPgkazQKAD+9DKV6/FzWyvf5f5yPaf17bHEp+77elvUEjR9q5ZEmeZR5RlfTj8W88aFTlbKAKU2yobQAI3QU6d6eyXUwc6L5tv3PGOgximcDU11LN4/rb6RHrn9qnwS0J1mrczOLd9KAap1/UtHui721Qc7SQ1k+yG/1URg5YTttoVvb7vsFvv+lQBJIAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-10-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-10-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-10-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-10-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-11.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdB2gDZkn2zyk9YIXpo910Ebp1gADOOU1IaYOtyAQICDwoAI3TSGAg5YTHXHz0ssU46i+6lOj7Zl6vTm69XhF7U2ksSNKdtPSiutYkHwmEvw7Ul+T2z4OCPLwFDJ0k/DkMkipPpP7zMvKGc9z+IksHPYqYeoO/hxb2BMMWBqCGpj5JgVwJlaj9GT4m4LhMHKxPgqMEyoXnOSIjjquXAAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-11-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-11-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-11-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-11-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-14.webp": {
-    "w": 3793,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRvoAAABXRUJQVlA4IO4AAADQBQCdASoYABIAPu1sq1EppaOiqAqpMB2JZAC1GxyCmdF4bMOGEmmCWbBEnFyUMe1iE0GOfD7AAP7k3fKi8HFGEyp+7eoXKlHeuFG0yVdI5d6MrEmxA3VaQNa7pgg2Oj5dZeP82oIc79Tzi33yfMezohUcGDhy28SN44Hmjvsmu7QIO6H0UDLYK7YmZBtjCWTsThtaE1lSzMW/y2fdHroPFgIfXPX1bUG/pD8RLZg55YNSXb62ZLeWmHdauuCj66sGlg8pFWJC5nEnLMJV0nFL6KlLlbOSxPL5PZiKh49gZ2rTfL++te3TPfcKAAAA",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-14-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-14-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-14-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-14-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-12.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMXmaobbXlJ1WeB/pg0yiAAD+wUDMysoN0rk2cX8h3DKphJz/zRLD37wrq5FgeNu+1DeEEkBmBpU/6Nd6cfUQuqbXdZD8AbNfCps5uAPHsoSNrGrU6Oe8JaQTygic7/vLO4+QzI8900+tiSjG3FA54ehB8puCcpiqPHzIDapB3inXvCUavIHF8nbL6gcr3mPAAAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-12-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-12-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-12-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-12-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-13.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwC1GoGv/gNcmUVihpUsXajNHgAA/uyLpj8aBatnt0w1nNhJ2j5sk6eV4Tx3wcklh1F2fQl2filVkQEtDWBA+foOcjAZ6zTKZyuYhhIpf5DQjsTm/POaOhCN+uN/MG8pxyd/GnXw6rq7s+OtaoATe87GPTwPQxWi2BfRUAFxiV+SNT0izBV8AAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-13-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-13-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-13-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-13-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-15.webp": {
-    "w": 3507,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRuYAAABXRUJQVlA4INoAAACwBQCdASoYABMAPu1sq1EppaOiqAqpMB2JQBYd5YAbZ01Ecn3NU5rXG+yobXzey2z3hoDDDLAA/ulUEj9CXk8gvSyF9hOQQiQfYZKhgerYheMrcMI8Cf9sLNm1tF42y9R3Ht3ROpaNXqsDAqQeV5x3HqlKSz8Ox6y8wn0EfUVf71MSoWVo5v2OIaklKo3A/O6EsIeVjlb9sGpIuH5/5WJfYw2H1WFFRg+CyIbj2SMNqB2NTtgZ+7MzNgDTTO5OKo/HTAM86ATen3uFDXuGxdXb/zFZ2QQOkvOAAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-15-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-15-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-15-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-15-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-16.webp": {
-    "w": 3793,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRvQAAABXRUJQVlA4IOgAAADwBQCdASoYABIAPu1osFAppaSiqAqpMB2JaACdMxs+Q0pAqsWbPF7uQcoDWjxDrhSWNE+WB1DQQAD2kLR10QY5+9k94oDs/hJpfhOBlfiurVFGOH3kj7s9ulO0k38liJ67854vB+syWPuP84b7AZTUdQF9uKUEyub6Ly84n8aneiNuiyXmLCsZQFvpJbUe8BIR1xgFbDZ2ANiBHDtkwz2aLG/89QZYw9Jjg4IKB0BDNotL3uJQXgjFf9f+zdnFD1IupUkU7FY1aKIPje2VIlOLFOCPImgwwf16p41T0ycRMvWY7lXocQAA",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-16-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-16-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-16-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-16-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-19.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdMoCGAZ5ioTAV8Z/6hCoQnIzgAP69v6VZIBbMSZlmNi+iAn68XMPegD2lgdt43cNIfyHtyVYMh+O/986+GU2fWZw7hHFKpx8ataaiOIgV30eG5uzkKvxwa3C7lsH4z9Eid/k7DMjteM62c19GgQY5I5PTpLPipMRAqZOrdN7kej03S9QqQBujBL31Lrw91FAgeZXsmghWX+v/cupeEDvBntq8gAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-19-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-19-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-19-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-19-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-17.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdACHmh5yM3e3gGx/rQAD6TlKdS7qXHGlBLXL9Z0T+2bJWdH0/xZlBW/YN+3U73K4//8PtYkoft9d/uEaB6tMyrgxEDo33JcOm2U8XYrmE3Q2VkakajunqWyWAHt700rf6F2bRO3lp8pTvRi0yBtqS+tWEkuSvTIB2Iamly1EOmtyedwAA",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-17-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-17-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-17-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-17-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-18.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagC7ACB5DeGjAo4yiODxMAD+6PYagfBNkcdNnTLBSdrNWtpaNW5CWNey5f6Zghiyzv3yqe5WIgxwfvz0WzjPY7VuJdlNvAUJybV+rPmpVz+JzhNYvszhIIauQDrhGSa639AJ/5ToORwmKuNtuUfvMpWEegmpM01x629qtaHB+Lh7xoVD6TqQ9sabaTGCsXtEJbb6+KELQ/1OTJ8AAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-18-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-18-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-18-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-18-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-20.webp": {
-    "w": 2773,
-    "h": 4160,
-    "lqip": "data:image/webp;base64,UklGRogBAABXRUJQVlA4IHwBAADQBwCdASoYACQAPu1qq0+ppiOiKrgMATAdiWgAvfFevgHHP3epj2fRgEm0S8iVZpcQO4h6c5aoZNa2lRDNohqrevsnV90ugAD91Y+WJfpaXrxCjbWNagqJOcHpM3EiVCumGZ3/CxbJ79t/OvIQCvVOQxJSb7wqJT1XI2E/Nf46Q11B+RUHmJ8qM5APskMSEcPQho7866ZOgzjoSud+Fw/XJ/EWt8HJCXCYAaMDLoCHk070bUxJuvNoxRzPVlcfoxRSE/9KRMRvn/WmPz6ZUiAVK9kLjenMyfqSpt43agjpqI5YBnl2S4Ee2PnV3k82UgqdBkU7SLgdFibrdsImM4o749NwyX8I0V4O7OzH+SuLFIlJHuS8nIaP7BNDUM2xBFp/RZeWjPtEUVUX8w/OriAmbwkuIo0HMSHGrigabzXzycGmGSw4fiapNSyUyNZOtgc3g9tatyXREmlwCUgk+3tvZof8FmtGVtbynwk/s7x/rpLu8C0iaC9s0zugAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-20-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-20-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-20-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-20-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-21.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBWAMYYdm7k30ZEqY/o7eHbwAPffGTI+GsIrWZeEotDFLxJMSSNFml4FYnitqkrnIFmq/HgbKh697RChW5yzBOPKuapS38lzwKaVzmOEgCpSWAOOy5CI3+qId0RqpGvZPM+qxmMYn4Tl6bubwduudcBowyu0NO3kg1HGGcmF36tVmugmBk3rId3Cmz6r7q12ORF84AA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-21-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-21-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-21-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-21-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-22.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBdgMX/b6yLYrmZAhbNJtQzVlQAA+GDXqQIgrogyHC5G96zqArUBul7hYxEQCZEPmUy254C+8ttPwVXBgxpYBmMk+8rNeCqx4VMiqL5li3GsYJg97G5MW2xu2Un2YwO8DUGxqXEW+YSdEKb7ND+hP9Qdc88wSDhUawx/Kzprp3ABd6Kat1gBFCMflFBlZQQAAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-22-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-22-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-22-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-22-1920.webp"
-    }
-  },
   "events/live-drawing-and-exhibition/live-drawing-and-exhibition-23.webp": {
     "w": 4160,
     "h": 2773,
@@ -250,83 +74,6 @@
       "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-23-960.webp",
       "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-23-1440.webp",
       "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-23-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-25.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCdMoGv/i2HW7bN5o9ZGdZivS5YAP6sDYEHgJ+78d5bMP42ilZG5Svry7vthkHBBPY07SZlfFVjdCMtpwSYuHpf1jd3kPiXAfpLT06kNJMoGfrAhabSyPPw74ynJJy+OS8NmT6/trG9OY1hRRbLijViI+gL/i7WkHthPkjYrVJZRqEgHarsmP6HnL8oGz4YgPxoJ9Qfs+0ntEvQbQAA",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-25-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-25-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-25-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-25-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-24.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOmUGeECMqH/cJzRzXdNaREAAD+NGp9nVVac96TW/JU/05wxOQ/Ca72PZXnPhJsAiqKb1J068ICCHRtw2np63de0tcVvTyWyjQ/qkbxOg/DmL3yYeZtqkAOdIRd1jXzI+jk3u/ithSRh+vr2u9psZBgn7lgNbj8LliwViFXXZDHi1ljLT6HSKXmHD3e1FhOS72EF2Yr8q56dhR0MhTAAAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-24-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-24-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-24-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-24-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-26.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdAYyKqFRdM1EoA9A2ZNBgAP7U6ElwwA+vaAiLI9PhOAB9f4mVGNDmS73rtRjmU7v0mYTZ5PZjfiIgZlabL2/GIXYVUT4X35AhS1lbSXhDGELhAnM2g4GJ2moS+cGoclIB+LkgD7+1U3q+LbgFZQhhZG1nY8WpSE7ovhNbbUyFfbAPpWIoZ8/e/a7RhogMrPiDXmwc9xuEgJmdPeVPuR89SyWs8ZAAAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-26-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-26-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-26-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-26-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-28.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgC7MoGv/i2T3J83baA8KwqDZs6J0gAA+/yOBrOHpd8FspWg1ty2jc1Kz/HFJCG1TQ5yPnW2YtxrzDS6XHIjhEjh5Y7a2dCHcvIl27is6RomEVPfJKPgLLdusqhbSp60ZRAAwY0ddYtkPbflFbtGJh6vD24dS8xzr1ulz//kCj3I3kZfalE0kh9n5yD58KQYkUSNvEmfKAC+Jv+dD8R0YuVG+p6rtLmTMPqDJE/Z7bNE3nx4fEZwAAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-28-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-28-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-28-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-28-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-27.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgC1GoAvQTNwyzZ5RvpIHfvOHucwAPzl5nsctK+U5nz7M1k20CZs6j5QY6cAudT/2T5tDfX8WP09YR/ashT0t2c4Qx6O1d1mfCxy7yl9xmHcyCtJMixHOoK/ugcm483JASb/5G3DvxGoEw2PIO1wasP30gS5b0AChv8UibxVIKVLOyrT+jeIrFxeAm6REOH5e3DTczNZ2oWkcfY7Rh60CMet+tzvUPRNOWukViqwuNS7k5Y6gAAA",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-27-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-27-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-27-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-27-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-29.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdAYyejEuuEyiQGG12MMAA+piONiRlkHpr+xUnrDg2i/Kdn1omvcYU0HQ0a/X2Csz+Y5tSziuA9VWWv6p84Qr+pPXquoby5ZaOHI05YNrAxGTlQHRzefmhVua8+hnalGjheD1Q4YDMH4qfUe571Z8C6UU5fYR89r+uyekhd81sATHEOI02+rDR/NuM+LxcW6UtyDrrjsBo90QAAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-29-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-29-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-29-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-29-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-30.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JYwDCgCFIdJl9fGF6UDwAAP7k5YwdyEB5nfE1ux2u/WaYDruhQWR4p9JFDnCe3TExCnrX36FfsZLzPcZCUlW0Id9hqPT+CR7t1CFmdpuUVo+Fr+R9jmLeUVGh1S38VFu0KxwXZkdZDVkfLPT6CIV/vWzQPlye1mTJBqjPW+/gVN+LG0wAAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-30-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-30-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-30-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-30-1920.webp"
     }
   },
   "events/live-drawing-and-exhibition/live-drawing-and-exhibition-31.webp": {
@@ -340,39 +87,6 @@
       "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-31-1920.webp"
     }
   },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-32.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwC7AYvq278BrqrqthIs1kjErgAA/vRuNBYDGMAYzzWOglT9Yru4YXXV2IMZvd16sE8Vz6rVdauOE425XNi09Ecgqm0HJmhrqHlOB039Jf44rWNZfaR1cqQd6sNWx+bZn2l9svRG6sKUWIyD3oOvg6/zgOLzHW9n64cy0jUKI+0znoPyRAv7ADToMyjzbgJ4hxhSrgz8XZvl5cAAAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-32-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-32-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-32-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-32-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-33.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQA7gB5AuBg04mmmPftkwCDIAAP5JRHJM8vn4KJ/jmLdALV/qwSNm6iaYBdLkNb936r1uqsVZxbH42Q2n1oe7dgyyzqLNpLTXrS4M1D3/uJX4f4a6UTq8ylRFFG6wD3zsyY0thJ++iyWe2xD+4AQ/AHmJziqtcDxRt5mtu2hZZNJ74fiuSqF6hgKY1xPKiZ+DMgLp8wSZAiYJHGLm0/JhEfR6bJoGGYf1Jyr++YoNwCyAAAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-33-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-33-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-33-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-33-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-34.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoCGABruAHh3e1oN/pD/gAD+oquMQfSiqT/UBY4auC/4PypDWADnI9ISw4/eXLT/VE08VXUp4F5t3RfocTqLrbbDCquhNEHVmwF8kdKYhSFJCJwmUAeLGJJfnTyKvsIf7JaFty7BSzCfmqM8xNxkRYO7qqRMTUh26oVBYSA2YFcIkwMbd4HK6/D1aCafNG8KkcAAAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-34-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-34-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-34-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-34-1920.webp"
-    }
-  },
   "events/live-drawing-and-exhibition/live-drawing-and-exhibition-35.webp": {
     "w": 4160,
     "h": 2773,
@@ -382,127 +96,6 @@
       "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-35-960.webp",
       "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-35-1440.webp",
       "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-35-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-36.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOmUABoZPzK5JdfNlN6IAD+o2y4Qp5qEKb/KKFSo1efEPOn/EYHQ95UQWujMbipDsAUL8helvDo6/JgZsviWkmWothFzaafeduST5Bzjwxxqynq1lYpKc/6VjhocXDOKjRmus8zJ2/2Mk44Q0rjSx43xE0s9Wj/yL4dspVSV2VOgI9vkrMpEK5eSsrAAAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-36-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-36-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-36-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-36-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-37.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCsAYyUfsbXdfoIIocAAP7sADWnnk7lwJ/Fjeclx9GAQEQMVibcAmab9qmlcWzESiL3Yx6ZKcMahYSlD1SRAc2ceKIqrn2e0TnBwuZjEa8g1Eu9Eozf7Wrbt0iBem+1Sd+oaflhmy6ifkHBe91pHiY2ArOXsVdHook9e+qcoZ8q3iKX8b8dEr2JnK2vBYDk0Jhk+3D6/7R9q1CBAAAA",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-37-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-37-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-37-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-37-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-38.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACsAd0jhKbjwiwSfQIXemE3pkAA/u7wHtcUtjoKxyPBHNcLT7wlyWqREPrFiWActXZKfG/yX4TMPwnex4Ns/21XsQiQyQ5lEi2nfsQOQQwmGkcR8U8uL5eGf4QfS3NufagwjGgOIkAZZ1L1bPmtFGU32P8au/6VOPgbITIoqa43Q2e8soMuDsiu99u1kPqkHLKkyAAAAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-38-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-38-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-38-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-38-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-40.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgMZAb6gtbnbHWJFoUEmq5DAD7dmQeEUPyDIoteXTWS0dUpsYwGsgUPFcjGnBtiznwZgv2b8nag8yLpnAdgywGdbkR55gs6IrU1Ad9dMcBizvn9Fng6PliHNqf0tfNx+FWJjMRFqXqEpKLenXm8LqDww+CuERpb9qAbDfQqkGIxPbJHRjF+rvPc5pAAAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-40-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-40-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-40-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-40-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-39.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACpFKoDgbTcsgFqTBZ2h8xCjHMAAP3a1a0u0gvRe3x4ljeTvLfKqNadrKnEcV/ou2Nl1W6h5Blz53WKw6u7WDtjGUoNoJuYxLhI6/ur7efHWx8dzWwQvJ/X/csFWWwTx/MlkwGTP0OawBghd09/KUn2UuIcz3dqfKcRLsESxsSG3g7qv2vQdN9ElFAyGDeGtCVU/PKoAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-39-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-39-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-39-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-39-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-41.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdDiMxyeCcb0U/Envctx2mAAD+2pYWywWNz3Xu6affg0bQDFXJ3SJ/bhi9j0AUiBlNXMMX9IIVUCYzsO7luvulHoPtAlL1AzfzDvjjsZLhFzw2UK+ynuIOV7j7OSuJ9MtfSexnD4wwhw6VUSRBi/FLV4sewmwQ8NOHfA136J/4CMC0m/QbMk/mFnIqbBEfc4b1Yr/heTuX/OBstc9CS6DvUgAxblqyrbSCOI/eZ8FsbyZyI0UQAAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-41-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-41-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-41-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-41-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-42.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgCsAywTmorfOA/VgM4gN+tczU55oAD+3LCmhjh+Yysbl8fLeRe9+Ds+J6nHux3CUak1jn44famMDJFgHGi8Vc1mbO3/dzFmLynYUpRimYvX1C4lKbyC0Ws06z3cEkQyPhQAtaUGq8iFdjLG5TgNIbmUzS8DKoGCaROe1idusadwmNjwPP8CFB/VOGOeafd4Io54AAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-42-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-42-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-42-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-42-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-44.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoMwt0hhMeN8Dleq8EUYjgD+6/xNDAhm7D6gTIdj4BsY/AJL8AftaXj1pnWAzjldu3l37wWeQ8xzcCrnE87zRtEWTrJu8wMob77cTos4bYsMTmEGyTaKWAP//of3BdoRYM2oZEYEeBn4myf891CLrEy485hgG3fY1FqKmqtn+MUs90dKuGDOAhs3cB5yGP9dRjhBYFhzzSFuGXnL9cFRpMgnCZOnb5FuOsHBgAAA",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-44-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-44-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-44-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-44-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-43.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdIExgrhh3EgoMG9Vt6K+AAP66g3b5iNYSoN3i8elgxmExeUhkFinG8jDtl5cjSVwitvS0CUKkV8ys+BKGquZobdZzsn8xH/4Z0oS6v6R+pFR10Do6PNACeF6d13+mq5XoUYA+8m/tPnM7j1mmls2FUDgBrjYM9bz77WbgVpbzVk9AiLSkwry7qLfxdFJHfuxbiE8YsIWAWH5RXe4LT8QjbuvxfWkoQeLuQRbDeIQA",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-43-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-43-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-43-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-43-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-45.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdAYxs3etd1Kem4w18kr1cAP7pAmJbISOSrY+YIUV/pXwBP4oDwGuqi3/GAcp3ucgXNIx5JaXhSU7WuE8yQZQ8Pr24g4uvtaO6adigJY6NzX0YYzwvK4Q2f51em2ZNDos8Z6MPTAD/HA9NUiE/CA9st4KaKnOcqJZn3niKk1wlZPFGXhUu07Sf22i3r0HkcZKXu1DLiMKUhgAAAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-45-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-45-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-45-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-45-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-46.webp": {
-    "w": 3930,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAADQBACdASoYABEAPu1srFEppaQiqAqpMB2JYwCdAAy0EwLj71pCnqpCQmcu5fJAAAD8tPZftFzQ1DsjyecZVNLt4L4Jtpckv+/T2CBuwUXZjB2IQa/eiJddnYlvUqePve9CntFErpyuxcrznTUrsOUPtHU65BerVsj0WIJ3qkWzgTTz1oUJvRIEV/hMO4WvSAI/XtusAVkh6PKAbYX5ijx+3ksfYY3G2L0zmdHF8ILjegshyiE6YqdB4AA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-46-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-46-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-46-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-46-1920.webp"
     }
   },
   "events/live-drawing-and-exhibition/live-drawing-and-exhibition-47.webp": {
@@ -516,61 +109,6 @@
       "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-47-1920.webp"
     }
   },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-49.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdACG4WUV/aGUxkZ+AAPRJN73AWheXzXD+VthHvzcOoh1OQS3I6q3qTolOqeclwtqZ90qDvVL+GWkIKV36PJT0HNF07s43FWYd5ezKdbFypApEfU66AdX80sUixQiaHewXwDGPlhUEGSO+hXzr1L25GIuMtSVZdFS4hhhJgAAA",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-49-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-49-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-49-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-49-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-48.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACsBAgOW8i0cUC3yISPioYfQAAAzaEx7jZVhR1k9fXeu/aYX6sQUh92kH6wyECKGqoQ4oB91/SPep/gqRdGurE41Vl/a+3UFQXDpd5q4iDZ/YmwYRu72c66hiDW+S8dmngK7XC8bWbYC4vLeSqCXCKWgPMT6Xbw7ylgbZbCF37FjH75Lxi1Ue6y3cAJ+IOxWqEwAAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-48-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-48-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-48-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-48-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-50.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRsgAAABXRUJQVlA4ILwAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdMoBOACfVCOeDw0olsA6tYGSYQAD68y5/8n9+rqZl2XQ5DQT0oy5PUj3v3V3Zv4LGX/xCqQhI4brq+PsBSa2z4DJL/+bEf4+0Sp+blQj6cnGxH2NEWs95T0ei+m5hjwfUqeDhSYkpNwNa1Sn6v1ewmEc1EMzNEkhTQLb2XIaA6V4Stmzfq+//wfIG/vd0w1d2WEwbyC65+mSgchVo+uAAAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-50-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-50-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-50-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-50-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-51.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdBag+WDZJnSGBrmCLjtlhHuiuYAD+6YpjFoLOVXCJfKsDtWnxt1tvXCPI5V51KGGIH1TZyCPPRkOyN7xSBPCZaDoVYuqq3HvlgZsMw6ISAHRghKxQNtlmDcVM6eHlEtQLOA5Ll4DevvPakUMxmL/f3RqjJXKSD1rbpWflOPI+q0+cy88/WrEGe0ZED8h4xBsM7P4RFwKAoFkx8Jk0K6sxggpHpwAAAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-51-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-51-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-51-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-51-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-52.webp": {
-    "w": 3983,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAAAwBQCdASoYABEAPu1ur1IppiQiqAgBMB2JYwCdAA6+s6q/IvBylKY1syW7stgObmjw4ADgN3nl6yDsRGr2WwkBQTkg0QDNxABEFzlVLY/Tnm8uzByv67i5d+sxdM2IsF0mN1x4lrqy5SF9M7XugZCSiDHsGCMLiGwLuv8Kr1HIhk/Tx6pEGfiOtajxWCWZS4RlDBjnbGHI1EKv7zn552/RFcKFu6HIyJMsZx5I65jbfE79jC9ex7Usm5ovJteHKa0OfmTIJhT/RIZbU+v9nFYcAAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-52-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-52-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-52-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-52-1920.webp"
-    }
-  },
   "events/live-drawing-and-exhibition/live-drawing-and-exhibition-53.webp": {
     "w": 4160,
     "h": 2773,
@@ -580,204 +118,6 @@
       "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-53-960.webp",
       "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-53-1440.webp",
       "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-53-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-54.webp": {
-    "w": 3987,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAAAwBQCdASoYABEAPu1qr1CppaQiqAqpMB2JZQDInagAzrVjhkxKlLx55lOiceeaNiioMAD+7rtdeaHN0rErbHY7iqCyMcvFGHWSguvcG/w/itUpOfbhEWalNutFnTyBlFY6yze/ZH7kVLPuvCu9AKCQ/CMMvKCdumDHRPMAs8FXfUAvmfVmDs+8Eaz55hNDYk+uXmh1Dsr2mqPcbNKHMCNbw6gnrlCAUIFNO7YOIyXoEhfALyg4mnAA",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-54-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-54-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-54-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-54-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-56.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBWAMZAPM29agxQRuevdKEAA+yHk3zmpCrqY2tXrRcerF53wue/caZ53aO09lWqWDvTCQxwgZBKLWMaG9zsUguCa8BSF9KfyQn1oBgQgPmKsDO0AhHS8ZezpXClX92ZsKbGGU4xQ3uxsoMOMEe7ki92jSydgKpe2NAL7HjTfcTNJ1MD60vn//akW8dyXSH0DLs9IE6ZQAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-56-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-56-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-56-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-56-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-55.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRuAAAABXRUJQVlA4INQAAACQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdMoRwFf/jeBb+DcUq+48mwpv7bYWUulhCwADiEM0qu4KUKI7GGYOLGGcGup4IE++3zZvczJVfH0sbseGjZ3IinvOHfTm/NI/nhupEdCqB6OwNvmUJnbog+cfcXQOY+DtRSeoHzUVMIc54E7xd5HYSqH8P7uJs+aXcO41bP+L/LcIYfYNprE0Gw5gMxB848GaRcdYqXO5FsRjxUbuj2P+r6otkxWbj+SUqhfoJfYXak7Kl4yz6+dcAAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-55-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-55-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-55-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-55-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-57.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRtIAAABXRUJQVlA4IMYAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgO4FwbOQY97o0VsbgEeTgAPfSqB0AmTlwpMTPZ0ZIKu+MzXz0tEaArkH4XoTstPW+muijvkfX/srR6uoY6CbrZdD0SJ0IWGn+q20QAxyujsPFGn4X+V6I/jOM4FM8s3n+NzS7mhqV8xX2Znr2UN/1OnGDQOGr2LbMgEWBciyv8wUOdW74t9oJOanH2gXmgLLD0QIu7v1bi87KYvDhP8Dx1GqZ68BFVtPAAAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-57-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-57-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-57-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-57-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-58.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRtAAAABXRUJQVlA4IMQAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdAYyAwFew3h1QepqgoDERz+7AAP6VAYy7tnzWoXkRQsdLA2ND4PChGdOLL3+g60OFi4d1Slco+ZYBqA69G3xMvN199W7+pLHyKwEJcei9jiLItSTwumsqJnDwDWTc1Cpq531IfGCBSuAnKfr5E2ayrUG/Qfe0Qrf+xp1EtWFIP4AhfwCoZ2igymbelfsSHf902zpgHlNcv2kmGYmiFkJ+0Oj9EtbNIAAA",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-58-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-58-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-58-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-58-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-59.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOmUAS4YjKbx3qBqFJ6azz+pPcAAP40an1meqMLtSpqxcy7VrCwo5S5tWVD2MhCRZZ9yId+qomwmdyZB96zs36CZ4FtqFMk8IOYresGu7om25cki0LboJNTFQ1Ok6OM9za17pANB0VZFy9rpaoVdAO4n9Ss2aqDbutOOf6+w/w9/BP0QPx+TntQJ5AmnrgZLjHVQKVCT/NDCjDoAAAA",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-59-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-59-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-59-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-59-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-60.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdIDZgvhJU9FKbbtU7YZDsAP7F5kcNweywkbXHH3hGzY3ibXvkCr81ADnt4N5hUZsVAPjpN/qQSp5HFKV/BD2Swb9JzE6wPcgRze+ESkO6WMiaHUGoT9mI/GGTC9zNW1LeLrGT/rikRuZQ0tR69Kyy8u11Go/v/FKl1ut2fhX+Qmt5k/63uY/R0mrOWdH4jCMn5jZYzL3KgAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-60-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-60-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-60-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-60-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-61.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdAYyommz5gIMPnNQJ+YQEAADdx9ti95KAuX2vbfvvQrhOOtHoExdWA3+vaHdhr6W/TkFIyHy557UcMeOwFR4IV4Z2L1hOcV6EZuDBIAEfVQUnWECU3hq06GVlyrvbWD+B3qN0QMh19zvjXubMXKdZqODSSJgf87Ps7yt+EMco/nmljKtRj/5JZICQ/KEKiYcaUY/bZa998g4ZeaaaQhf1LUL5MoAAAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-61-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-61-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-61-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-61-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-62.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOgA+iMX0wNhkMHNOe7AAD9nLsUNr15bBaP3Yjcc90V/jHONRIUY/kXNlOLQmmAB82dFZU21T+XE2EvTEQq8UQaXy7YULidsUCJ57TQEKZDRVh8kzpvtf16tbZ9FGbxZ/+T+WP2S1PPAdF49WBBuIobrIMpwA77W9aQAAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-62-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-62-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-62-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-62-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-65.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRtQAAABXRUJQVlA4IMgAAABQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR4G8AawLg7asC8geNMxgaHetta/QAA/tG5UzVdYHNewGnTk0vu0YydvSlG15l8KaRgRpjiy3T6zLzrPr+REaflbHwp/rjWCnGR44Iqztlza1CXBpKxcplSn4gGlohajFr0lYT1iwDGrb5znln5KeUHiDJ2KrYmvPjZl1xCHwHd0FicuVWI99wNUg44dXSIfGL/4UG70WvjQJg4gu5K5OQhMIMF845sr7WKAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-65-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-65-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-65-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-65-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-63.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdMoGvqi2Nkw+4q+cFusHrpc4BkgoA98nTbQ54JmpHELC5ldI9BrkDpy84K66qP05IPpAOwolx/t3ogNM0Sk34n277sz5S+S2NGsUExuWU47wIjmBZUsh/CeNMG/mnINl8R5k7jC5jUsrD4RS3Oj7OMwZFQ/3el2WelJ5n+LQoXtjrB0d4gdCOOAzG5tTj82k5eBzEQJfgcT/FvH6D6sVOFU/gXDHr3Lcj/oY+2YfYAAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-63-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-63-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-63-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-63-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-64.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAABQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdMvUYBsAwwTOwvDM4z3S6dbddS071jAAA+6TpmYQkRezdCInT6ttPGntZ0sySLV2A/iSjVx2c6jaCAIus5obf7X0K/kLm1o9/W055Abmc/mtArtvN8rBCY3uGN3Cs06aFG8fhJaif+AH7G0x8GYht+lMJ3Bz3e3dHLJztI1zF59vfLPzcK2A/gVBefzklUO+UPilgIki2KNkNuqlsIPxc8JgAAAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-64-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-64-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-64-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-64-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-66.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZgC7MoADaXvXrWct14ph9NpAAAD+tfYGIh1gEi6k0lWlpLOE+td07BT3rYtsvtgdxQnOc5M0OPYo8YWf/+yxr5ot++t28OgGJsHZkjlOdCo1wU8MF13t2daxi9Y/mPOaMxQ2EiSB/M0sq8S7W/p5Q8uUxVXRSNp/jagg3aWIa3G62cfW6LgAAAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-66-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-66-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-66-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-66-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-68.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZAC7AYv04JBT/HmG7sDnlAD+01RO933tMz8YaOlsyHAvF++AcqC2tkDxtR7hfZswoxsvCKOrloYzQwPHCpezjNg0m8Qxcr9X0Xis1f1EkQZCZSY0/g8q+fgqjkI68L99LcEpCYFcGA8iOKcZedguspNNGd7rzw45ahLTe6oWnfTDCo4fn2L19TgPAQjYnbAVO6AA",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-68-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-68-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-68-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-68-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-67.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwC7AdwAmXl5RFf+REv+3wQA/uOHdBW/M57Sp1n2k6LX/nwZeh9fMtwHkR8NakNXRXIoztwvE8pZSAS4bfFpnzaPfK3/nQoq8z0ddDQD9uqdyX6Y2+1T/GN2DYNPFjmd8KwPbTRhkt0Xu6dd4aiP+Yp8WYIRK+lejbL2hbJx/P9wEed8ERcePC/C0g3hxUTVGOYv32KpkAYxQy0AAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-67-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-67-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-67-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-67-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-71.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACsAdbPZFGnVlUhktSs5eVeAAD9Tw1vO3bA7K+DQuhuicdZP8Aj8kwZ2n7/oU9qxxDGKmQkFJX6M9oyXw+XtFurdT+BAlKI4xL3aXSW4MC7SGTRqh1GB9mvNMGSoxHS3RC4kDRJLqwMgDaKJa5DLYcIOJmA5HH6LveOfVkKj0busVRyzqMCHetTMGxBCcArV7U/QIoB/ocLCOe5F1pjFIDd2kqrDC9tFJz0aE0XsQ7pZWhGoAAA",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-71-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-71-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-71-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-71-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-70.webp": {
-    "w": 2773,
-    "h": 4160,
-    "lqip": "data:image/webp;base64,UklGRmoBAABXRUJQVlA4IF4BAACwBwCdASoYACQAPu1kpk4ppaMiKq35MB2JaAC358WrsZZelNaQCXH0+2f6U73Nvk312DEMvGQkuV0S7CfaTufllzHIiySAAPuZZ4d5tYn5XT/7WsZ8ig9DcjT3e3H78ZpiP1d9fiNm5UZbhhC+xYFozVygIdoMw3MUDhseNpoNFU/4lpp8XP2Dx+jZf5zW3XTDcbTsG/70JL0mJH+IkZUzupgmLdX25YGN9bCCLkSQF9YLaJSMD9Hk0fQBk3Gzpfca/QDMa2/nCq451KMZDIvJvXynN2QIUEADfWu4E+KDI6178dWEYc1THn3maX4LJrbb2AAcpWgCMUNiKa+KnNPqQh618b3yYcinVeycXltO6Vi4QMVHrHCQiju/Bms5Hyas3szmmYoN535ObbofS4cs7OOG38zpaVwNPhnttEmOWJioyDjgrCPGOCsI8XIwirynm0unUs0Dm0EjcG2AAA==",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-70-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-70-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-70-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-70-1920.webp"
-    }
-  },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-69.webp": {
-    "w": 4160,
-    "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdAYxElZuFVKn+LL+JxIjQAADNwTuCJz/5FqJrdZzctW8XHNPGr8njAGkHqKaOynxC9mDJxPZFtmnzDiMHgebjKDcr5rTk67VYDOgaATj46LQ+lYvXgqRYfqLhzceJ/t79HHdHWnQjBJ9dOzJjJ4Ae+pLeYc8a7yMS2v+0/yzV+jFSr7t2yLi+PBt60YS8Do5NWynla2YdiH6xPHaAAAA=",
-    "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-69-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-69-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-69-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-69-1920.webp"
     }
   },
   "events/live-drawing-and-exhibition/live-drawing-and-exhibition-72.webp": {
@@ -800,6 +140,39 @@
       "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-73-960.webp",
       "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-73-1440.webp",
       "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-73-1920.webp"
+    }
+  },
+  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-63.webp": {
+    "w": 4160,
+    "h": 2773,
+    "lqip": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdMoGvqi2Nkw+4q+cFusHrpc4BkgoA98nTbQ54JmpHELC5ldI9BrkDpy84K66qP05IPpAOwolx/t3ogNM0Sk34n277sz5S+S2NGsUExuWU47wIjmBZUsh/CeNMG/mnINl8R5k7jC5jUsrD4RS3Oj7OMwZFQ/3el2WelJ5n+LQoXtjrB0d4gdCOOAzG5tTj82k5eBzEQJfgcT/FvH6D6sVOFU/gXDHr3Lcj/oY+2YfYAAA=",
+    "variants": {
+      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-63-480.webp",
+      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-63-960.webp",
+      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-63-1440.webp",
+      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-63-1920.webp"
+    }
+  },
+  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-18.webp": {
+    "w": 4160,
+    "h": 2773,
+    "lqip": "data:image/webp;base64,UklGRsIAAABXRUJQVlA4ILYAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagC7ACB5DeGjAo4yiODxMAD+6PYagfBNkcdNnTLBSdrNWtpaNW5CWNey5f6Zghiyzv3yqe5WIgxwfvz0WzjPY7VuJdlNvAUJybV+rPmpVz+JzhNYvszhIIauQDrhGSa639AJ/5ToORwmKuNtuUfvMpWEegmpM01x629qtaHB+Lh7xoVD6TqQ9sabaTGCsXtEJbb6+KELQ/1OTJ8AAA==",
+    "variants": {
+      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-18-480.webp",
+      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-18-960.webp",
+      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-18-1440.webp",
+      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-18-1920.webp"
+    }
+  },
+  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-07.webp": {
+    "w": 4160,
+    "h": 2773,
+    "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBkTBC8sKYwqucsJufx3RAD+6Za4oDt+rbvhwnu2p1P29fqEtIWAZY9myQlD6lHy/rOCmV0bDyOEFub2zGVB3mefCbwXOjs+QyKZ9zyWM4tH4CjGPU8rMZfwXhxgXOdCrPl9P1nD+VI9riH1woHdUgGF0GZO1ygEAA==",
+    "variants": {
+      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-07-480.webp",
+      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-07-960.webp",
+      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-07-1440.webp",
+      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-07-1920.webp"
     }
   }
 }

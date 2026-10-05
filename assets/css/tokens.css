@@ -10,8 +10,12 @@
   --panel: #241A14;
   --paper: #FFFBF2;
   --ink: #F6EEDD;
-  --ink2: rgba(246, 238, 221, .60);
-  --ink3: rgba(246, 238, 221, .55);
+  /* Light-on-dark type reads thinner than its contrast ratio suggests —
+     .60 cleared 4.5:1 but long-form copy still sat back into the page.
+     Raised for presence; ink3 stays a clear step below ink2 so the
+     hierarchy survives. */
+  --ink2: rgba(246, 238, 221, .82);
+  --ink3: rgba(246, 238, 221, .66);
   --line: rgba(216, 196, 168, .20);
   --line2: rgba(216, 196, 168, .34);
   --grainop: .16;
@@ -43,11 +47,63 @@
   /* texture */
   --grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)' opacity='.5'/%3E%3C/svg%3E");
 
-  /* type — fallback faces are metric-matched (see fonts.css) to avoid a
-     layout shift when the webfont swaps in */
-  --font-display: 'Instrument Serif', 'Instrument Serif Fallback', Georgia, serif;
-  --font-body: 'Archivo', 'Archivo Fallback', system-ui, -apple-system, sans-serif;
-  --font-label: 'Archivo Narrow', 'Archivo Narrow Fallback', 'Archivo', 'Archivo Fallback', system-ui, sans-serif;
+  /* ---- type -------------------------------------------------------
+     Two families, one job each. Fallback faces are metric-matched (see
+     fonts.css) so the webfont swap doesn't shift layout.
+
+     --font-body   Everything a reader actually reads or operates:
+                   paragraphs, buttons, inputs, navigation, captions,
+                   labels, card titles, metadata, numbers. Inter is drawn
+                   for screen UI — tall x-height, open apertures, real
+                   distinction between I/l/1 — so it holds up at the 11px
+                   the eyebrows and captions run at.
+
+     --font-display  Playfair Display, a transitional high-contrast serif.
+                   Its thin strokes disappear below ~24px, so it is restricted
+                   to headings and prominent display type only:
+                     • h1 and hero titles at 32px+
+                     • section titles, pull quotes and large decorative
+                       numerals at 24px+
+                   Never on body copy, UI, card titles or metadata, and
+                   never below 24px. See --type-display-min below.
+
+     --font-label  No longer a separate condensed family. Small uppercase
+                   labels were set in Archivo Narrow at 9.5–12px, where
+                   condensed letterforms and 0.2em tracking fight each
+                   other; they now use the body face at a raised floor. */
+  --font-display: 'Playfair Display', 'Playfair Fallback', Georgia, 'Times New Roman', serif;
+  --font-body: 'Inter', 'Inter Fallback', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-label: var(--font-body);
+
+  /* The smallest size --font-display may be used at. Enforced by eye and
+     by the audit in tools/verify.mjs, not by CSS itself. */
+  --type-display-min: 24px;
+
+  /* Hero scrim. MUST be applied to a full-bleed layer (position:absolute;
+     inset:0) — never to the width-constrained text container, which would
+     paint a hard-edged rectangle across the photograph instead of a
+     gradient that blends.
+
+     Hero text is bottom-anchored, so the top stays light enough to read
+     the image and the ramp reaches .82+ across the band the text actually
+     occupies. .76 is the measured floor at which 11–12px cream text clears
+     WCAG AA (4.5:1) over a bright area of a photograph. */
+  --hero-scrim: linear-gradient(
+    180deg,
+    rgba(20, 14, 10, .20) 0%,
+    rgba(20, 14, 10, .38) 30%,
+    rgba(20, 14, 10, .78) 62%,
+    rgba(20, 14, 10, .92) 100%
+  );
+
+  /* Hero text sits across the whole scrim, including the lighter top third
+     where a bright sky can sit directly behind an 11px label. Darkening
+     the whole photograph enough to fix that would flatten the image, so
+     the small text carries its own shadow instead: contrast is created at
+     the glyph edge, where it is actually needed, and the photograph stays
+     legible as a photograph. */
+  --hero-text-shadow: 0 1px 2px rgba(12, 8, 5, .55), 0 2px 14px rgba(12, 8, 5, .40);
+  --hero-title-shadow: 0 2px 6px rgba(12, 8, 5, .42), 0 4px 28px rgba(12, 8, 5, .32);
 
   /* motion */
   --ease-editorial: cubic-bezier(.2, .7, .2, 1);
@@ -59,7 +115,7 @@
   --container-max: 1500px;
   --container-max-narrow: 1400px;
   --pad-inline: 44px;
-  --header-h: 66px;
+  --header-h: 86px;
 
   /* misc */
   --radius-pill: 999px;
@@ -80,8 +136,10 @@
   --bg2: #EFE4CE;
   --panel: #FFFBF2;
   --ink: #231A13;
-  --ink2: rgba(35, 26, 19, .66);
-  --ink3: rgba(35, 26, 19, .64);
+  /* Dark-on-light needs less lift than the dark theme, but .66/.64 were
+     almost the same value — no hierarchy. Separated and strengthened. */
+  --ink2: rgba(35, 26, 19, .82);
+  --ink3: rgba(35, 26, 19, .66);
   --line: #D8C4A8;
   --line2: #C9AE8C;
   --grainop: .09;

@@ -1,55 +1,55 @@
 {
-  "events/philippines-ambassador-welcome-dinner/philippines-ambassador-welcome-dinner-01.webp": {
-    "w": 4567,
-    "h": 3045,
-    "lqip": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR3AdFhCACJpWyTmvKG0AD+6U+CHe4gC1lO//MIOfnNrlq+mP8CLdx1UlkYFEX+zOlM5WaFmRlXHo/cJlBM/Ip9c3F7LisVzY+cMMQf7ko8w5LqJDDhz1tBf6/8i4j2Iunh1B+6aq4uj2T35Mdfoo6Z/865Wepqi7DzqhDl+BLYlI44MjFUjtpR5o1efoKydWZ4bBAHWfqLJeotCFynfDKTuWYvWdfuP+Pf/y/TnTSAOIAA",
+  "events/philippines-ambassador-welcome-dinner/philippines-ambassador-welcome-dinner-70.webp": {
+    "w": 4898,
+    "h": 3265,
+    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR4GdCIwT05l/H6d/hvgAD+6f8y16v80k56VgMWBiDZhJQ+v2LwM/HgLaH6QDK7898RZvBuRju1sFQBFOJdtLxmzIVC7OtgSL5BQauYyurfmnEC8dj0Ly+zggK4oNMKi2EWa8nD6Zcz5ovUu52pGTaP07b2Jlo1WB33opNqEbcM8scBncbEseJkQBt82VRTnPpJDOqr8HbBkPMhNYUawa7TQAA=",
     "variants": {
-      "480": "events/philippines-ambassador-welcome-dinner/philippines-ambassador-welcome-dinner-01-480.webp",
-      "960": "events/philippines-ambassador-welcome-dinner/philippines-ambassador-welcome-dinner-01-960.webp",
-      "1440": "events/philippines-ambassador-welcome-dinner/philippines-ambassador-welcome-dinner-01-1440.webp",
-      "1920": "events/philippines-ambassador-welcome-dinner/philippines-ambassador-welcome-dinner-01-1920.webp"
+      "480": "events/philippines-ambassador-welcome-dinner/philippines-ambassador-welcome-dinner-70-480.webp",
+      "960": "events/philippines-ambassador-welcome-dinner/philippines-ambassador-welcome-dinner-70-960.webp",
+      "1440": "events/philippines-ambassador-welcome-dinner/philippines-ambassador-welcome-dinner-70-1440.webp",
+      "1920": "events/philippines-ambassador-welcome-dinner/philippines-ambassador-welcome-dinner-70-1920.webp"
     }
   },
-  "events/jamil-khan-art-exhibition/jamil-khan-art-exhibition-01.webp": {
+  "events/jamil-khan-art-exhibition/jamil-khan-art-exhibition-03.webp": {
     "w": 5472,
     "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRs4AAABXRUJQVlA4IMIAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACw+BRDaAqkVq469TkxhcSCLj9EVQAA/mFckVvzQiLAGMBxfJliv5ElL10ycMsoDGN3J2OkSuHZK6ugXN5AbErOPZjNPwkPffpew+nUgoWEX+AuiOrn0W1tE05h/6gFb8+35m2q+vQ7bUvq83Or6UAxJfZdNQ4lKjkDb9EX7XRcn9VSMY1y7cso1Qt6aruiMUhEGKjwc6NBjTSjoO2RDDilfr/GTAAAAA==",
+    "lqip": "data:image/webp;base64,UklGRroAAABXRUJQVlA4IK4AAAAwBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwH1MtuAB5J3REajeZt2XDp5WrYAD+QRiscZ60Pv9zTm7e48UKl/Tx+ozSSEkTe6h7ruUBjV8F2+Ir8BCpZ0CyH9swlUzHfr2Ugx/fIw4+UGOZPcn+dgebeCvLKxChYpoqSW1qKrmDqX+ty2eXGLz4j0eFDBFCn7AToP+uWlLl/Qvn6zipZb/6s2Sg/4QAAAA=",
     "variants": {
-      "480": "events/jamil-khan-art-exhibition/jamil-khan-art-exhibition-01-480.webp",
-      "960": "events/jamil-khan-art-exhibition/jamil-khan-art-exhibition-01-960.webp",
-      "1440": "events/jamil-khan-art-exhibition/jamil-khan-art-exhibition-01-1440.webp",
-      "1920": "events/jamil-khan-art-exhibition/jamil-khan-art-exhibition-01-1920.webp"
+      "480": "events/jamil-khan-art-exhibition/jamil-khan-art-exhibition-03-480.webp",
+      "960": "events/jamil-khan-art-exhibition/jamil-khan-art-exhibition-03-960.webp",
+      "1440": "events/jamil-khan-art-exhibition/jamil-khan-art-exhibition-03-1440.webp",
+      "1920": "events/jamil-khan-art-exhibition/jamil-khan-art-exhibition-03-1920.webp"
     }
   },
-  "events/netherlands-ambassador-welcome-dinner/netherlands-ambassador-welcome-dinner-01.webp": {
-    "w": 1166,
-    "h": 777,
-    "lqip": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAACQBACdASoYABAAPu1iqU2ppaQiMAgBMB2JZABTA1ADeRwJBSpYnBCn1SaNtQAA/vDd1uTt98+CWf8e9/OXDEdmk1UUS+upKdSuEhi2MY7OHyBI9DM++PKuvyiQqnP9mPZCLzmhDCyKPVWd4XFGO+bWxv4n9sLbgWVFqC1u2UuQCbo4FxQdPvFYAAA=",
+  "events/netherlands-ambassador-welcome-dinner/netherlands-ambassador-welcome-dinner-11.webp": {
+    "w": 1182,
+    "h": 788,
+    "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAwBACdASoYABAAPu1iqU2ppaQiMAgBMB2JYwCdACFdaXaaELS8HFH/54AA/uxKlrB+Tr687N4xLKAyne2HrFBR77Aiz0KoC/Bf9rX1l0WHMjhDAFAeLKWIOLo5KDH2OLHGl5ThkZGOIwygyD9EYx+NaYnlMPP/3DRRZkTa4AA=",
     "variants": {
-      "480": "events/netherlands-ambassador-welcome-dinner/netherlands-ambassador-welcome-dinner-01-480.webp",
-      "960": "events/netherlands-ambassador-welcome-dinner/netherlands-ambassador-welcome-dinner-01-960.webp"
+      "480": "events/netherlands-ambassador-welcome-dinner/netherlands-ambassador-welcome-dinner-11-480.webp",
+      "960": "events/netherlands-ambassador-welcome-dinner/netherlands-ambassador-welcome-dinner-11-960.webp"
     }
   },
-  "events/jamil-khan-art-event/jamil-khan-art-event-01.webp": {
-    "w": 5222,
-    "h": 3481,
-    "lqip": "data:image/webp;base64,UklGRsQAAABXRUJQVlA4ILgAAACQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbAC7AYxYytoEiWUWbq0Haxqg4dAA/s7rvBK3dltC3XVFY0Kuiok+yUnnCAQJqa+HW6mas5MXhGOLQSdNzZ/kRXhv0G+ZdKYZrgT+PCxQm6zyYmhgNPQ2FaHvIfH2IzEWthzqLzAwX3n57eNXSsjyvGhSniaRrFOM/xf49oGSDXPmtTdfprsAY0BlnXlqo7c17nOlwvBCeDTB5PpA6AAA",
+  "events/jamil-khan-art-event/jamil-khan-art-event-10.webp": {
+    "w": 5155,
+    "h": 3437,
+    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoC4AApDn9ikarNPAAAA9qB6GugGCb1f2N1hFdb0Jx6z8gcIU1LO3hmHOuDpL8Q2KbSOrZWzczNvq/Hp3PQTzhJxmYqZkotX7tC5QgvawKiPL2Lib+6l/BdEdehlWh9paDtQXPxHmP5G9gTuxHk+z/h2IPqCvN3DCu2y3Fth0KGlSoLfIAA=",
     "variants": {
-      "480": "events/jamil-khan-art-event/jamil-khan-art-event-01-480.webp",
-      "960": "events/jamil-khan-art-event/jamil-khan-art-event-01-960.webp",
-      "1440": "events/jamil-khan-art-event/jamil-khan-art-event-01-1440.webp",
-      "1920": "events/jamil-khan-art-event/jamil-khan-art-event-01-1920.webp"
+      "480": "events/jamil-khan-art-event/jamil-khan-art-event-10-480.webp",
+      "960": "events/jamil-khan-art-event/jamil-khan-art-event-10-960.webp",
+      "1440": "events/jamil-khan-art-event/jamil-khan-art-event-10-1440.webp",
+      "1920": "events/jamil-khan-art-event/jamil-khan-art-event-10-1920.webp"
     }
   },
-  "events/thai-ambassador-welcome-dinner/thai-ambassador-welcome-dinner-01.webp": {
+  "events/thai-ambassador-welcome-dinner/thai-ambassador-welcome-dinner-08.webp": {
     "w": 5472,
     "h": 3648,
-    "lqip": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JYgAOcAKVFneFWiYX7j4AAP6o0eciM37meaogmiAEU/LJDmKAAojiLYWr0mkn0q1q9KK8zYBt5xH63rm8j3uGfZIaU3bTvrFk6N6zfJpQ7V2l588DpYBjd3RX6WSE8SX9HPewBw7/nwE3gPppEz/s5M/krLMTfYVefDCRLSN5qED+kAA=",
+    "lqip": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdEyAANAwHgeEVIigxAAD+Clwq5qubpYesgG9l4y6qHQxp55PTaO8cv7xLSiv/Q4y0w9FXae28hSCFlFv6m0uZendYmzVUSj9N0Bm/hOGhML7NM81pXWyJ/KQ5Y9i9w3d7/PrV+pG2eUqnNrDsbT1keGFb/Pui4YopdED23W5AAAA=",
     "variants": {
-      "480": "events/thai-ambassador-welcome-dinner/thai-ambassador-welcome-dinner-01-480.webp",
-      "960": "events/thai-ambassador-welcome-dinner/thai-ambassador-welcome-dinner-01-960.webp",
-      "1440": "events/thai-ambassador-welcome-dinner/thai-ambassador-welcome-dinner-01-1440.webp",
-      "1920": "events/thai-ambassador-welcome-dinner/thai-ambassador-welcome-dinner-01-1920.webp"
+      "480": "events/thai-ambassador-welcome-dinner/thai-ambassador-welcome-dinner-08-480.webp",
+      "960": "events/thai-ambassador-welcome-dinner/thai-ambassador-welcome-dinner-08-960.webp",
+      "1440": "events/thai-ambassador-welcome-dinner/thai-ambassador-welcome-dinner-08-1440.webp",
+      "1920": "events/thai-ambassador-welcome-dinner/thai-ambassador-welcome-dinner-08-1920.webp"
     }
   },
   "events/rickshaw-art-exhibition/rickshaw-art-exhibition-01.webp": {
@@ -63,70 +63,70 @@
       "1920": "events/rickshaw-art-exhibition/rickshaw-art-exhibition-01-1920.webp"
     }
   },
-  "events/cosmos-dialogue-george-yeo/cosmos-dialogue-george-yeo-01.webp": {
+  "events/cosmos-dialogue-george-yeo/cosmos-dialogue-george-yeo-05.webp": {
     "w": 3648,
     "h": 2432,
-    "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAAAQBQCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoRwIr/S/4DyhfHzvRloDEK0zG0AAP7Q23O9Al3sz7uvUE/Uw2jBmK3r0tz1kEdJZ2ofhLKrdUJto5jOaUNB/9hTVZ31om5pr5wF4VDAcLDRoXoTVpN1hc5CAchgjRh/VZP0kdisbM9lJZ4F0rAN1GuGtSoBm1yUAAAAAA==",
+    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdMoAC/nJDxqV3jjLj49UAAMkgHzpr45nYiOINXuZWxyFLc5oBgZ2bb//RurbGNNR7awAQfvDs7mL7fkvojEiSuvIBfeObjoyqRdx6xlOTbZdYkDem7Qo8WngL7ek8lu6Wj38IOpyGrP3fapiPml6zIafPLDSQ2qsAh+PQ3S++aSX91th4AAA=",
     "variants": {
-      "480": "events/cosmos-dialogue-george-yeo/cosmos-dialogue-george-yeo-01-480.webp",
-      "960": "events/cosmos-dialogue-george-yeo/cosmos-dialogue-george-yeo-01-960.webp",
-      "1440": "events/cosmos-dialogue-george-yeo/cosmos-dialogue-george-yeo-01-1440.webp",
-      "1920": "events/cosmos-dialogue-george-yeo/cosmos-dialogue-george-yeo-01-1920.webp"
+      "480": "events/cosmos-dialogue-george-yeo/cosmos-dialogue-george-yeo-05-480.webp",
+      "960": "events/cosmos-dialogue-george-yeo/cosmos-dialogue-george-yeo-05-960.webp",
+      "1440": "events/cosmos-dialogue-george-yeo/cosmos-dialogue-george-yeo-05-1440.webp",
+      "1920": "events/cosmos-dialogue-george-yeo/cosmos-dialogue-george-yeo-05-1920.webp"
     }
   },
-  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-01.webp": {
+  "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-09.webp": {
     "w": 2560,
     "h": 1706,
-    "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBhmhEEm0Yf79/Bg90JWKfAAAP4HzxTGCbdjbKf3IG8J0jwN/d7Kr2BoNc5uZGo3YHDjjYQYLRJoLPfcLJjRDI7kPjl8NRBGcEKmfG1gUaryMJavOBGB5C7SyZ1XAQyAqfv4zjdAjAAA",
+    "lqip": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JQBOg1gFn/rVl0F9GwMQUT6TIgADeZsczz+u1WppI/rqMzOaYqUCqoMbGIJ/1+UHqb8clAW4ARE30m5PzJaLNthHrt0/GDXYhA0isK94mkndJenBLV6tLejk/hW+/aIV6v9nU21/WyTFGPM/fBZz39mjuHrvnw/W7r4yefj+VI07NpQ1MQpGysUT4mpdFyr8Jb/UJLCVE4ukfChkFTX8z/AA=",
     "variants": {
-      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-01-480.webp",
-      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-01-960.webp",
-      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-01-1440.webp",
-      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-01-1920.webp"
+      "480": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-09-480.webp",
+      "960": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-09-960.webp",
+      "1440": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-09-1440.webp",
+      "1920": "events/annual-district-correspondent-conference-2026/annual-district-correspondent-conference-2026-09-1920.webp"
     }
   },
-  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-01.webp": {
+  "events/live-drawing-and-exhibition/live-drawing-and-exhibition-02.webp": {
     "w": 4160,
     "h": 2773,
-    "lqip": "data:image/webp;base64,UklGRtYAAABXRUJQVlA4IMoAAACwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbAC+SYtyyX79VSnGEIBDx1FPNhaQAP7SaBGvFeZiatWfabx6FDz2Ic2rN2mDaAxmvIXROMxSJvkvPZk5m2lBciT2U1bg3GctbigUUoS2wTYFgSRwDf06j7k3G6WOyIbCM/iVj8SNXXRYBrP/cgg4Gg4LNao+MhCr8zqaQQRU54kk9fOrJYW3MRPU7xXeQVlRlddh4KbT+0+gOE6FxGCN1pw7BhukKZ/6ate8rDgIuAAA",
+    "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JQBadMZFRU00fvCD+vrOwAP4nCNDiVV771AVMm5uLHxDeBIjWa3MpoODBHSDofrQG/99SX6oRtZSECIdpyh2ZhEnX/j/fgsk7z9Sq/BRH0WXfVEC8eNtmR7GnOlkdabpsVapB3kJvDCwY1Kf+zUCGUYi/yyambnqTUVlZ36AAAA==",
     "variants": {
-      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-01-480.webp",
-      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-01-960.webp",
-      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-01-1440.webp",
-      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-01-1920.webp"
+      "480": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-02-480.webp",
+      "960": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-02-960.webp",
+      "1440": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-02-1440.webp",
+      "1920": "events/live-drawing-and-exhibition/live-drawing-and-exhibition-02-1920.webp"
     }
   },
-  "events/cosmos-dialogue-bangladesh-nepal/cosmos-dialogue-bangladesh-nepal-01.webp": {
+  "events/cosmos-dialogue-bangladesh-nepal/cosmos-dialogue-bangladesh-nepal-06.webp": {
     "w": 5616,
     "h": 3744,
-    "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JbACw7CKmDjBBhHh5cUCAAP7nq914U+0Mcpk83mOziObQYl2lGJYKl121nciRJtTDcVaFRNHM10scSmUFCV62PpBHRvc8jS0erf0+YPhwCnB5CeOlUyH8oxznuo5jmg+Iq9AAH6oo+6R9rJ+tzCVoyB2YeNzWvCZ6OsXANM+yCzJ83JophegP8h8AAA==",
+    "lqip": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAAAwBACdASoYABAAPu1iqU2ppaQiMAgBMB2JagCdAYvM7dNoMWQ89SnCd+AA/uIyoVtPspsMbS868LQqp06wWPd97k/tiGxk1iLOhKlIgFeTnElqk9V4j0qJKEasnQgpBDAL+fuq5wG5qlDJzNbDu4Mmcr642i9OAap45t3PKAd+zr7rFQ8l4xRTAHyqmYnwPFOfL8EibSVg0AAA",
     "variants": {
-      "480": "events/cosmos-dialogue-bangladesh-nepal/cosmos-dialogue-bangladesh-nepal-01-480.webp",
-      "960": "events/cosmos-dialogue-bangladesh-nepal/cosmos-dialogue-bangladesh-nepal-01-960.webp",
-      "1440": "events/cosmos-dialogue-bangladesh-nepal/cosmos-dialogue-bangladesh-nepal-01-1440.webp",
-      "1920": "events/cosmos-dialogue-bangladesh-nepal/cosmos-dialogue-bangladesh-nepal-01-1920.webp"
+      "480": "events/cosmos-dialogue-bangladesh-nepal/cosmos-dialogue-bangladesh-nepal-06-480.webp",
+      "960": "events/cosmos-dialogue-bangladesh-nepal/cosmos-dialogue-bangladesh-nepal-06-960.webp",
+      "1440": "events/cosmos-dialogue-bangladesh-nepal/cosmos-dialogue-bangladesh-nepal-06-1440.webp",
+      "1920": "events/cosmos-dialogue-bangladesh-nepal/cosmos-dialogue-bangladesh-nepal-06-1920.webp"
     }
   },
-  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-01.webp": {
-    "w": 4749,
-    "h": 3166,
-    "lqip": "data:image/webp;base64,UklGRswAAABXRUJQVlA4IMAAAADwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoCGA1gToQqdUy66Es+PBrchdSAA/U13RDZ4UpN1ikCxxp4Zw9XsM3e8ZEDWOvvM1Wr369rEd9RTEsjANSxYEIHrAhR8i0QIVvCfPrj8zRIapN6Ko9f3LD/z9Vi5ZHK9uQ9HQdNNM21I4YwFZlnWYQBaF7AYKXc0ieHWG8Hw30o+pwGIx/ftn0HTF73ZqMrtVHPJICWYLkMjxvVlBGm4a1GIoAA=",
+  "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-83.webp": {
+    "w": 4097,
+    "h": 2731,
+    "lqip": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR3ABQ3oJOW3cAqj2sAAP6ok/wfp/i2OrZPsaBdbt4aXdssv4rG/vDyLZkjXGeBoLeZPeEArThmIDPmco4T47PTesavbHt01Kr91mjz/0aqZU7KXN2WV39cqIs4GIVI9k0jk6P4A9buqJE2oMQmRAS8hHwO+Nm2T5/oKxMSxQSlAAAA",
     "variants": {
-      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-01-480.webp",
-      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-01-960.webp",
-      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-01-1440.webp",
-      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-01-1920.webp"
+      "480": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-83-480.webp",
+      "960": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-83-960.webp",
+      "1440": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-83-1440.webp",
+      "1920": "events/british-high-commissioner-welcome-dinner/british-high-commissioner-welcome-dinner-83-1920.webp"
     }
   },
-  "events/cosmos-dialogue-bangladesh-south-korea/cosmos-dialogue-bangladesh-south-korea-01.webp": {
-    "w": 4113,
-    "h": 2742,
-    "lqip": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACo9CIBrdHGpLtxKULn2oAA+Fcj3q0MzfBptfbF4o5IPSQMPkIz2Gk+70mOOKLoGJGlETp8ODcIPr9/jdePUJSku1NeX7jwhvYIWSVAURkTCtnmCJ7zV5QHfmGzuszQEdf9cbZoLrGmi9VwH4xNzDNCkwKPV1zwAA==",
+  "events/cosmos-dialogue-bangladesh-south-korea/cosmos-dialogue-bangladesh-south-korea-05.webp": {
+    "w": 4368,
+    "h": 2912,
+    "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACsABxomymhYyNg7/cYAAD+1EE1b3Ywg1neO/PWRZ+efmxsO60Ssy6ZKLePRYxspxQEgbg7xd3xyi//g3wPtUMwN7epKHnj93/XlyFiEPGv+lB+QKZbd/OCkFs1rO6vUKcNeHqrAzbSPWIa18R2rweqPukzhAFAuf18M6GBUF+oB+96ooAEnAAAAA==",
     "variants": {
-      "480": "events/cosmos-dialogue-bangladesh-south-korea/cosmos-dialogue-bangladesh-south-korea-01-480.webp",
-      "960": "events/cosmos-dialogue-bangladesh-south-korea/cosmos-dialogue-bangladesh-south-korea-01-960.webp",
-      "1440": "events/cosmos-dialogue-bangladesh-south-korea/cosmos-dialogue-bangladesh-south-korea-01-1440.webp",
-      "1920": "events/cosmos-dialogue-bangladesh-south-korea/cosmos-dialogue-bangladesh-south-korea-01-1920.webp"
+      "480": "events/cosmos-dialogue-bangladesh-south-korea/cosmos-dialogue-bangladesh-south-korea-05-480.webp",
+      "960": "events/cosmos-dialogue-bangladesh-south-korea/cosmos-dialogue-bangladesh-south-korea-05-960.webp",
+      "1440": "events/cosmos-dialogue-bangladesh-south-korea/cosmos-dialogue-bangladesh-south-korea-05-1440.webp",
+      "1920": "events/cosmos-dialogue-bangladesh-south-korea/cosmos-dialogue-bangladesh-south-korea-05-1920.webp"
     }
   },
   "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-01.webp": {
@@ -139,15 +139,15 @@
       "1440": "events/keynote-session-ambassador-milam/keynote-session-ambassador-milam-01-1440.webp"
     }
   },
-  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-01.webp": {
-    "w": 5143,
-    "h": 3429,
-    "lqip": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdAywBwuiaXvKPkfnFiUr2AAD4YAQ5AZMCrGc+/yAFQqJdnsCgewekR6xCY0hanYlL+IL5J7ysB4iau9gW4Er/7326Bt0Be/GEnQeNQgHZq4eovjzUpny8/Fx9adheCSkOdROdEjAG18rMGwkPG8+7cYFDeLGLL8GYuL/YU8VV01XIoNuV7v7BGAhWthHvIjTjrTxcIx1fgAA=",
+  "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-02.webp": {
+    "w": 2964,
+    "h": 1976,
+    "lqip": "data:image/webp;base64,UklGRsoAAABXRUJQVlA4IL4AAABwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaACdL1AroBFRmuKbkwDmucBbAAD+yfLyHFk+nwsbk6bvTvev4SF3Gb6U4iCqj8CkPZ10f00fT4zizlrf14U4KyI5SaYbveZTosp6bYse1dkMLmd4OLOaG5IbEvnU0nfBoC2CAw0n/y98yhVS1/kbzuG1ZKOD//zDjv1CfB0OtzSqZz/1RjwQNW3ZyB1LYiSe0j82vHMoBTvmK1cGTRc08a4ZAAAA",
     "variants": {
-      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-01-480.webp",
-      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-01-960.webp",
-      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-01-1440.webp",
-      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-01-1920.webp"
+      "480": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-02-480.webp",
+      "960": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-02-960.webp",
+      "1440": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-02-1440.webp",
+      "1920": "events/korea-ambassador-welcome-dinner/korea-ambassador-welcome-dinner-02-1920.webp"
     }
   }
 }

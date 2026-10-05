@@ -1,7 +1,9 @@
 #!/usr/bin/env node
 // Automated pre-launch checks: dead internal links, missing images,
 // stray references to source/ or uploads/, <img> tags missing width/height
-// or alt, and duplicate ids. Run: node tools/verify.mjs
+// or alt, duplicate ids, typography rules (the display serif never below
+// 24px), and unresolved draft claims in event copy.
+// Run: node tools/verify.mjs
 
 import { readFile, readdir, stat } from 'node:fs/promises';
 import path from 'node:path';
@@ -137,15 +139,204 @@ async function checkImageDataIntegrity() {
   }
 }
 
+// Draft claims in event copy — anything wrapped [[? … ]] in
+// tools/lib/event-copy.mjs. These render highlighted on the event page on
+// purpose, and this check is the gate that stops them reaching go-live:
+// each one is either confirmed (correct the text, drop the brackets) or
+// cut. Reported separately from the structural problems above because
+// they're a content task for the client, not a build error.
+const drafts = [];
+
+async function checkDraftClaims() {
+  const file = path.join(ROOT, 'tools', 'lib', 'event-copy.mjs');
+  if (!(await exists(file))) return;
+  filesChecked++;
+  const { EVENT_COPY } = await import(`file://${file}`);
+
+  for (const [slug, copy] of Object.entries(EVENT_COPY)) {
+    const fields = [
+      ['excerpt', copy.excerpt],
+      ...(copy.body ?? []).map((b, i) => [`body[${i}]`, b]),
+      ...(copy.facts ?? []).map(f => [`facts.${f.label}`, f.value]),
+      ...(copy.pullquote ? [['pullquote', copy.pullquote.text]] : [])
+    ];
+    for (const [where, text] of fields) {
+      for (const m of String(text ?? '').matchAll(/\[\[\?([\s\S]*?)\]\]/g)) {
+        drafts.push({ slug, where, text: m[1].trim().replace(/\s+/g, ' ') });
+      }
+    }
+  }
+}
+
+// Every photo named in a `picks` list must exist in that event's image
+// chunk. scan-events.mjs already throws on this, but checking here too
+// means a bad paste into event-copy.mjs is caught by the same one command
+// the rest of the pre-launch checks run under.
+async function checkPicks() {
+  const file = path.join(ROOT, 'tools', 'lib', 'event-copy.mjs');
+  if (!(await exists(file))) return;
+  const { EVENT_COPY } = await import(`file://${file}`);
+
+  for (const [slug, copy] of Object.entries(EVENT_COPY)) {
+    const picks = copy.picks ?? [];
+    if (!picks.length) continue;
+    const chunk = path.join(ROOT, 'assets', 'data', 'images', 'events', `${slug}.json`);
+    if (!(await exists(chunk))) {
+      fail(chunk, `picks defined for "${slug}" but no image chunk exists`);
+      continue;
+    }
+    const known = new Set(Object.keys(JSON.parse(await readFile(chunk, 'utf8'))));
+    for (const pick of picks) {
+      if (!known.has(pick.src)) fail(file, `pick for "${slug}" names a photo not in that event: ${pick.src}`);
+    }
+  }
+}
+
+// ---- typography rules (see assets/css/tokens.css) --------------------
+// The display serif is a high-contrast face whose thin strokes vanish at
+// small sizes, so it is restricted to display type: 24px and up, and never
+// on body copy, UI or card/metadata text. This check reads every CSS rule
+// that applies var(--font-display) and fails if the same rule sets a
+// font-size below the floor — including the floor of a clamp(), which is
+// what a narrow viewport actually renders.
+const DISPLAY_MIN_PX = 24;
+
+function smallestPx(fontSize) {
+  // clamp(24px, 2.6vw, 32px) -> 24 ; 21px -> 21 ; 4.6em -> null (relative)
+  const clamp = fontSize.match(/clamp\(\s*([0-9.]+)px/);
+  if (clamp) return parseFloat(clamp[1]);
+  const abs = fontSize.match(/^\s*([0-9.]+)px\s*$/);
+  if (abs) return parseFloat(abs[1]);
+  return null; // em/rem/%/inherit — sized by an ancestor, can't judge here
+}
+
+async function checkTypography() {
+  const cssRoot = path.join(ROOT, 'assets', 'css');
+  const files = (await walk(cssRoot)).filter(f => f.endsWith('.css'));
+
+  for (const file of files) {
+    filesChecked++;
+    const css = await readFile(file, 'utf8');
+
+    // crude but sufficient rule splitter: selector { declarations }
+    for (const m of css.matchAll(/([^{}]+)\{([^{}]*)\}/g)) {
+      const [, selector, body] = m;
+      if (!/var\(--font-display\)/.test(body)) continue;
+
+      // font-size: <v>;  or the shorthand  font: <weight> <size>/<lh> <family>
+      const long = body.match(/font-size:\s*([^;]+)/);
+      const short = body.match(/font:\s*[^;]*?([0-9.]+px)\s*\//);
+      const size = long ? long[1] : (short ? short[1] : null);
+      if (!size) continue;
+
+      const px = smallestPx(size);
+      if (px !== null && px < DISPLAY_MIN_PX) {
+        fail(file, `display serif at ${px}px on "${selector.trim()}" — `
+          + `--font-display is for ${DISPLAY_MIN_PX}px and up; use var(--font-body) below that`);
+      }
+    }
+  }
+
+  // The condensed label family was retired; --font-label now aliases the
+  // body face. Catch any attempt to reintroduce a separate condensed
+  // stack for small uppercase text.
+  // Read the declaration's value and compare it, rather than trying to
+  // express "not this value" as a lookahead — `\s*` can match zero
+  // characters, which makes the lookahead test the leading space and
+  // pass on exactly the value it was meant to accept.
+  const tokensPath = path.join(cssRoot, 'tokens.css');
+  const tokens = await readFile(tokensPath, 'utf8');
+  const label = tokens.match(/--font-label:\s*([^;]+);/);
+  if (!label) {
+    fail(tokensPath, '--font-label is not defined');
+  } else if (label[1].trim() !== 'var(--font-body)') {
+    fail(tokensPath,
+      `--font-label should alias var(--font-body) (found: ${label[1].trim()}) — `
+      + 'small UI text must not use a separate condensed family');
+  }
+}
+
+// Board entries still waiting on a real name, portrait and biography.
+// Reported, not failed: a placeholder roster is a deliberate interim state
+// (see the header of assets/data/board.js), unlike a draft claim, which is
+// an unverified assertion about a real person and does block go-live.
+const boardPending = [];
+
+async function checkBoardPlaceholders() {
+  const file = path.join(ROOT, 'assets', 'data', 'board.js');
+  if (!(await exists(file))) return;
+  filesChecked++;
+  // Read as text rather than import(): assets/data/*.js are ES modules but
+  // package.json declares CommonJS, so Node refuses to import them. The
+  // browser loads them as modules via <script type="module">, which is why
+  // the extension has never mattered at runtime.
+  const src = await readFile(file, 'utf8');
+
+  const groupsLine = src.match(/export const GROUPS\s*=\s*\[([^\]]*)\]/);
+  const groups = groupsLine
+    ? [...groupsLine[1].matchAll(/'([^']*)'|"([^"]*)"/g)].map(m => m[1] ?? m[2])
+    : [];
+
+  // One record per `{ id: … }` block; only the fields this report needs.
+  for (const block of src.split(/\n  \{\n/).slice(1)) {
+    if (!/placeholder:\s*true/.test(block)) continue;
+    const name = block.match(/name:\s*'([^']*)'/)?.[1] ?? '(unnamed)';
+    const role = block.match(/role:\s*'([^']*)'/)?.[1] ?? '(no role)';
+    const gi = Number(block.match(/group:\s*(\d+)/)?.[1] ?? -1);
+    boardPending.push({ group: groups[gi] ?? '?', name, role });
+  }
+}
+
 async function main() {
   for (const f of await pageFiles()) await checkHtmlFile(f);
+  await checkTypography();
   await checkJsFiles();
   await checkImageDataIntegrity();
+  await checkPicks();
+  await checkDraftClaims();
+  await checkBoardPlaceholders();
 
   console.log(`Checked ${filesChecked} files.`);
   if (problems.length) {
     console.log(`\n${problems.length} problem(s) found:\n`);
     for (const p of problems) console.log(`  ✗ ${p}`);
+  }
+
+  if (drafts.length) {
+    const bySlug = new Map();
+    for (const d of drafts) {
+      if (!bySlug.has(d.slug)) bySlug.set(d.slug, []);
+      bySlug.get(d.slug).push(d);
+    }
+    console.log(`\n${drafts.length} unconfirmed draft claim(s) in event copy, across ${bySlug.size} event(s).`);
+    console.log('These are highlighted on the live page and BLOCK go-live. For each one:');
+    console.log('confirm it and delete the [[? ]] brackets, or delete the sentence.');
+    console.log('Edit tools/lib/event-copy.mjs, then re-run `node tools/scan-events.mjs`.\n');
+    for (const [slug, items] of bySlug) {
+      console.log(`  ${slug} (${items.length})`);
+      for (const d of items) {
+        const snip = d.text.length > 88 ? `${d.text.slice(0, 88)}…` : d.text;
+        console.log(`    · ${d.where}: ${snip}`);
+      }
+    }
+  }
+
+  if (boardPending.length) {
+    const byGroup = new Map();
+    for (const p of boardPending) {
+      if (!byGroup.has(p.group)) byGroup.set(p.group, []);
+      byGroup.get(p.group).push(p);
+    }
+    console.log(`\n${boardPending.length} board entr(ies) still on placeholder content.`);
+    console.log('Not a launch blocker — they are marked as pending on the page — but each');
+    console.log('needs a real name, portrait and biography in assets/data/board.js.\n');
+    for (const [group, list] of byGroup) {
+      console.log(`  ${group} (${list.length})`);
+      for (const p of list) console.log(`    · ${p.name} — ${p.role}`);
+    }
+  }
+
+  if (problems.length || drafts.length) {
     process.exitCode = 1;
   } else {
     console.log('No problems found.');

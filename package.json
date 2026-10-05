@@ -1,19 +1,29 @@
 {
-  "name": "cosmos-foundation-site",
+  "name": "cosmos-foundation",
   "version": "1.0.0",
-  "private": true,
-  "type": "module",
+  "description": "Static HTML/CSS/vanilla-JS frontend for the Cosmos Foundation website, built to the \"Print & Ember\" design system. No framework, no bundler, no build step required to run it.",
+  "main": "playwright.config.js",
   "scripts": {
-    "images": "node tools/convert-images.mjs",
-    "logos": "node tools/trace-logos.mjs",
-    "events": "node tools/scan-events.mjs",
+    "build": "node tools/scan-events.mjs",
     "verify": "node tools/verify.mjs",
-    "build": "npm run images && npm run logos && npm run events && npm run verify",
-    "serve": "npx serve ."
+    "images": "node tools/convert-images.mjs",
+    "start": "serve . -l 3000",
+    "test": "playwright test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2019331108LAZIM/design-preview-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/2019331108LAZIM/design-preview-01/issues"
+  },
+  "homepage": "https://github.com/2019331108LAZIM/design-preview-01#readme",
   "devDependencies": {
-    "imagetracerjs": "^1.2.6",
-    "sharp": "^0.33.5",
-    "svgo": "^4.1.0"
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.2"
   }
 }

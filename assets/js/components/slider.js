@@ -3,6 +3,11 @@
 // mouse-drag affordance (touch already gets native drag from the browser),
 // and the accessibility wiring the brief calls for.
 //
+// The strip is endless: the track carries clones of the slides at each end
+// so advancing past the last slide continues forward into an identical
+// copy, and the viewport is silently re-anchored to the real slide once the
+// transition lands. See the "endless loop" block in initOne.
+//
 // Expected markup (see renderCarouselShell below):
 //   <section class="carousel" data-carousel aria-roledescription="carousel">
 //     <div class="carousel__viewport" data-carousel-viewport>
@@ -16,7 +21,11 @@
 //     <div class="sr-only" data-carousel-status aria-live="polite"></div>
 //   </section>
 
-const AUTOPLAY_MS = 2000;
+const AUTOPLAY_MS = 2600;
+// Deliberately shorter than the steady cadence: the first move is what
+// tells a reader the strip is a carousel at all, and on events.html the
+// component doesn't even exist until its gallery JSON arrives.
+const FIRST_ADVANCE_MS = 900;
 const reduceMotion = () => window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 export function renderCarouselShell(id, ariaLabel, slidesHTML) {
@@ -65,7 +74,58 @@ function initOne(root) {
   }
   root.dataset.carouselInit = '1';
 
-  let index = 0;
+  const realCount = slides.length;
+
+  // ---- endless loop -------------------------------------------------
+  // Advancing off the last slide used to run `index % realCount` back to 0
+  // and animate there, which scrolls the whole strip backwards — on a
+  // 18-slide section that was a measured 7,069px rewind, and it reads as
+  // the carousel snapping back to the start rather than continuing.
+  //
+  // Instead the track is padded with clones: a copy of the last K slides
+  // before the real set and a copy of the first K after it. Moving off
+  // either end therefore continues into identical-looking clones, and once
+  // the transition lands we shift scrollLeft by exactly one set width with
+  // no animation. The pixels under the reader don't change, so the jump is
+  // invisible — the motion just keeps going in one direction forever.
+  //
+  // K is sized to the viewport rather than cloning the whole set: a card
+  // shows one slide, events.html shows about three, and a 42-photo gallery
+  // ×14 sections would otherwise triple the number of <img> nodes on the
+  // page for no visual gain.
+  const slideW = slides[0].getBoundingClientRect().width || 1;
+  const K = Math.max(1, Math.min(realCount, Math.ceil(viewport.clientWidth / slideW) + 1));
+
+  function cloneSlide(node) {
+    const c = node.cloneNode(true);
+    c.dataset.carouselClone = '1';
+    // Clones duplicate real content, so they must not be reachable by tab
+    // or read out by a screen reader — the aria-live status region and the
+    // real slides are the accessible view of this component.
+    c.setAttribute('aria-hidden', 'true');
+    c.querySelectorAll('a, button, [tabindex]').forEach(el => el.setAttribute('tabindex', '-1'));
+    return c;
+  }
+
+  const leadIn = slides.slice(realCount - K).map(cloneSlide);   // copies of the last K
+  const leadOut = slides.slice(0, K).map(cloneSlide);           // copies of the first K
+  leadIn.forEach(c => track.insertBefore(c, track.firstChild));
+  leadOut.forEach(c => track.appendChild(c));
+
+  const domSlides = Array.from(track.children);
+  const OFFSET = K;                 // real slide i lives at domSlides[OFFSET + i]
+  let domIndex = OFFSET;            // current position in domSlides
+  let index = 0;                    // current position in the real set
+
+  // Distance covered by one full pass through the real set. Measured from
+  // layout positions (not scrollLeft) so it's stable regardless of where
+  // the viewport currently sits.
+  let setWidth = 0;
+  function measureSet() {
+    setWidth = domSlides[OFFSET + realCount].offsetLeft - domSlides[OFFSET].offsetLeft;
+  }
+  measureSet();
+
   let autoplayTimer = null;
   let isPointerDown = false;
   let pointerMoved = false;
@@ -78,15 +138,14 @@ function initOne(root) {
   let programmaticScroll = false;
 
   // A dot per slide stops being usable — and stops fitting on one row —
-  // well before an event's full gallery (up to 170+ photos) does. Past
-  // DOTS_MAX, show a compact "N / total" counter instead; either way the
-  // controls row is a single fixed-height element, never zero-then-tall,
-  // which matters on events.html where a carousel starts with one
-  // placeholder slide (no controls needed yet) and is filled in moments
-  // later with the real gallery — a growing dot strip was a real,
+  // well before an event's full gallery does. Past DOTS_MAX, show a compact
+  // "N / total" counter instead; either way the controls row is a single
+  // fixed-height element, never zero-then-tall, which matters on events.html
+  // where a carousel starts with one placeholder slide and is filled in
+  // moments later with the real gallery — a growing dot strip was a real,
   // measured layout-shift source there.
   const DOTS_MAX = 12;
-  const useDots = slides.length <= DOTS_MAX;
+  const useDots = realCount <= DOTS_MAX;
   let counterEl = null;
   if (useDots) {
     dotsWrap.setAttribute('role', 'tablist');
@@ -96,8 +155,8 @@ function initOne(root) {
       dot.type = 'button';
       dot.className = 'carousel__dot';
       dot.setAttribute('role', 'tab');
-      dot.setAttribute('aria-label', `Go to slide ${i + 1} of ${slides.length}`);
-      dot.addEventListener('click', () => { goTo(i, { manual: true }); });
+      dot.setAttribute('aria-label', `Go to slide ${i + 1} of ${realCount}`);
+      dot.addEventListener('click', () => { goToReal(i, { manual: true }); });
       dotsWrap.appendChild(dot);
     });
   } else {
@@ -110,14 +169,29 @@ function initOne(root) {
 
   function announce(i) {
     const title = slides[i].querySelector('[data-slide-title]')?.textContent ?? '';
-    status.textContent = `Slide ${i + 1} of ${slides.length}${title ? `: ${title}` : ''}`;
+    status.textContent = `Slide ${i + 1} of ${realCount}${title ? `: ${title}` : ''}`;
   }
 
   function updateUI(i) {
     dots.forEach((d, di) => d.setAttribute('aria-current', String(di === i)));
-    if (counterEl) counterEl.textContent = `${i + 1} / ${slides.length}`;
+    if (counterEl) counterEl.textContent = `${i + 1} / ${realCount}`;
     prevBtn.disabled = false;
     nextBtn.disabled = false;
+  }
+
+  // Pull domIndex back into the real set, shifting scrollLeft by the same
+  // amount so nothing moves on screen. Runs with snapping already off (see
+  // animateScrollTo's finish) so the browser doesn't try to re-snap the
+  // teleport.
+  function normalize() {
+    if (domIndex >= OFFSET + realCount) {
+      domIndex -= realCount;
+      viewport.scrollLeft -= setWidth;
+    } else if (domIndex < OFFSET) {
+      domIndex += realCount;
+      viewport.scrollLeft += setWidth;
+    }
+    index = domIndex - OFFSET;
   }
 
   // A fixed-duration eased scroll, not the browser's native
@@ -129,12 +203,12 @@ function initOne(root) {
   // without being an abrupt cut.
   let scrollAnimFrame = null;
   let scrollAnimFallback = null;
-  function animateScrollTo(target, duration = 320) {
+  function animateScrollTo(target, onDone, duration = 320) {
     if (scrollAnimFrame) cancelAnimationFrame(scrollAnimFrame);
     if (scrollAnimFallback) clearTimeout(scrollAnimFallback);
     const start = viewport.scrollLeft;
     const distance = target - start;
-    if (Math.abs(distance) < 1) { programmaticScroll = false; return; }
+    if (Math.abs(distance) < 1) { programmaticScroll = false; if (onDone) onDone(); return; }
     const startTime = performance.now();
     programmaticScroll = true;
     // Same reason the drag handler below turns this off while it writes
@@ -146,6 +220,9 @@ function initOne(root) {
       scrollAnimFrame = null;
       if (scrollAnimFallback) { clearTimeout(scrollAnimFallback); scrollAnimFallback = null; }
       viewport.scrollLeft = target;
+      // Teleport back into the real set BEFORE snapping is re-enabled,
+      // otherwise the browser snaps to wherever the shift landed.
+      if (onDone) onDone();
       programmaticScroll = false;
       viewport.style.scrollSnapType = '';
     }
@@ -169,26 +246,39 @@ function initOne(root) {
     scrollAnimFallback = window.setTimeout(finish, duration + 120);
   }
 
-  function goTo(i, { manual = false, smooth = true } = {}) {
-    index = (i + slides.length) % slides.length;
-    const target = slideTargetLeft(viewport, slides[index]);
+  // Move by a signed number of slides. Always travels in the direction
+  // asked for — never unwinds across the whole strip to get there.
+  function step(delta, { manual = false, smooth = true } = {}) {
+    domIndex += delta;
+    index = ((domIndex - OFFSET) % realCount + realCount) % realCount;
+    const target = slideTargetLeft(viewport, domSlides[domIndex]);
     if (smooth && !reduceMotion()) {
-      animateScrollTo(target);
+      animateScrollTo(target, normalize);
     } else {
       if (scrollAnimFrame) { cancelAnimationFrame(scrollAnimFrame); scrollAnimFrame = null; }
-      programmaticScroll = false;
+      const prevSnap = viewport.style.scrollSnapType;
+      viewport.style.scrollSnapType = 'none';
       viewport.scrollLeft = target;
+      normalize();
+      programmaticScroll = false;
+      viewport.style.scrollSnapType = prevSnap;
     }
     updateUI(index);
     if (manual) announce(index);
   }
 
-  prevBtn.addEventListener('click', () => goTo(index - 1, { manual: true }));
-  nextBtn.addEventListener('click', () => goTo(index + 1, { manual: true }));
+  // Jump straight to a real slide (dot clicks). Stays inside the real set,
+  // so there is no wrap to resolve.
+  function goToReal(i, opts = {}) {
+    step((OFFSET + i) - domIndex, opts);
+  }
+
+  prevBtn.addEventListener('click', () => step(-1, { manual: true }));
+  nextBtn.addEventListener('click', () => step(1, { manual: true }));
 
   root.addEventListener('keydown', e => {
-    if (e.key === 'ArrowLeft') { e.preventDefault(); goTo(index - 1, { manual: true }); }
-    else if (e.key === 'ArrowRight') { e.preventDefault(); goTo(index + 1, { manual: true }); }
+    if (e.key === 'ArrowLeft') { e.preventDefault(); step(-1, { manual: true }); }
+    else if (e.key === 'ArrowRight') { e.preventDefault(); step(1, { manual: true }); }
   });
 
   // Track which slide is most visible, so dots/index stay in sync with
@@ -204,18 +294,41 @@ function initOne(root) {
   function syncIndexFromScroll() {
     const vpRect = viewport.getBoundingClientRect();
     const vpCenter = vpRect.left + vpRect.width / 2;
-    let closest = index, closestDist = Infinity;
-    slides.forEach((s, i) => {
+    let closest = domIndex, closestDist = Infinity;
+    domSlides.forEach((s, i) => {
       const r = s.getBoundingClientRect();
       const dist = Math.abs((r.left + r.width / 2) - vpCenter);
       if (dist < closestDist) { closestDist = dist; closest = i; }
     });
-    if (closest !== index) { index = closest; updateUI(index); }
+    if (closest === domIndex) return;
+    domIndex = closest;
+    // A drag that ends inside the clone buffer gets teleported back to the
+    // matching real slide. The clone is pixel-identical, so the correction
+    // is invisible — but it has to happen with snapping off, or the browser
+    // immediately snaps back to the clone.
+    programmaticScroll = true;
+    const prevSnap = viewport.style.scrollSnapType;
+    viewport.style.scrollSnapType = 'none';
+    normalize();
+    viewport.style.scrollSnapType = prevSnap;
+    programmaticScroll = false;
+    updateUI(index);
   }
   viewport.addEventListener('scroll', () => {
     if (programmaticScroll) return;
     if (scrollEndTimer) clearTimeout(scrollEndTimer);
     scrollEndTimer = setTimeout(syncIndexFromScroll, 120);
+  }, { passive: true });
+
+  // Slide widths are percentage-based, so a resize changes how far one full
+  // pass is. Re-measure, and re-anchor on the current slide.
+  let resizeTimer = null;
+  window.addEventListener('resize', () => {
+    if (resizeTimer) clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(() => {
+      measureSet();
+      step(0, { smooth: false });
+    }, 150);
   }, { passive: true });
 
   // Desktop mouse drag-to-scroll (touch/trackpad already scroll natively).
@@ -265,21 +378,35 @@ function initOne(root) {
     if (pointerMoved) { e.preventDefault(); pointerMoved = false; }
   });
 
-  // Autoplay: advances every 5s, paused on hover / focus-within / hidden tab
-  // / off-screen section / reduced motion.
+  // Autoplay, paused on hover / focus-within / hidden tab / off-screen
+  // section / reduced motion.
   let offscreen = false;
   const sectionIO = new IntersectionObserver(([entry]) => { offscreen = !entry.isIntersecting; }, { threshold: 0.2 });
   sectionIO.observe(root);
 
-  function tick() {
-    if (document.hidden || offscreen || reduceMotion()) return;
-    if (root.matches(':hover') || (document.activeElement && root.contains(document.activeElement))) return;
-    goTo(index + 1, { manual: false });
-  }
-  if (!reduceMotion()) {
-    autoplayTimer = window.setInterval(tick, AUTOPLAY_MS);
+  function paused() {
+    if (document.hidden || offscreen || reduceMotion()) return true;
+    return root.matches(':hover') || (document.activeElement && root.contains(document.activeElement));
   }
 
+  // A self-rescheduling timeout rather than setInterval, so the first move
+  // can come sooner than the steady cadence. On events.html the gallery is
+  // fetched after first paint and the carousel only initialises once it
+  // lands, so waiting a further full interval on top of that made the
+  // strip look inert for seconds after the page had visibly finished.
+  function schedule(delay) {
+    autoplayTimer = window.setTimeout(() => {
+      if (!paused()) step(1);
+      schedule(AUTOPLAY_MS);
+    }, delay);
+  }
+  if (!reduceMotion()) schedule(FIRST_ADVANCE_MS);
+
+  // Anchor on the first real slide without animating — the viewport starts
+  // at scrollLeft 0, which is inside the lead-in clones.
+  viewport.style.scrollSnapType = 'none';
+  viewport.scrollLeft = slideTargetLeft(viewport, domSlides[OFFSET]);
+  viewport.style.scrollSnapType = '';
   updateUI(0);
 }
 

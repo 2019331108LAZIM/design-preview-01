@@ -91,9 +91,17 @@ function renderSpeakers(images) {
 }
 
 function renderBoardTeaser(images) {
-  document.getElementById('board-teaser').innerHTML = BOARD.slice(0, 3).map(p => `
-    <a class="portrait-card" href="board-member.html?id=${p.id}" data-reveal>
-      <div class="portrait-card__frame">${imgTag(images, p.img, p.name, { sizes: '(max-width:560px) 46vw, 200px' })}</div>
+  // Prefer members whose names are confirmed. The board roster is largely
+  // placeholder while the new list is awaited (see assets/data/board.js),
+  // and a homepage teaser reading "Name to be confirmed" three times would
+  // be a poor front door — the full, honestly-marked roster is one click
+  // away on the board page. Falls back to placeholders only if there
+  // aren't three confirmed names.
+  const named = BOARD.filter(p => !p.placeholder);
+  const teaser = [...named, ...BOARD.filter(p => p.placeholder)].slice(0, 3);
+  document.getElementById('board-teaser').innerHTML = teaser.map(p => `
+    <a class="portrait-card${p.placeholder ? ' portrait-card--placeholder' : ''}" href="board-member.html?id=${p.id}" data-reveal>
+      <div class="portrait-card__frame">${imgTag(images, p.img, p.placeholder ? '' : p.name, { sizes: '(max-width:560px) 46vw, 200px' })}</div>
       <div class="portrait-card__name">${p.name}</div>
       <div class="portrait-card__role">${p.role}</div>
     </a>
@@ -153,7 +161,9 @@ async function fillRecentEventCard(event) {
     fetch(`assets/data/galleries/${event.id}.json`)
   ]);
   const gallery = res.ok ? await res.json() : [];
-  const photos = gallery.length ? gallery : [{ src: event.cover, caption: '' }];
+  // The gallery file is the event's selection, already in display order —
+  // the same set the events page and the event's own gallery show.
+  const photos = gallery;
   const track = document.getElementById(`${event.id}-home-track`);
   if (!track) return;
   track.innerHTML = photos.map(g => recentEventSlideHTML(g, images, event)).join('');

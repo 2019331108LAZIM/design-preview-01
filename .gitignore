@@ -8,3 +8,13 @@ source/
 
 # Internal dev notes, not for public viewing
 HANDOVER.md
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# trace-logos.mjs QA output (regenerate with: node tools/trace-logos.mjs)
+tools/.logo-diff/

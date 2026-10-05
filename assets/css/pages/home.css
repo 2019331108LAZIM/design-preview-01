@@ -28,7 +28,7 @@
 
 .hero__scrim {
   position: absolute; inset: 0; z-index: 2;
-  background: linear-gradient(180deg, rgba(193,85,44,.20), rgba(28,20,16,.12) 40%, rgba(28,20,16,.86));
+  background: var(--hero-scrim);
 }
 .hero .vignette { z-index: 2; }
 .hero__grain {
@@ -49,10 +49,15 @@
 .hero__kicker {
   display: flex; align-items: center; gap: 12px;
   margin-bottom: 20px;
-  font: 600 10.5px/1 var(--font-label);
-  letter-spacing: .28em;
+  text-shadow: var(--hero-text-shadow);
+  font: 600 12px/1.3 var(--font-label);
+  letter-spacing: .16em;
   text-transform: uppercase;
-  color: var(--gold-ui);
+  /* Was var(--gold-ui) — mustard on a bright sky is the weakest pairing in
+     the hero, and no amount of scrim fixes a hue that close to the
+     background's. Cream carries the label; the gold rule beside it keeps
+     the accent. */
+  color: #F6EEDD;
 }
 .hero__rule { width: 44px; height: 1px; background: var(--gold-ui); }
 .hero__title {
@@ -61,16 +66,17 @@
   font-family: var(--font-display);
   font-weight: 400;
   font-size: clamp(40px, 7.2vw, 112px);
-  line-height: .92;
+  line-height: 1.08;
   letter-spacing: -.015em;
   color: #F6EEDD;
+  text-shadow: var(--hero-title-shadow);
   position: relative;
 }
 .hero__title-shadow { position: absolute; left: -3px; top: 3px; color: rgba(178,58,46,.42); z-index: 0; }
 .hero__title-fg { position: relative; z-index: 1; }
-.hero__dek { margin: 22px 0 0; max-width: 52ch; font: 400 16.5px/1.6 var(--font-body); color: rgba(246,238,221,.78); }
+.hero__dek { text-shadow: var(--hero-text-shadow);  margin: 22px 0 0; max-width: 52ch; font: 400 16.5px/1.6 var(--font-body); color: rgba(246,238,221,.78); }
 .hero__foot { margin-top: 36px; }
-.hero__scroll {
+.hero__scroll { text-shadow: var(--hero-text-shadow); 
   display: flex; align-items: center; gap: 10px;
   color: rgba(246,238,221,.6);
   font: 500 11px/1 var(--font-body);
@@ -86,8 +92,24 @@
 /* ---- mission ---------------------------------------------------------- */
 
 .mission__grid { display: grid; grid-template-columns: minmax(0,1.35fr) minmax(0,1fr); gap: 70px; align-items: start; }
-.mission__lead { font-family: var(--font-display); font-size: clamp(24px, 2.5vw, 40px); line-height: 1.24; letter-spacing: -.01em; color: var(--ink); }
-.mission__body { margin-top: 26px; max-width: 60ch; font: 400 15.5px/1.75 var(--font-body); color: var(--ink2); }
+/* The lead was sized for the old display face. Playfair is wider and has a
+   much larger x-height, so the same clamp produced a wall of type that
+   dominated the section. Smaller, with a measure capped in ch so the line
+   length stays readable instead of running the full column. */
+.mission__lead {
+  font-family: var(--font-display);
+  font-size: clamp(24px, 1.75vw, 31px);
+  line-height: 1.34;
+  letter-spacing: -.005em;
+  /* 30ch was too tight: it produced ~31 characters a line over 10 lines,
+     well under the 45–75 band where continuous text reads comfortably, and
+     the dropcap indenting the first three of those made the block look
+     ragged. 46ch lets the column govern on normal screens and only caps
+     the measure on very wide ones. */
+  max-width: 46ch;
+  color: var(--ink);
+}
+.mission__body { margin-top: 24px; max-width: 58ch; font: 400 16.5px/1.65 var(--font-body); color: var(--ink2); }
 .mission__grid .text-link { margin-top: 32px; }
 @media (max-width: 900px) { .mission__grid { grid-template-columns: 1fr; } }
 
@@ -99,7 +121,7 @@
   display: flex; align-items: flex-end; justify-content: space-between; gap: 20px;
   margin-bottom: 26px;
 }
-.archive-strip__title { font-size: clamp(26px, 3vw, 46px); line-height: 1; margin-top: 12px; }
+.archive-strip__title { font-size: clamp(26px, 3vw, 46px); line-height: 1.12; margin-top: 12px; }
 .archive-strip__scroller {
   display: flex; gap: 26px;
   overflow-x: auto;
@@ -118,8 +140,8 @@
   display: flex; align-items: flex-end; justify-content: space-between; gap: 24px;
   margin-bottom: 34px; border-top: 1px solid var(--line2); padding-top: 26px;
 }
-.initiatives-grid__head h2 { font-size: clamp(30px, 3.6vw, 58px); line-height: 1; }
-.initiatives-grid__head p { margin: 0; max-width: 34ch; font: 400 13.5px/1.65 var(--font-body); color: var(--ink2); }
+.initiatives-grid__head h2 { font-size: clamp(30px, 3.6vw, 58px); line-height: 1.12; }
+.initiatives-grid__head p { margin: 0; max-width: 34ch; font: 400 13.5px/1.6 var(--font-body); color: var(--ink2); }
 
 .init-card {
   position: relative; overflow: hidden;
@@ -136,27 +158,27 @@
 .init-card__bg img { width: 100%; height: 100%; object-fit: cover; }
 .init-card__scrim { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(28,20,16,.05), rgba(28,20,16,.88)); }
 .init-card__content { position: relative; height: 100%; min-height: inherit; display: flex; flex-direction: column; justify-content: flex-end; padding: 30px; }
-.init-card__eyebrow { font: 600 10px/1 var(--font-label); letter-spacing: .26em; text-transform: uppercase; color: #E0A63B; margin-bottom: 14px; }
-.init-card__title { margin: 0; font-family: var(--font-display); font-weight: 400; font-size: clamp(30px, 3.4vw, 52px); line-height: .98; color: #F6EEDD; }
+.init-card__eyebrow { font: 600 11px/1.3 var(--font-label); letter-spacing: .16em; text-transform: uppercase; color: #E0A63B; margin-bottom: 14px; }
+.init-card__title { margin: 0; font-family: var(--font-display); font-weight: 400; font-size: clamp(30px, 3.4vw, 52px); line-height: 1.08; color: #F6EEDD; }
 .init-card__dek { margin: 12px 0 0; max-width: 42ch; font: 400 14px/1.6 var(--font-body); color: rgba(246,238,221,.76); }
 
 /* ---- speakers strip ------------------------------------------------------ */
 
 .speakers-strip__head { display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; flex-wrap: wrap; margin-bottom: 12px; }
-.speakers-strip__head h2 { font-size: clamp(26px, 3.2vw, 48px); line-height: 1; margin-top: 12px; }
+.speakers-strip__head h2 { font-size: clamp(26px, 3.2vw, 48px); line-height: 1.12; margin-top: 12px; }
 .speakers-strip__scroller { display: flex; gap: 22px; overflow-x: auto; padding: 12px var(--pad-inline) 20px; }
 .speaker-card { flex: none; width: 240px; text-align: left; background: none; border: 0; padding: 0; color: inherit; display: block; }
 .speaker-card__frame { position: relative; height: 296px; overflow: hidden; background: var(--teal); border: 1px solid var(--line); border-radius: var(--radius); }
 .speaker-card__frame img { width: 100%; height: 100%; object-fit: cover; }
 .speaker-card__frame::after { content: ''; position: absolute; inset: 0; background: linear-gradient(180deg, transparent 50%, rgba(20,14,10,.7)); }
-.speaker-card__name { margin-top: 14px; font-family: var(--font-display); font-size: 22px; line-height: 1.1; color: var(--ink); }
-.speaker-card__role { margin-top: 7px; font: 600 10px/1.5 var(--font-label); letter-spacing: .2em; text-transform: uppercase; color: var(--ink3); }
+.speaker-card__name { margin-top: 14px; font-family: var(--font-body); font-weight: 600; font-size: 18px; line-height: 1.3; letter-spacing: -.01em; color: var(--ink); }
+.speaker-card__role { margin-top: 7px; font: 600 11px/1.5 var(--font-label); letter-spacing: .2em; text-transform: uppercase; color: var(--ink3); }
 
 /* ---- leadership --------------------------------------------------------- */
 
 .leadership__grid { display: grid; grid-template-columns: minmax(0,.9fr) minmax(0,1.6fr); gap: 60px; align-items: start; }
-.leadership__grid h2 { margin: 16px 0 18px; font-size: clamp(28px, 3.2vw, 48px); line-height: 1.02; }
-.leadership__grid > div:first-child p { margin: 0 0 26px; font: 400 14.5px/1.7 var(--font-body); color: var(--ink2); }
+.leadership__grid h2 { margin: 16px 0 18px; font-size: clamp(28px, 3.2vw, 48px); line-height: 1.08; }
+.leadership__grid > div:first-child p { margin: 0 0 26px; font: 400 14.5px/1.6 var(--font-body); color: var(--ink2); }
 .leadership__grid-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
 @media (max-width: 900px) { .leadership__grid { grid-template-columns: 1fr; } }
 @media (max-width: 560px) { .leadership__grid-cards { grid-template-columns: 1fr 1fr; } }
@@ -164,5 +186,5 @@
 /* ---- recent programme / events ------------------------------------------ */
 
 .recent-programme__head { display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; border-top: 1px solid var(--line2); padding-top: 26px; margin-bottom: 26px; }
-.recent-programme__head h2 { font-size: clamp(26px, 3vw, 46px); line-height: 1; }
+.recent-programme__head h2 { font-size: clamp(26px, 3vw, 46px); line-height: 1.12; }
 .recent-programme__grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(270px, 1fr)); gap: 26px; }
