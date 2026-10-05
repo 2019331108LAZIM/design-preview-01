@@ -179,6 +179,23 @@ function initOne(root) {
     nextBtn.disabled = false;
   }
 
+  // Every slide ships loading="lazy", which is right for a 42-photo strip
+  // nobody may ever scroll — but the carousel advances on its own, and on a
+  // real network it was arriving at slides whose photograph hadn't been
+  // fetched yet. The blurred LQIP is all that renders until it lands, which
+  // reads as a broken image rather than a loading one.
+  //
+  // So warm a small sliding window around the current slide: flipping the
+  // attribute to "eager" starts the fetch immediately. Only the window is
+  // promoted, never the whole gallery.
+  function warm(centre, radius) {
+    for (let d = -radius; d <= radius; d++) {
+      const s = domSlides[centre + d];
+      if (!s) continue;
+      s.querySelectorAll('img[loading="lazy"]').forEach(img => { img.loading = 'eager'; });
+    }
+  }
+
   // Pull domIndex back into the real set, shifting scrollLeft by the same
   // amount so nothing moves on screen. Runs with snapping already off (see
   // animateScrollTo's finish) so the browser doesn't try to re-snap the
@@ -264,6 +281,7 @@ function initOne(root) {
       viewport.style.scrollSnapType = prevSnap;
     }
     updateUI(index);
+    warm(domIndex, 2);
     if (manual) announce(index);
   }
 
@@ -381,7 +399,13 @@ function initOne(root) {
   // Autoplay, paused on hover / focus-within / hidden tab / off-screen
   // section / reduced motion.
   let offscreen = false;
-  const sectionIO = new IntersectionObserver(([entry]) => { offscreen = !entry.isIntersecting; }, { threshold: 0.2 });
+  const sectionIO = new IntersectionObserver(([entry]) => {
+    offscreen = !entry.isIntersecting;
+    // Widen the warm window once the reader can actually see this strip —
+    // at init we only warm the immediate neighbours, so a page with 14
+    // carousels doesn't fire 70 image requests before first paint.
+    if (entry.isIntersecting) warm(domIndex, 2);
+  }, { threshold: 0.2 });
   sectionIO.observe(root);
 
   function paused() {
@@ -408,6 +432,7 @@ function initOne(root) {
   viewport.scrollLeft = slideTargetLeft(viewport, domSlides[OFFSET]);
   viewport.style.scrollSnapType = '';
   updateUI(0);
+  warm(domIndex, 1);
 }
 
 export function initCarousels(root = document) {
