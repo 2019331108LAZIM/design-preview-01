@@ -27,14 +27,21 @@ export const GROUPS = ['Chairman, Directors & Members', 'Advisory Board', 'Honor
 
 export const BOARD = [
   {
+    // Sourced from enayetullahkhan.com/bio (his own site), October 2026.
+    // The quote field is deliberately empty: that page's pull-quote is
+    // unreplaced lorem ipsum, and the line previously here — "A small
+    // country with a long coastline cannot afford a short conversation" —
+    // came from the original mockup with no source behind it. An invented
+    // quotation attributed to a living person is the one thing these
+    // profiles must not carry. Restore it only if he confirms he said it.
     id: 'enayetullah-khan', name: 'Enayetullah Khan', role: 'Chairman',
     img: 'cosmosfoundation/ekhan-900x900-1.webp', group: 0, ink: 'var(--terra)',
-    affil: 'Chairman, Cosmos Foundation · Editor-in-Chief, United News of Bangladesh · Cosmos Group, Dhaka',
-    bio1: 'Founded the Foundation in 2015 to give the Group\u2019s civic and cultural instincts a permanent institutional home, bringing four decades in publishing and media to the work of convening dialogue in Dhaka.',
-    bio2: 'Under his chairmanship the Foundation built two parallel programmes: a diplomatic track that brings former foreign ministers, ambassadors and heads of state into open conversation with a Bangladeshi audience, and an arts track spanning a gallery, a printmaking studio, a conservation organisation and a maritime research institute.',
-    quote: 'A small country with a long coastline cannot afford a short conversation.',
-    quoteSrc: 'Opening remarks, Distinguished Speakers\u2019 Series',
-    bio3: 'He continues to edit and write on regional affairs, and chairs the editorial committee that oversees the Foundation\u2019s publications and exhibition catalogues.'
+    affil: 'Chairman, Cosmos Foundation · Founder and Managing Director, Cosmos Group · Founder, United News of Bangladesh · Founding Editor, Dhaka Courier',
+    bio1: 'Enayetullah Khan is a Bangladeshi entrepreneur, author, journalist and patron of the arts. Born in Dhaka in 1953, he took his Master’s in Mass Communication and Journalism at the University of Dhaka in 1975 and taught briefly in the same department before leaving to begin a business career.',
+    bio2: 'He is Founder and Managing Director of the Cosmos Group, which incorporates more than a dozen companies operating at home and abroad across oil and gas, mining, telecommunications, instrumentation, shipping and logistics, media, manufacturing and trading. The group commenced formal operations in 1973, beginning in trading with shipping interests, though its roots reach back to his grandfather Amanat Khan — a prominent figure in Chittagong society, one of the first Muslim members of the Legislative Assembly, and the first chairman of the Chittagong Port Authority. In media he established United News of Bangladesh, the first fully digitalised wire service in South Asia, and is founding editor of the independent newsweekly Dhaka Courier.',
+    quote: '',
+    quoteSrc: '',
+    bio3: 'The arts and conservation run alongside the business. In 2009 he established Cosmos-Atelier71, a printmaking studio equipped to a standard rare in Bangladesh, and he founded Gallery Cosmos as a contemporary space for the country’s artists. He chairs a wildlife conservancy working to protect the Royal Bengal Tiger, and has written or co-written three books on Bangladesh’s heritage: Bangladesh: Splendours of the Past (2001), which drew attention to the archaeology of Wari-Bateshwar; The Bangladesh Sundarbans (2011); and Boats: A Treasure of Bangladesh (2014), with the naval architect Yves Marre.',
   },
   {
     id: 'vice-chairman', name: 'Name to be confirmed', role: 'Vice Chairman',
